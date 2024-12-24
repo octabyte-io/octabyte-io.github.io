@@ -20,11 +20,11 @@ Unlock the true potential of open-source applications with our fully managed ser
 <div style="display:flex">
     <div style="display:flex;flex-direction:column">
         <img src="/static/images/applications/live-chat/typebot/logo.png" width="50">
-        [Typebot](/fully-managed-open-source-services/applications/live-chat/typebot)
+        <a href="/fully-managed-open-source-services/applications/live-chat/typebot">TypeBot</a>
     </div>
     <div style="display:flex;flex-direction:column">
         <img src="/static/images/applications/automation/n8n/logo.png" width="50">
-        [N8N](/fully-managed-open-source-services/applications/automation/n8n)
+        <a href="/fully-managed-open-source-services/applications/automation/n8n">N8N</a>
     </div>
 </div>
 
