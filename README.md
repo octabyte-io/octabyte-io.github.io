@@ -17,6 +17,10 @@ Unlock the true potential of open-source applications with our fully managed ser
 
 - [View all applications](/fully-managed-open-source-services/applications)
 
+|Softwares|  |
+|---------|--|
+|<img src="/static/images/applications/live-chat/typebot/logo.png" width="50"> Typebot | <img src="/static/images/applications/automation/n8n/logo.png" width="50"> N8N |
+
 |Softwares|  |  |  |  |  |  |  |
 |---------|--|--|--|--|--|--|--|
 |<img src="/static/images/applications/live-chat/typebot/logo.png" width="50"> | [Typebot](/fully-managed-open-source-services/applications/live-chat/typebot) | <img src="/static/images/applications/automation/n8n/logo.png" width="50"> | [N8N](/fully-managed-open-source-services/applications/automation/n8n) | <img src="/static/images/applications/cms/directus/logo.png" width="50"> | [Directus](/fully-managed-open-source-services/applications/cms/directus) | <img src="/static/images/applications/business-intelligence/superset/logo.png" width="50"> | [Superset](/fully-managed-open-source-services/applications/business-intelligence/superset) | <img src="/static/images/applications/documentation/bookstack/logo.png" width="50"> | [BookStack](/fully-managed-open-source-services/applications/documentation/bookstack)
