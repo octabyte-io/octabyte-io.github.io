@@ -17,18 +17,13 @@ Unlock the true potential of open-source applications with our fully managed ser
 
 - [View all applications](/fully-managed-open-source-services/applications)
 
-<div style="display:flex">
-    <div style="display:flex;flex-direction:column">
-        <img src="/static/images/applications/live-chat/typebot/logo.png" width="50">
-        <a href="/fully-managed-open-source-services/applications/live-chat/typebot">TypeBot</a>
-    </div>
-    <div style="display:flex;flex-direction:column">
-        <img src="/static/images/applications/automation/n8n/logo.png" width="50">
-        <a href="/fully-managed-open-source-services/applications/automation/n8n">N8N</a>
-    </div>
-</div>
+|Softwares|  |  |  |  |  |  |  |
+|---------|--|--|--|--|--|--|--|
+|<img src="/static/images/applications/live-chat/typebot/logo.png" width="50"> | [Typebot](/fully-managed-open-source-services/applications/live-chat/typebot) | <img src="/static/images/applications/automation/n8n/logo.png" width="50"> | [N8N](/fully-managed-open-source-services/applications/automation/n8n) | <img src="/static/images/applications/cms/directus/logo.png" width="50"> | [Directus](/fully-managed-open-source-services/applications/cms/directus) | <img src="/static/images/applications/business-intelligence/superset/logo.png" width="50"> | [Superset](/fully-managed-open-source-services/applications/business-intelligence/superset) | <img src="/static/images/applications/documentation/bookstack/logo.png" width="50"> | [BookStack](/fully-managed-open-source-services/applications/documentation/bookstack)
+| <img src="/static/images/applications/project-management/taiga/logo.png" width="50"> | [Taiga](/fully-managed-open-source-services/applications/project-management/taiga) | <img src="/static/images/applications/crm-erp/frappehr/logo.png" width="50"> | [FrappeHR](/fully-managed-open-source-services/applications/crm-erp/frappehr) | <img src="/static/images/applications/crm-erp/twenty/logo.png" width="50"> | [Twenty](/fully-managed-open-source-services/applications/crm-erp/twenty) | <img src="/static/images/applications/live-chat/chatwoot/logo.png" width="50"> | [Chatwoot](/fully-managed-open-source-services/applications/live-chat/chatwoot)
 
-| Application | | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | | <img src="/static/images/applications/live-chat/typebot/logo.png" width="50"> | [Typebot](/fully-managed-open-source-services/applications/live-chat/typebot) | <img src="/static/images/applications/automation/n8n/logo.png" width="50"> | [N8N](/fully-managed-open-source-services/applications/automation/n8n) | <img src="/static/images/applications/cms/directus/logo.png" width="50"> | [Directus](/fully-managed-open-source-services/applications/cms/directus) | <img src="/static/images/applications/business-intelligence/superset/logo.png" width="50"> | [Superset](/fully-managed-open-source-services/applications/business-intelligence/superset) | <img src="/static/images/applications/documentation/bookstack/logo.png" width="50"> | [BookStack](/fully-managed-open-source-services/applications/documentation/bookstack) | <img src="/static/images/applications/project-management/taiga/logo.png" width="50"> | [Taiga](/fully-managed-open-source-services/applications/project-management/taiga) | <img src="/static/images/applications/crm-erp/frappehr/logo.png" width="50"> | [FrappeHR](/fully-managed-open-source-services/applications/crm-erp/frappehr) | <img src="/static/images/applications/crm-erp/twenty/logo.png" width="50"> | [Twenty](/fully-managed-open-source-services/applications/crm-erp/twenty) | <img src="/static/images/applications/live-chat/chatwoot/logo.png" width="50"> | [Chatwoot](/fully-managed-open-source-services/applications/live-chat/chatwoot) |
+
+| Application | | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | |  |  |  |  |  |  |  |  |  |
 
 ### Open source development
 
