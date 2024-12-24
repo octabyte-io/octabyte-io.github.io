@@ -1,0 +1,75 @@
+baseURL: "https://octabyte.io/"
+languageCode: "en-us"
+
+title: "OctaByte"
+
+googleAnalytics: "G-TST1VKBPZE"
+
+params:
+  description: Effortlessly deploy, manage, and scale over 350+ open-source applications with OctaByte. Enjoy reliable hosting, automated updates, backups, and dedicated support for all your software needs.
+  keywords: OctaByte, managed open-source hosting, open-source software management, deploy open-source apps, automated updates, secure hosting, cloud hosting for open-source apps, managed services for software, OctaByte hosting solutions.
+
+  logo: "/images/logo.png"
+  favicon: "/images/favicon.ico"
+  cover: "/images/cover.png"
+
+  copyright: "2024 OctaByte. All rights reserved."
+
+  liveChat: false
+  email: support@octabyte.io
+
+  social:
+    facebook: "https://www.facebook.com/octabyte.io/"
+    twitter: "https://x.com/octabyte_io"
+    linkedin: "https://www.linkedin.com/company/octabyte-io"
+
+menus:
+  main:
+    - name: "Applications"
+      url: "/fully-managed-open-source-services/applications"
+      weight: 2
+
+    - name: "Databases"
+      url: "/fully-managed-open-source-services/databases"
+      weight: 3
+
+    - name: "Development"
+      url: "/fully-managed-open-source-services/development"
+      weight: 4
+
+    - name: "Hosting and Infrastructure"
+      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
+      weight: 5
+
+  buttons:
+    - name: "All softwares"
+      url: "/fully-managed-open-source-services"
+
+  footer:
+    - name: "350+ softwares"
+      url: "/fully-managed-open-source-services"
+      weight: 1
+
+    - name: "Applications"
+      url: "/fully-managed-open-source-services/applications"
+      weight: 2
+
+    - name: "Databases"
+      url: "/fully-managed-open-source-services/databases"
+      weight: 3
+
+    - name: "Development"
+      url: "/fully-managed-open-source-services/development"
+      weight: 4
+
+    - name: "Hosting and Infrastructure"
+      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
+      weight: 5
+
+    - name: "How it works"
+      url: "/how-it-works"
+      weight: 6
+
+    - name: "Terms and Conditions"
+      url: "/terms-and-conditions"
+      weight: 7
