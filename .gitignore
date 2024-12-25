@@ -160,4 +160,6 @@ extractor/
 
 .DS_Store
 
+working/
+
 # End of https://www.toptal.com/developers/gitignore/api/hugo,node
