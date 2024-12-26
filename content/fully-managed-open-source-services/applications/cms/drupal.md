@@ -3,35 +3,38 @@ draft: false
 title: Drupal fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/drupal/screenshot-1.jpg
-  description: Drupal is a flexible, scalable, and secure CMS that allows you to build
+  description:
+    Drupal is a flexible, scalable, and secure CMS that allows you to build
     and manage content-rich websites. With thousands of modules and customization
     options, Drupal is perfect for websites of any size, from blogs to enterprise-level
     platforms.
-  keywords: Drupal CMS, content management system, customizable CMS, scalable CMS,
+  keywords:
+    Drupal CMS, content management system, customizable CMS, scalable CMS,
     flexible website builder, secure website platform, Drupal features, Drupal modules,
     Drupal for businesses, Drupal for government, CMS for high traffic websites
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Drupal
-    url: /fully-managed-open-source-services/applications/cms/drupal
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Drupal
+      url: /fully-managed-open-source-services/applications/cms/drupal
 content:
   id: drupal
   name: Drupal
-  title: The Ultimate Content Management System for Flexibility, Customization, and
+  title:
+    The Ultimate Content Management System for Flexibility, Customization, and
     Scalability
   logo: /images/applications/cms/drupal/logo.png
   website: https://www.drupal.org/project/drupal
   iframe_website: /website/applications/cms/drupal
   screenshots:
-  - /images/applications/cms/drupal/screenshot-1.jpg
-  - /images/applications/cms/drupal/screenshot-2.jpg
+    - /images/applications/cms/drupal/screenshot-1.jpg
+    - /images/applications/cms/drupal/screenshot-2.png
 ---
 
 ## Overview

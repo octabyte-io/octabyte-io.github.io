@@ -2,10 +2,12 @@
 draft: false
 title: Mautic fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/email-marketing/mautic/screenshot-1.png
-  description: Mautic is an open-source marketing automation platform offering lead
+  cover: /images/applications/email-marketing/mautic/screenshot-1.jpg
+  description:
+    Mautic is an open-source marketing automation platform offering lead
     management, activity tracking, email marketing, and multi-channel campaign tools.
-  keywords: Mautic marketing automation, Open-source marketing tools, Lead management
+  keywords:
+    Mautic marketing automation, Open-source marketing tools, Lead management
     software, Email marketing automation, Multi-channel campaigns tool, Mautic CRM
     integration, Contact activity tracking, Mautic campaign builder, Free marketing
     automation platform, Personalized email campaigns, Open-source lead tracking,
@@ -14,16 +16,16 @@ meta:
     Mautic lead nurturing, Drag-and-drop campaign builder, Multi-channel marketing
     solutions, CRM and marketing automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Email marketing
-    url: /fully-managed-open-source-services/applications/email-marketing
-  - name: Mautic
-    url: /fully-managed-open-source-services/applications/email-marketing/mautic
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Email marketing
+      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Mautic
+      url: /fully-managed-open-source-services/applications/email-marketing/mautic
 content:
   id: mautic
   name: Mautic
@@ -33,8 +35,8 @@ content:
   iframe_website: /website/applications/email-marketing/mautic
   direct_link: true
   screenshots:
-  - /images/applications/email-marketing/mautic/screenshot-1.png
-  - /images/applications/email-marketing/mautic/screenshot-2.png
+    - /images/applications/email-marketing/mautic/screenshot-1.jpg
+    - /images/applications/email-marketing/mautic/screenshot-2.webp
 ---
 
 ## Overview
