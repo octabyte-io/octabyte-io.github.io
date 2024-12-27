@@ -3,21 +3,23 @@ draft: false
 title: SearXNG fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/searxng/screenshot-1.png
-  description: SearXNG is a free, privacy-focused metasearch engine that aggregates
+  description:
+    SearXNG is a free, privacy-focused metasearch engine that aggregates
     results from 70+ search services, ensuring no tracking or profiling of users.
-  keywords: SearXNG, metasearch engine, privacy, no tracking, Tor, anonymous search,
+  keywords:
+    SearXNG, metasearch engine, privacy, no tracking, Tor, anonymous search,
     free search engine, decentralized search, secure search, privacy-focused search
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: SearXNG
-    url: /fully-managed-open-source-services/applications/search/SerpBear
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: SearXNG
+      url: /fully-managed-open-source-services/applications/search/searxng
 content:
   id: searxng
   name: SearXNG
@@ -26,8 +28,8 @@ content:
   website: https://docs.searxng.org/index.html#
   iframe_website: /website/applications/search/searxng
   screenshots:
-  - /images/applications/search/searxng/screenshot-1.png
-  - /images/applications/search/searxng/screenshot-2.png
+    - /images/applications/search/searxng/screenshot-1.png
+    - /images/applications/search/searxng/screenshot-2.png
 ---
 
 ## Overview

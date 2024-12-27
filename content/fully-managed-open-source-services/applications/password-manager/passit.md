@@ -3,33 +3,35 @@ draft: false
 title: Passit fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/passit/screenshot-1.png
-  description: Passit is a powerful password manager designed to securely store, manage,
+  description:
+    Passit is a powerful password manager designed to securely store, manage,
     and share passwords across multiple devices. With advanced security features and
     seamless access, Passit ensures your digital life stays safe.
-  keywords: password manager, secure passwords, digital security, password protection,
+  keywords:
+    password manager, secure passwords, digital security, password protection,
     password sharing, password manager for devices, secure password storage, password
     manager for teams, self-hosted password manager
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Passit
+      url: /fully-managed-open-source-services/applications/password-manager/passit
 content:
   id: passit
   name: Passit
-  title: 'Secure Your Digital Life with Passit: The Ultimate Password Manager'
+  title: "Secure Your Digital Life with Passit: The Ultimate Password Manager"
   logo: /images/applications/password-manager/passit/logo.png
   website: https://passit.io/
   iframe_website: /website/applications/password-manager/passit
   screenshots:
-  - /images/applications/password-manager/passit/screenshot-1.png
-  - /images/applications/password-manager/passit/screenshot-2.png
+    - /images/applications/password-manager/passit/screenshot-1.png
+    - /images/applications/password-manager/passit/screenshot-2.png
 ---
 
 ## Overview

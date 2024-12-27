@@ -3,23 +3,25 @@ draft: false
 title: Yopass fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/yopass/screenshot-1.png
-  description: Yopass provides secure, end-to-end encryption for sensitive files and
+  description:
+    Yopass provides secure, end-to-end encryption for sensitive files and
     messages, ensuring privacy with features like self-destruction and one-time downloads.
     Open-source and fully auditable.
-  keywords: Yopass, end-to-end encryption, secure file sharing, one-time downloads,
+  keywords:
+    Yopass, end-to-end encryption, secure file sharing, one-time downloads,
     self-destructive messages, open-source encryption, data privacy, secure messaging,
     encrypted file sharing, online file security, file encryption tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Yopass
+      url: /fully-managed-open-source-services/applications/password-manager/yopass
 content:
   id: yopass
   name: Yopass
@@ -28,8 +30,8 @@ content:
   website: https://yopass.se/
   iframe_website: /website/applications/password-manager/yopass
   screenshots:
-  - /images/applications/password-manager/yopass/screenshot-1.png
-  - /images/applications/password-manager/yopass/screenshot-2.png
+    - /images/applications/password-manager/yopass/screenshot-1.png
+    - /images/applications/password-manager/yopass/screenshot-2.png
 ---
 
 ## Overview

@@ -3,22 +3,24 @@ draft: false
 title: KeeWeb fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/keeweb/screenshot-1.jpg
-  description: KeeWeb is a free, open-source password manager that is compatible with
+  description:
+    KeeWeb is a free, open-source password manager that is compatible with
     KeePass, offering both web and desktop apps for secure password storage and management.
-  keywords: KeeWeb, open-source password manager, KeePass compatible, password management,
+  keywords:
+    KeeWeb, open-source password manager, KeePass compatible, password management,
     cloud sync, offline access, secure password storage, KDBX, password manager app,
     free password manager
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: KeeWeb
+      url: /fully-managed-open-source-services/applications/password-manager/keeweb
 content:
   id: keeweb
   name: KeeWeb
@@ -27,8 +29,8 @@ content:
   website: https://keeweb.info/
   iframe_website: /website/applications/password-manager/keeweb
   screenshots:
-  - /images/applications/password-manager/keeweb/screenshot-1.jpg
-  - /images/applications/password-manager/keeweb/screenshot-2.jpg
+    - /images/applications/password-manager/keeweb/screenshot-1.jpg
+    - /images/applications/password-manager/keeweb/screenshot-2.jpg
 ---
 
 ## Overview

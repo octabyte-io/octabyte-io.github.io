@@ -3,23 +3,25 @@ draft: false
 title: Password Pusher fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/password/screenshot-1.png
-  description: Password Pusher allows users to securely share passwords and sensitive
+  description:
+    Password Pusher allows users to securely share passwords and sensitive
     data through one-time-use URLs that expire after a certain time or number of views,
     ensuring privacy and control.
-  keywords: secure password sharing, temporary password link, password manager, encrypted
+  keywords:
+    secure password sharing, temporary password link, password manager, encrypted
     data sharing, secure communication, password pusher, one-time password, password
     sharing app, secure login sharing, encrypted storage, password distribution tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Password Pusher
+      url: /fully-managed-open-source-services/applications/password-manager/password
 content:
   id: password
   name: Password Pusher
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/password-manager/password
   direct_link: true
   screenshots:
-  - /images/applications/password-manager/password/screenshot-1.png
-  - /images/applications/password-manager/password/screenshot-2.png
+    - /images/applications/password-manager/password/screenshot-1.png
+    - /images/applications/password-manager/password/screenshot-2.png
 ---
 
 ## Overview

@@ -3,25 +3,27 @@ draft: false
 title: Vaultwarden fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/vaultwarden/screenshot-1.jpg
-  description: Vaultwarden is a lightweight, open-source alternative to Bitwarden,
+  description:
+    Vaultwarden is a lightweight, open-source alternative to Bitwarden,
     designed for self-hosted deployments. Built in Rust, it offers secure password
     management with enterprise-grade encryption and full compatibility with Bitwarden
     clients.
-  keywords: Vaultwarden, Bitwarden, open-source password manager, self-hosted password
+  keywords:
+    Vaultwarden, Bitwarden, open-source password manager, self-hosted password
     manager, end-to-end encryption, Rust password manager, GDPR, HIPAA, password security,
     lightweight password manager, enterprise-grade security, open-source password
     manager
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Vaultwarden
+      url: /fully-managed-open-source-services/applications/password-manager/vaultwarden
 content:
   id: vaultwarden
   name: Vaultwarden
@@ -31,8 +33,8 @@ content:
   iframe_website: /website/applications/password-manager/vaultwarden
   direct_link: true
   screenshots:
-  - /images/applications/password-manager/vaultwarden/screenshot-1.jpg
-  - /images/applications/password-manager/vaultwarden/screenshot-2.jpg
+    - /images/applications/password-manager/vaultwarden/screenshot-1.jpg
+    - /images/applications/password-manager/vaultwarden/screenshot-2.jpg
 ---
 
 ## Overview
