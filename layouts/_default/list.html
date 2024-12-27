@@ -65,7 +65,13 @@
                       service.title.toLowerCase().includes(query) ||
                       service.description.toLowerCase().includes(query)
                     ) {
-                      results.push(service);
+                      const alreadyExists = results.find(
+                        (result) => result.id === service.id
+                      );
+
+                      if (!alreadyExists) {
+                        results.push(service);
+                      }
                     }
                   });
                 });

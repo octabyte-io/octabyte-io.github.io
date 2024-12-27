@@ -246,6 +246,8 @@ pricing:
           value: no
         - name: Dedicated for App
           value: Shared
+        - name: Custom Domain
+          value: no
         - name: Number of Apps
           value: 1
 
@@ -266,6 +268,8 @@ pricing:
         - name: Customization
           value: yes
         - name: Dedicated for App
+          value: yes
+        - name: Custom Domain
           value: yes
         - name: Number of Apps
           value: 1
@@ -288,6 +292,8 @@ pricing:
           value: yes
         - name: Dedicated for App
           value: yes
+        - name: Custom Domain
+          value: yes
         - name: Number of Apps
           value: up to 4
 
@@ -308,6 +314,8 @@ pricing:
         - name: Customization
           value: yes
         - name: Dedicated for App
+          value: yes
+        - name: Custom Domain
           value: yes
         - name: Number of Apps
           value: up to 10
