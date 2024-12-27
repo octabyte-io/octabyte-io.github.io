@@ -3,22 +3,25 @@ draft: false
 title: FrappeHR fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/frappehr/screenshot-1.png
-  description: FrappeHR is an open-source, modern HRMS designed to simplify HR and
+  canonical: /fully-managed-open-source-services/applications/hrms/frappehr
+  description:
+    FrappeHR is an open-source, modern HRMS designed to simplify HR and
     payroll operations while enhancing team productivity and employee satisfaction.
-  keywords: FrappeHR, open-source HRMS, HR management software, payroll automation,
+  keywords:
+    FrappeHR, open-source HRMS, HR management software, payroll automation,
     HR solution, team productivity, employee satisfaction, customizable HR software,
     affordable HR tool, ERPNext HRMS
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: FrappeHR
-    url: /fully-managed-open-source-services/applications/crm-erp/frappehr
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: FrappeHR
+      url: /fully-managed-open-source-services/applications/crm-erp/frappehr
 content:
   id: frappehr
   name: FrappeHR
@@ -28,8 +31,8 @@ content:
   iframe_website: /website/applications/crm-erp/frappehr
   direct_link: true
   screenshots:
-  - /images/applications/crm-erp/frappehr/screenshot-1.png
-  - /images/applications/crm-erp/frappehr/screenshot-2.jpg
+    - /images/applications/crm-erp/frappehr/screenshot-1.png
+    - /images/applications/crm-erp/frappehr/screenshot-2.jpg
 ---
 
 ## Overview
