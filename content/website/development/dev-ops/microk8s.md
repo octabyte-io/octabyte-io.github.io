@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Microk8s - Simplified, Scalable, and Secure Kubernetes for Developers"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/microk8s
+
 content:
   id: microk8s
   name: Microk8s

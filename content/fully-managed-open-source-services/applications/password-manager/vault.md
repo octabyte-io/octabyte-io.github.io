@@ -3,33 +3,35 @@ draft: false
 title: Vault fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/vault/screenshot-1.png
-  description: Vault is an open-source secrets management tool that securely stores,
+  description:
+    Vault is an open-source secrets management tool that securely stores,
     encrypts, and generates secrets. It provides access control, audit logging, and
     dynamic secret generation for enhanced security.
-  keywords: Vault, secrets management, secure secret storage, API key protection,
+  keywords:
+    Vault, secrets management, secure secret storage, API key protection,
     password management, data encryption, dynamic secrets, access control, audit logs,
     secure storage, secret access, encryption tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Vault
+      url: /fully-managed-open-source-services/applications/password-manager/vault
 content:
   id: vault
   name: Vault
-  title: 'Secure Secrets Management with Vault: Protect Your Sensitive Data'
+  title: "Secure Secrets Management with Vault: Protect Your Sensitive Data"
   logo: /images/applications/password-manager/vault/logo.png
   website: https://www.vaultproject.io/
   iframe_website: /website/applications/password-manager/vault
   screenshots:
-  - /images/applications/password-manager/vault/screenshot-1.png
-  - /images/applications/password-manager/vault/screenshot-2.png
+    - /images/applications/password-manager/vault/screenshot-1.png
+    - /images/applications/password-manager/vault/screenshot-2.png
 ---
 
 ## Overview

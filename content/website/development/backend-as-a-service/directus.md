@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Directus - Open Data Platform for SQL Database Management"
+
+meta:
+  canonical: /website/applications/cms/directus
+
 content:
   id: directus
   name: Directus

@@ -3,24 +3,27 @@ draft: false
 title: MailCow fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/mailcow/screenshot-1.jpg
-  description: MailCow is a modern, Docker-based email server that provides an intuitive
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/email/mailcow
+  description:
+    MailCow is a modern, Docker-based email server that provides an intuitive
     web UI for easy administration, quick setup, and seamless management of email
     applications. It supports Dovecot, Postfix, and other open-source software for
     a robust email system.
-  keywords: MailCow, Docker email server, email management, Postfix, Dovecot, email
+  keywords:
+    MailCow, Docker email server, email management, Postfix, Dovecot, email
     server solution, DKIM, web UI administration, email security, open-source email
     server, email hosting
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: MailCow
-    url: /fully-managed-open-source-services/development/dev-ops/mailcow
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: MailCow
+      url: /fully-managed-open-source-services/development/dev-ops/mailcow
 content:
   id: mailcow
   name: MailCow
@@ -29,8 +32,8 @@ content:
   website: https://mailcow.email/
   iframe_website: /website/development/dev-ops/mailcow
   screenshots:
-  - /images/development/dev-ops/mailcow/screenshot-1.jpg
-  - /images/development/dev-ops/mailcow/screenshot-2.jpg
+    - /images/development/dev-ops/mailcow/screenshot-1.jpg
+    - /images/development/dev-ops/mailcow/screenshot-2.jpg
 ---
 
 ## Overview

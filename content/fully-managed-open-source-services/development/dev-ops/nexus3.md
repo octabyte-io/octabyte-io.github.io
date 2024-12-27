@@ -3,27 +3,31 @@ draft: false
 title: Nexus3 fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/nexus3/screenshot-1.jpg
-  description: Nexus3 is the leading repository manager, supporting a wide range of
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/nexus3
+  description:
+    Nexus3 is the leading repository manager, supporting a wide range of
     build tools and enabling efficient distribution of components, binaries, and containers
     to developers worldwide.
-  keywords: Nexus3, repository manager, artifact management, build tools, component
+  keywords:
+    Nexus3, repository manager, artifact management, build tools, component
     distribution, DevOps, CI/CD, Maven, Docker, Helm, security insights, software
     development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Nexus3
-    url: /fully-managed-open-source-services/development/dev-ops/nexus3
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Nexus3
+      url: /fully-managed-open-source-services/development/dev-ops/nexus3
 content:
   id: nexus3
   name: Nexus3
-  title: "The World\u2019s Leading Repository Manager for Efficient Component and\
+  title:
+    "The World\u2019s Leading Repository Manager for Efficient Component and\
     \ Artifact Management"
   logo: /images/development/dev-ops/nexus3/logo.png
   website: https://www.sonatype.com/products/repository-oss

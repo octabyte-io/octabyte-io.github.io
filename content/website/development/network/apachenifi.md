@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "ApacheNiFi - Seamless Data Flow Automation for Efficient Integration"
+
+meta:
+  canonical: /website/applications/automation/apachenifi
+
 content:
   id: apachenifi
   name: ApacheNiFi

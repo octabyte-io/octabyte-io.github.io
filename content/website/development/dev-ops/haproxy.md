@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "HAProxy - The Ultimate Open-Source Load Balancer for High Availability and Scalability"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/infrastructure/haproxy
+
 content:
   id: haproxy
   name: HAProxy

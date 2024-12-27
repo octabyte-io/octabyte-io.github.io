@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "MinIO - High-Performance Cloud-Native Object Storage for Modern Applications"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/storage/minio
+
 content:
   id: minio
   name: MinIO

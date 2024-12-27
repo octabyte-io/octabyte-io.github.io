@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Portainer - Effortlessly Manage Containers with Portainer - Your Lightweight UI Solution"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/portainer
+
 content:
   id: portainer
   name: Portainer

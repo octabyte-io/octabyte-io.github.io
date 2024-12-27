@@ -3,23 +3,25 @@ draft: false
 title: Infisical fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/password-manager/infisical/screenshot-1.png
-  description: Infisical is an open-source, end-to-end encrypted platform designed
+  description:
+    Infisical is an open-source, end-to-end encrypted platform designed
     to manage and sync secrets securely across your team and infrastructure, preventing
     secret leaks.
-  keywords: open-source secret management, encrypted secret storage, prevent secret
+  keywords:
+    open-source secret management, encrypted secret storage, prevent secret
     leaks, sync secrets, secrets versioning, point-in-time recovery, secret referencing,
     DevOps security, Infisical, infrastructure secrets management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Password manager
-    url: /fully-managed-open-source-services/applications/password-manager
-  - name: YOURLS
-    url: /fully-managed-open-source-services/applications/password-manager/yourls
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Password manager
+      url: /fully-managed-open-source-services/applications/password-manager
+    - name: Infisical
+      url: /fully-managed-open-source-services/applications/password-manager/infisical
 content:
   id: infisical
   name: Infisical
@@ -28,8 +30,8 @@ content:
   website: https://infisical.com/
   iframe_website: /website/applications/password-manager/infisical
   screenshots:
-  - /images/applications/password-manager/infisical/screenshot-1.png
-  - /images/applications/password-manager/infisical/screenshot-2.png
+    - /images/applications/password-manager/infisical/screenshot-1.png
+    - /images/applications/password-manager/infisical/screenshot-2.png
 ---
 
 ## Overview

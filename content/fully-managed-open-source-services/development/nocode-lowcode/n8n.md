@@ -3,33 +3,36 @@ draft: false
 title: N8N fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/n8n/screenshot-1.jpg
-  description: N8N is an open-source no-code tool that connects 200+ apps, automates
+  canonical: /fully-managed-open-source-services/applications/automation/n8n
+  description:
+    N8N is an open-source no-code tool that connects 200+ apps, automates
     workflows, and keeps your data secure while offering full control and customization.
-  keywords: N8N, no-code automation, workflow automation, API integration, open-source
+  keywords:
+    N8N, no-code automation, workflow automation, API integration, open-source
     automation, data integration, app automation, automation tool, secure data, workflow
     design, cloud automation, automation software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: N8N
-    url: /fully-managed-open-source-services/development/nocode-lowcode/n8n
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: N8N
+      url: /fully-managed-open-source-services/development/nocode-lowcode/n8n
 content:
   id: n8n
   name: N8N
-  title: 'Automate Workflows with N8N: No-Code Integration for 200+ Apps'
+  title: "Automate Workflows with N8N: No-Code Integration for 200+ Apps"
   logo: /images/development/nocode-lowcode/n8n/logo.png
   website: https://n8n.io/
   iframe_website: /website/development/nocode-lowcode/n8n
   direct_link: true
   screenshots:
-  - /images/development/nocode-lowcode/n8n/screenshot-1.jpg
-  - /images/development/nocode-lowcode/n8n/screenshot-2.jpg
+    - /images/development/nocode-lowcode/n8n/screenshot-1.jpg
+    - /images/development/nocode-lowcode/n8n/screenshot-2.jpg
 ---
 
 ## Overview

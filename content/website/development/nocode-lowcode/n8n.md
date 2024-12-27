@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "N8N - Automate Your Workflows with N8N - No Code, Fully Customizable Automation"
+
+meta:
+  canonical: /website/applications/automation/n8n
+
 content:
   id: n8n
   name: N8N

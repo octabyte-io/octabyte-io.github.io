@@ -3,22 +3,25 @@ draft: false
 title: Picoshare fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/picoshare/screenshot-1.png
-  description: PicoShare offers hassle-free file uploads with direct download links
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/storage/picoshare
+  description:
+    PicoShare offers hassle-free file uploads with direct download links
     and no sign-ups required. Share files of any size, in their original form, without
     re-encoding or restrictions.
-  keywords: PicoShare, file sharing, direct download links, no sign up, no file restrictions,
+  keywords:
+    PicoShare, file sharing, direct download links, no sign up, no file restrictions,
     file preservation, upload files, share files easily, media upload, free file sharing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Picoshare
-    url: /fully-managed-open-source-services/applications/forum-community/picoshare
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Picoshare
+      url: /fully-managed-open-source-services/applications/forum-community/picoshare
 content:
   id: picoshare
   name: Picoshare
@@ -27,8 +30,8 @@ content:
   website: https://pico.rocks/
   iframe_website: /website/applications/forum-community/picoshare
   screenshots:
-  - /images/applications/forum-community/picoshare/screenshot-1.png
-  - /images/applications/forum-community/picoshare/screenshot-2.png
+    - /images/applications/forum-community/picoshare/screenshot-1.png
+    - /images/applications/forum-community/picoshare/screenshot-2.png
 ---
 
 ## Overview

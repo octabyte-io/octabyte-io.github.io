@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "K3S - The Lightweight Kubernetes Distribution for Edge, ARM, and IoT Environments"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/k3s
+
 content:
   id: k3s
   name: K3S

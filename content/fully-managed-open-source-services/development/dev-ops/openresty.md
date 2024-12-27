@@ -3,22 +3,25 @@ draft: false
 title: OpenResty fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/openresty/screenshot-1.png
-  description: OpenResty is a robust, NGINX-based platform enabling developers to
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/openresty
+  description:
+    OpenResty is a robust, NGINX-based platform enabling developers to
     build scalable, high-performance web applications and services using Lua scripting
     and enhanced modules.
-  keywords: OpenResty, NGINX-based platform, scalable web applications, Lua scripting,
+  keywords:
+    OpenResty, NGINX-based platform, scalable web applications, Lua scripting,
     high-performance web apps, automated SSL termination, web services
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: OpenResty
-    url: /fully-managed-open-source-services/development/dev-ops/openresty
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: OpenResty
+      url: /fully-managed-open-source-services/development/dev-ops/openresty
 content:
   id: openresty
   name: OpenResty
@@ -27,8 +30,8 @@ content:
   website: https://openresty.org/
   iframe_website: /website/development/dev-ops/openresty
   screenshots:
-  - /images/development/dev-ops/openresty/screenshot-1.png
-  - /images/development/dev-ops/openresty/screenshot-2.jpg
+    - /images/development/dev-ops/openresty/screenshot-1.png
+    - /images/development/dev-ops/openresty/screenshot-2.jpg
 ---
 
 ## Overview

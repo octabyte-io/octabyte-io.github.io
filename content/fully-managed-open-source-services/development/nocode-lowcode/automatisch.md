@@ -3,23 +3,26 @@ draft: false
 title: Automatisch fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/automatisch/screenshot-1.png
-  description: Automatisch is an open-source platform that allows you to automate
+  canonical: /fully-managed-open-source-services/applications/automation/automatisch
+  description:
+    Automatisch is an open-source platform that allows you to automate
     your business workflows without coding. Whether cloud-based or self-hosted, it's
     the affordable and secure solution for workflow automation.
-  keywords: business automation, open-source workflow automation, Zapier alternative,
+  keywords:
+    business automation, open-source workflow automation, Zapier alternative,
     no-code automation, self-hosted automation, data privacy, automate processes,
     affordable automation tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Automatisch
-    url: /fully-managed-open-source-services/development/nocode-lowcode/automatisch
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Automatisch
+      url: /fully-managed-open-source-services/development/nocode-lowcode/automatisch
 content:
   id: automatisch
   name: Automatisch
@@ -28,8 +31,8 @@ content:
   website: https://automatisch.io/
   iframe_website: /website/development/nocode-lowcode/automatisch
   screenshots:
-  - /images/development/nocode-lowcode/automatisch/screenshot-1.png
-  - /images/development/nocode-lowcode/automatisch/screenshot-2.webp
+    - /images/development/nocode-lowcode/automatisch/screenshot-1.png
+    - /images/development/nocode-lowcode/automatisch/screenshot-2.webp
 ---
 
 ## Overview

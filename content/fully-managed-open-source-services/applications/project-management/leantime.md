@@ -3,24 +3,26 @@ draft: false
 title: Leantime fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/leantime/screenshot-1.png
-  description: Leantime is an intuitive project management system designed for non-project
+  description:
+    Leantime is an intuitive project management system designed for non-project
     managers. Offering features like task management, project planning, knowledge
     management, and more, it's a powerful alternative to ClickUp, Monday, and Asana.
-  keywords: Leantime, project management, task management, project planning, knowledge
+  keywords:
+    Leantime, project management, task management, project planning, knowledge
     management, non-project managers, ClickUp alternative, Jira alternative, simple
     project management, kanban boards, Gantt charts, time tracking, business model
     canvas
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: Leantime
-    url: /fully-managed-open-source-services/applications/project-management/OpenProject
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Leantime
+      url: /fully-managed-open-source-services/applications/project-management/leantime
 content:
   id: leantime
   name: Leantime
@@ -29,8 +31,8 @@ content:
   website: https://leantime.io/
   iframe_website: /website/applications/project-management/leantime
   screenshots:
-  - /images/applications/project-management/leantime/screenshot-1.png
-  - /images/applications/project-management/leantime/screenshot-2.webp
+    - /images/applications/project-management/leantime/screenshot-1.png
+    - /images/applications/project-management/leantime/screenshot-2.webp
 ---
 
 ## Overview

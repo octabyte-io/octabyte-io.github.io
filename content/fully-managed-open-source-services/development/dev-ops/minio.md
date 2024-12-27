@@ -3,23 +3,26 @@ draft: false
 title: MinIO fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/minio/screenshot-1.jpg
-  description: MinIO is a high-performance, scalable, and cloud-native object storage
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/storage/minio
+  description:
+    MinIO is a high-performance, scalable, and cloud-native object storage
     solution, designed for hybrid and multi-cloud environments. It is ideal for AI/ML,
     analytics, backup/restore, and modern web applications.
-  keywords: MinIO, cloud-native storage, hybrid cloud, multi-cloud, object storage,
+  keywords:
+    MinIO, cloud-native storage, hybrid cloud, multi-cloud, object storage,
     Kubernetes-native, S3 compatible, high-performance storage, AI/ML, analytics,
     backup and restore, scalable storage
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: MinIO
-    url: /fully-managed-open-source-services/development/dev-ops/minio
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: MinIO
+      url: /fully-managed-open-source-services/development/dev-ops/minio
 content:
   id: minio
   name: MinIO
@@ -28,8 +31,8 @@ content:
   website: https://min.io/
   iframe_website: /website/development/dev-ops/minio
   screenshots:
-  - /images/development/dev-ops/minio/screenshot-1.jpg
-  - /images/development/dev-ops/minio/screenshot-2.jpg
+    - /images/development/dev-ops/minio/screenshot-1.jpg
+    - /images/development/dev-ops/minio/screenshot-2.jpg
 ---
 
 ## Overview

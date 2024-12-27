@@ -3,22 +3,25 @@ draft: false
 title: Portainer fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/portainer/screenshot-1.png
-  description: Portainer is a lightweight management UI that simplifies the deployment
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/portainer
+  description:
+    Portainer is a lightweight management UI that simplifies the deployment
     and management of Docker, Kubernetes, and Swarm environments.
-  keywords: Portainer, container management, Docker UI, Kubernetes management, Swarm
+  keywords:
+    Portainer, container management, Docker UI, Kubernetes management, Swarm
     cluster, container orchestration, GitOps integration, secure containerization,
     container automation, RBAC
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Portainer
-    url: /fully-managed-open-source-services/development/dev-ops/portainer
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Portainer
+      url: /fully-managed-open-source-services/development/dev-ops/portainer
 content:
   id: portainer
   name: Portainer
@@ -28,8 +31,8 @@ content:
   iframe_website: /website/development/dev-ops/portainer
   direct_link: true
   screenshots:
-  - /images/development/dev-ops/portainer/screenshot-1.png
-  - /images/development/dev-ops/portainer/screenshot-2.png
+    - /images/development/dev-ops/portainer/screenshot-1.png
+    - /images/development/dev-ops/portainer/screenshot-2.png
 ---
 
 ## Overview

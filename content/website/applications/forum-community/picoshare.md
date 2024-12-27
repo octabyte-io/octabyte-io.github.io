@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Picoshare - Effortless File Sharing with Direct Downloads and No Restrictions"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/storage/picoshare
+
 content:
   id: picoshare
   name: Picoshare

@@ -3,32 +3,36 @@ draft: false
 title: Strapi fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/strapi/screenshot-1.jpg
-  description: Strapi is the leading open-source headless CMS, fully customizable
+  canonical: /fully-managed-open-source-services/applications/cms/strapi
+  description:
+    Strapi is the leading open-source headless CMS, fully customizable
     and developer-first. Create scalable, API-driven web applications with ease.
-  keywords: Strapi, headless CMS, open-source CMS, content management, JavaScript
+  keywords:
+    Strapi, headless CMS, open-source CMS, content management, JavaScript
     CMS, content delivery, API-first CMS, customizable CMS, scalable CMS
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: Strapi
-    url: /fully-managed-open-source-services/development/backend-as-a-service/strapi
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: Strapi
+      url: /fully-managed-open-source-services/development/backend-as-a-service/strapi
 content:
   id: strapi
   name: Strapi
-  title: "Effortlessly Build and Manage Content with Strapi \u2013 The Leading Open-Source\
+  title:
+    "Effortlessly Build and Manage Content with Strapi \u2013 The Leading Open-Source\
     \ Headless CMS"
   logo: /images/development/backend-as-a-service/strapi/logo.png
   website: https://strapi.io/
   iframe_website: /website/development/backend-as-a-service/strapi
   screenshots:
-  - /images/development/backend-as-a-service/strapi/screenshot-1.jpg
-  - /images/development/backend-as-a-service/strapi/screenshot-2.jpg
+    - /images/development/backend-as-a-service/strapi/screenshot-1.jpg
+    - /images/development/backend-as-a-service/strapi/screenshot-2.jpg
 ---
 
 ## Overview

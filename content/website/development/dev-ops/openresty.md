@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "OpenResty - The Ultimate Platform for Scalable and Dynamic Web Applications"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/infrastructure/openresty
+
 content:
   id: openresty
   name: OpenResty

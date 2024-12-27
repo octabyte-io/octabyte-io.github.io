@@ -3,22 +3,25 @@ draft: false
 title: Postal fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/postal/screenshot-1.jpg
-  description: Postal is an open-source mail server, offering features like click
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/email/postal
+  description:
+    Postal is an open-source mail server, offering features like click
     tracking, IP pools, and real-time updates for seamless email processing.
-  keywords: Postal mail server, open-source email server, email deliverability tool,
+  keywords:
+    Postal mail server, open-source email server, email deliverability tool,
     self-hosted email platform, click tracking email, DNS email monitoring, email
     server with IP pools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Postal
-    url: /fully-managed-open-source-services/development/dev-ops/postal
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Postal
+      url: /fully-managed-open-source-services/development/dev-ops/postal
 content:
   id: postal
   name: Postal
@@ -27,8 +30,8 @@ content:
   website: https://docs.postalserver.io/
   iframe_website: /website/development/dev-ops/postal
   screenshots:
-  - /images/development/dev-ops/postal/screenshot-1.jpg
-  - /images/development/dev-ops/postal/screenshot-2.jpg
+    - /images/development/dev-ops/postal/screenshot-1.jpg
+    - /images/development/dev-ops/postal/screenshot-2.jpg
 ---
 
 ## Overview

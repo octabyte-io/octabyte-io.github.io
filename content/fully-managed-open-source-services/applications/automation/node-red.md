@@ -3,33 +3,37 @@ draft: false
 title: Node-red fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/automation/node-red/screenshot-1.jpg
-  description: Node-RED is a browser-based programming tool that simplifies wiring
+  canonical: /fully-managed-open-source-services/development/nocode-lowcode/node-red
+  description:
+    Node-RED is a browser-based programming tool that simplifies wiring
     hardware, APIs, and services, enabling rapid development of IoT applications.
-  keywords: Node-RED, IoT, Node.js, API integration, visual programming, flow-based
+  keywords:
+    Node-RED, IoT, Node.js, API integration, visual programming, flow-based
     development, Raspberry Pi, edge computing, cloud services, automation, browser-based
     editor
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Node-red
-    url: /fully-managed-open-source-services/applications/automation/node-red
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Node-red
+      url: /fully-managed-open-source-services/applications/automation/node-red
 content:
   id: node-red
   name: Node-red
-  title: 'Effortlessly Wire Hardware and APIs with Node-RED: A Powerful Programming
-    Tool for the Internet of Things (IoT)'
+  title:
+    "Effortlessly Wire Hardware and APIs with Node-RED: A Powerful Programming
+    Tool for the Internet of Things (IoT)"
   logo: /images/applications/automation/node-red/logo.png
   website: https://nodered.org/
   iframe_website: /website/applications/automation/node-red
   screenshots:
-  - /images/applications/automation/node-red/screenshot-1.jpg
-  - /images/applications/automation/node-red/screenshot-2.jpg
+    - /images/applications/automation/node-red/screenshot-1.jpg
+    - /images/applications/automation/node-red/screenshot-2.jpg
 ---
 
 ## Overview

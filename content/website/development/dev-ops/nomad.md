@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Nomad - Simplified Workload Orchestration for Any Application Type"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/nomad
+
 content:
   id: nomad
   name: Nomad

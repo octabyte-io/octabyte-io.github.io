@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Healthchecks - Cron Job Monitoring and Alerts Service"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/monitoring/healthchecks
+
 content:
   id: healthchecks
   name: Healthchecks

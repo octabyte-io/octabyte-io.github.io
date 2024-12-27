@@ -3,23 +3,26 @@ draft: false
 title: Healthchecks fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/healthchecks/screenshot-1.jpg
-  description: Healthchecks is a robust cron job monitoring service that tracks scheduled
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/healthchecks
+  description:
+    Healthchecks is a robust cron job monitoring service that tracks scheduled
     tasks, alerting you when pings are missed. With a user-friendly dashboard, integrations,
     2FA, and team management, Healthchecks ensures reliable monitoring of your tasks.
-  keywords: cron job monitoring, task monitoring, scheduled tasks, cron jobs, missed
+  keywords:
+    cron job monitoring, task monitoring, scheduled tasks, cron jobs, missed
     pings, alerts, monitoring service, healthchecks.io, 2FA, WebAuthn, team management,
     integrations, self-hosting, dashboard
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Healthchecks
-    url: /fully-managed-open-source-services/development/dev-ops/healthchecks
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Healthchecks
+      url: /fully-managed-open-source-services/development/dev-ops/healthchecks
 content:
   id: healthchecks
   name: Healthchecks
@@ -28,8 +31,8 @@ content:
   website: https://healthchecks.io/
   iframe_website: /website/development/dev-ops/healthchecks
   screenshots:
-  - /images/development/dev-ops/healthchecks/screenshot-1.jpg
-  - /images/development/dev-ops/healthchecks/screenshot-2.jpg
+    - /images/development/dev-ops/healthchecks/screenshot-1.jpg
+    - /images/development/dev-ops/healthchecks/screenshot-2.jpg
 ---
 
 ## Overview

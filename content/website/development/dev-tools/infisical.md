@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Infisical - Open-Source End-to-End Encrypted Secret Management Platform"
+
+meta:
+  canonical: /website/applications/password-manager/infisical
+
 content:
   id: infisical
   name: Infisical

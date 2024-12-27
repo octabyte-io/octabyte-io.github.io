@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "DockerRegistry - The Ultimate Solution for Secure and Efficient Image Storage and Distribution"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/dockerregistry
+
 content:
   id: dockerregistry
   name: DockerRegistry

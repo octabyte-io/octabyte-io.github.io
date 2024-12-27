@@ -3,23 +3,26 @@ draft: false
 title: k0s fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/k0s/screenshot-1.jpg
-  description: k0s is a lightweight, open-source Kubernetes distribution designed
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/k0s
+  description:
+    k0s is a lightweight, open-source Kubernetes distribution designed
     for simplicity and ease of use. It enables seamless deployment and management
     of Kubernetes workloads on any infrastructure, at any scale.
-  keywords: k0s, Kubernetes, open-source Kubernetes, certified Kubernetes, Kubernetes
+  keywords:
+    k0s, Kubernetes, open-source Kubernetes, certified Kubernetes, Kubernetes
     distribution, lightweight Kubernetes, cloud-native infrastructure, Kubernetes
     at scale, free Kubernetes, Kubernetes deployment
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: k0s
-    url: /fully-managed-open-source-services/development/dev-ops/k0s
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: k0s
+      url: /fully-managed-open-source-services/development/dev-ops/k0s
 content:
   id: k0s
   name: k0s

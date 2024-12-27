@@ -3,24 +3,27 @@ draft: false
 title: Infisical fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/infisical/screenshot-1.png
-  description: Infisical is an open-source, end-to-end encrypted platform that helps
+  canonical: /fully-managed-open-source-services/applications/password-manager/infisical
+  description:
+    Infisical is an open-source, end-to-end encrypted platform that helps
     teams manage secrets securely, prevent leaks, and sync secrets across multiple
     environments with ease.
-  keywords: Infisical, open-source secret management, secret management platform,
+  keywords:
+    Infisical, open-source secret management, secret management platform,
     end-to-end encrypted secrets, secure team collaboration, prevent secret leaks,
     API key management, infrastructure secret management, secret synchronization,
     secret versioning, point-in-time recovery, CI/CD integration, secret referencing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Infisical
-    url: /fully-managed-open-source-services/development/dev-tools/infisical
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Infisical
+      url: /fully-managed-open-source-services/development/dev-tools/infisical
 content:
   id: infisical
   name: Infisical
@@ -30,8 +33,8 @@ content:
   iframe_website: /website/development/dev-tools/infisical
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/infisical/screenshot-1.png
-  - /images/development/dev-tools/infisical/screenshot-2.png
+    - /images/development/dev-tools/infisical/screenshot-1.png
+    - /images/development/dev-tools/infisical/screenshot-2.png
 ---
 
 ## Overview

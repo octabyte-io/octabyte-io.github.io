@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Automatisch - The Open-Source Alternative to Zapier for Seamless Business Automation"
+
+meta:
+  canonical: /website/applications/automation/automatisch
+
 content:
   id: automatisch
   name: Automatisch

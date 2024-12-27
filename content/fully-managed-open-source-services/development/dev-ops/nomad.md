@@ -3,24 +3,27 @@ draft: false
 title: Nomad fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/nomad/screenshot-1.jpg
-  description: Nomad is a flexible and efficient workload orchestrator that supports
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/nomad
+  description:
+    Nomad is a flexible and efficient workload orchestrator that supports
     a wide range of application types, providing easy scaling and management of microservices,
     containers, and legacy applications.
-  keywords: Nomad workload orchestrator, flexible application orchestration, multi-cloud
+  keywords:
+    Nomad workload orchestrator, flexible application orchestration, multi-cloud
     deployment, modernizing legacy applications, workload management, Docker orchestration,
     microservice orchestration, batch job management, Consul integration, Vault integration,
     cloud-native orchestration.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Nomad
-    url: /fully-managed-open-source-services/development/dev-ops/nomad
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Nomad
+      url: /fully-managed-open-source-services/development/dev-ops/nomad
 content:
   id: nomad
   name: Nomad
@@ -29,8 +32,8 @@ content:
   website: https://www.nomadproject.io/
   iframe_website: /website/development/dev-ops/nomad
   screenshots:
-  - /images/development/dev-ops/nomad/screenshot-1.jpg
-  - /images/development/dev-ops/nomad/screenshot-2.jpg
+    - /images/development/dev-ops/nomad/screenshot-1.jpg
+    - /images/development/dev-ops/nomad/screenshot-2.jpg
 ---
 
 ## Overview

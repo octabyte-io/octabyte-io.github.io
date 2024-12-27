@@ -3,24 +3,27 @@ draft: false
 title: HAProxy fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/haproxy/screenshot-1.png
-  description: HAProxy is a fast, reliable, and open-source reverse proxy offering
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/haproxy
+  description:
+    HAProxy is a fast, reliable, and open-source reverse proxy offering
     high availability, load balancing, and proxying for TCP and HTTP applications,
     ensuring optimal performance for high-traffic websites.
-  keywords: HAProxy, open-source load balancer, high availability, load balancing,
+  keywords:
+    HAProxy, open-source load balancer, high availability, load balancing,
     reverse proxy, TCP proxy, HTTP proxy, website performance, high-traffic websites,
     web scaling, HAProxy features, application delivery controller, load balancing
     software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: HAProxy
-    url: /fully-managed-open-source-services/development/dev-ops/haproxy
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: HAProxy
+      url: /fully-managed-open-source-services/development/dev-ops/haproxy
 content:
   id: haproxy
   name: HAProxy
@@ -29,8 +32,8 @@ content:
   website: https://www.haproxy.org/
   iframe_website: /website/development/dev-ops/haproxy
   screenshots:
-  - /images/development/dev-ops/haproxy/screenshot-1.png
-  - /images/development/dev-ops/haproxy/screenshot-2.png
+    - /images/development/dev-ops/haproxy/screenshot-1.png
+    - /images/development/dev-ops/haproxy/screenshot-2.png
 ---
 
 ## Overview

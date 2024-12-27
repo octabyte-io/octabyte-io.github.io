@@ -3,23 +3,26 @@ draft: false
 title: Microk8s fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/microk8s/screenshot-1.png
-  description: MicroK8s is a lightweight, open-source Kubernetes solution for deploying
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/microk8s
+  description:
+    MicroK8s is a lightweight, open-source Kubernetes solution for deploying
     and managing containerized applications, offering scalability, security, and ease
     of use.
-  keywords: MicroK8s, Kubernetes, container orchestration, lightweight Kubernetes,
+  keywords:
+    MicroK8s, Kubernetes, container orchestration, lightweight Kubernetes,
     scalable Kubernetes, secure Kubernetes, cloud-native applications, DevOps, container
     management, local Kubernetes, production cluster, Kubernetes for developers
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Microk8s
-    url: /fully-managed-open-source-services/development/dev-ops/microk8s
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Microk8s
+      url: /fully-managed-open-source-services/development/dev-ops/microk8s
 content:
   id: microk8s
   name: Microk8s
@@ -29,8 +32,8 @@ content:
   iframe_website: /website/development/dev-ops/microk8s
   direct_link: true
   screenshots:
-  - /images/development/dev-ops/microk8s/screenshot-1.png
-  - /images/development/dev-ops/microk8s/screenshot-2.png
+    - /images/development/dev-ops/microk8s/screenshot-1.png
+    - /images/development/dev-ops/microk8s/screenshot-2.png
 ---
 
 ## Overview

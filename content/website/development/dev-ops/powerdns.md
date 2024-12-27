@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "PowerDNS - The Versatile Open-Source DNS Solution for Performance and Scalability"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/infrastructure/powerdns
+
 content:
   id: powerdns
   name: PowerDNS

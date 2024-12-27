@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Nexus3 - The World’s Leading Repository Manager for Efficient Component and Artifact Management"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/nexus3
+
 content:
   id: nexus3
   name: Nexus3

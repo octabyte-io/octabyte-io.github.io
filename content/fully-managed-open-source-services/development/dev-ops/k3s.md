@@ -3,24 +3,27 @@ draft: false
 title: K3S fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/k3s/screenshot-1.jpg
-  description: K3s is a lightweight, easy-to-install Kubernetes distribution optimized
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/k3s
+  description:
+    K3s is a lightweight, easy-to-install Kubernetes distribution optimized
     for edge, ARM, IoT, and CI environments. Designed for resource-constrained setups,
     K3s simplifies Kubernetes deployment and management while maintaining powerful
     capabilities.
-  keywords: K3s, lightweight Kubernetes, edge computing, ARM Kubernetes, IoT, Kubernetes
+  keywords:
+    K3s, lightweight Kubernetes, edge computing, ARM Kubernetes, IoT, Kubernetes
     for Raspberry Pi, simplified Kubernetes, Kubernetes for ARM, Traefik, Helm controller,
     Kubernetes for CI, Kubernetes distribution, edge Kubernetes
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: K3S
-    url: /fully-managed-open-source-services/development/dev-ops/k3s
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: K3S
+      url: /fully-managed-open-source-services/development/dev-ops/k3s
 content:
   id: k3s
   name: K3S

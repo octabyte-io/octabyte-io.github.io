@@ -3,21 +3,24 @@ draft: false
 title: Directus fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/directus/screenshot-1.png
-  description: Directus is an open-source platform that connects to any SQL database,
+  canonical: /fully-managed-open-source-services/applications/cms/directus
+  description:
+    Directus is an open-source platform that connects to any SQL database,
     offering a powerful API layer and an intuitive app for seamless data management.
-  keywords: Directus, open-source data platform, SQL database management, data API,
+  keywords:
+    Directus, open-source data platform, SQL database management, data API,
     cloud-based data management, enterprise data solutions, content management system
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: Directus
-    url: /fully-managed-open-source-services/development/backend-as-a-service/directus
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: Directus
+      url: /fully-managed-open-source-services/development/backend-as-a-service/directus
 content:
   id: directus
   name: Directus
@@ -26,8 +29,8 @@ content:
   website: https://directus.io/
   iframe_website: /website/development/backend-as-a-service/directus
   screenshots:
-  - /images/development/backend-as-a-service/directus/screenshot-1.png
-  - /images/development/backend-as-a-service/directus/screenshot-2.png
+    - /images/development/backend-as-a-service/directus/screenshot-1.png
+    - /images/development/backend-as-a-service/directus/screenshot-2.png
 ---
 
 ## Overview

@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "MailCow - The Ultimate Docker-based Email Server for Seamless Email Management"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/email/mailcow
+
 content:
   id: mailcow
   name: MailCow

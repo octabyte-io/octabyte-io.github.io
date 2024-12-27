@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Centrifugo - Scalable Real-Time Messaging Server for Seamless PUB/SUB Integration"
+
+meta:
+  canonical: /website/development/network/centrifugo
+
 content:
   id: centrifugo
   name: Centrifugo

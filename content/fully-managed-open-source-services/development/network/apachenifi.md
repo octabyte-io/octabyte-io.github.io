@@ -3,23 +3,26 @@ draft: false
 title: ApacheNiFi fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/apachenifi/screenshot-1.png
-  description: Apache NiFi is a powerful, real-time data logistics platform designed
+  canonical: /fully-managed-open-source-services/applications/automation/apachenifi
+  description:
+    Apache NiFi is a powerful, real-time data logistics platform designed
     to automate the movement of data across diverse systems with ease. It provides
     control, monitoring, and traceability for seamless data management.
-  keywords: Apache NiFi, Data flow automation, Data logistics, Data integration, Real-time
+  keywords:
+    Apache NiFi, Data flow automation, Data logistics, Data integration, Real-time
     control, Data provenance, Data monitoring, Secure data flow, Apache NiFi features,
     Data integration platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: ApacheNiFi
-    url: /fully-managed-open-source-services/development/network/apachenifi
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: ApacheNiFi
+      url: /fully-managed-open-source-services/development/network/apachenifi
 content:
   id: apachenifi
   name: ApacheNiFi
@@ -28,8 +31,8 @@ content:
   website: https://nifi.apache.org/
   iframe_website: /website/development/network/apachenifi
   screenshots:
-  - /images/development/network/apachenifi/screenshot-1.png
-  - /images/development/network/apachenifi/screenshot-2.png
+    - /images/development/network/apachenifi/screenshot-1.png
+    - /images/development/network/apachenifi/screenshot-2.png
 ---
 
 ## Overview

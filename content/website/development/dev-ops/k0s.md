@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "k0s - The Simple, Solid, and Certified Kubernetes Distribution"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/containers/k0s
+
 content:
   id: k0s
   name: k0s

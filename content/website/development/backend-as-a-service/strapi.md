@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Strapi - The Leading Open-Source Headless CMS for Developers"
+
+meta:
+  canonical: /website/applications/cms/strapi
+
 content:
   id: strapi
   name: Strapi

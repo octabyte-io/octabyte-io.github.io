@@ -3,22 +3,25 @@ draft: false
 title: PowerDNS fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/powerdns/screenshot-1.png
-  description: PowerDNS is a high-performance open-source DNS server offering authoritative
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/infrastructure/powerdns
+  description:
+    PowerDNS is a high-performance open-source DNS server offering authoritative
     DNS, recursive resolvers, load balancing, and seamless database integration.
-  keywords: PowerDNS, open-source DNS server, authoritative DNS, recursive resolver,
+  keywords:
+    PowerDNS, open-source DNS server, authoritative DNS, recursive resolver,
     DNS load balancer, DNS tools, C++ DNS server, high-performance DNS, scalable DNS
     solution, failover algorithms
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: PowerDNS
-    url: /fully-managed-open-source-services/development/dev-ops/powerdns
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: PowerDNS
+      url: /fully-managed-open-source-services/development/dev-ops/powerdns
 content:
   id: powerdns
   name: PowerDNS
@@ -27,8 +30,8 @@ content:
   website: https://www.powerdns.com/
   iframe_website: /website/development/dev-ops/powerdns
   screenshots:
-  - /images/development/dev-ops/powerdns/screenshot-1.png
-  - /images/development/dev-ops/powerdns/screenshot-2.jpg
+    - /images/development/dev-ops/powerdns/screenshot-1.png
+    - /images/development/dev-ops/powerdns/screenshot-2.jpg
 ---
 
 ## Overview

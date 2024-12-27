@@ -3,23 +3,26 @@ draft: false
 title: Vault fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/vault/screenshot-1.png
-  description: Vault is a powerful tool for securely managing API keys, passwords,
+  canonical: /fully-managed-open-source-services/applications/password-manager/vault
+  description:
+    Vault is a powerful tool for securely managing API keys, passwords,
     certificates, and other secrets, with encryption, access control, and detailed
     audit logging.
-  keywords: Vault, secure secret management, secret storage, API key security, dynamic
+  keywords:
+    Vault, secure secret management, secret storage, API key security, dynamic
     secrets, data encryption, Vault features, access control, secret leasing, encrypted
     storage
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Vault
-    url: /fully-managed-open-source-services/development/dev-ops/vault
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Vault
+      url: /fully-managed-open-source-services/development/dev-ops/vault
 content:
   id: vault
   name: Vault
@@ -28,8 +31,8 @@ content:
   website: https://www.vaultproject.io/
   iframe_website: /website/development/dev-ops/vault
   screenshots:
-  - /images/development/dev-ops/vault/screenshot-1.png
-  - /images/development/dev-ops/vault/screenshot-2.png
+    - /images/development/dev-ops/vault/screenshot-1.png
+    - /images/development/dev-ops/vault/screenshot-2.png
 ---
 
 ## Overview

@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Postal - Open-Source Mail Server for Reliable Email Deliverability"
+
+meta:
+  canonical: /website/hosting-and-infrastructure/email/postal
+
 content:
   id: postal
   name: Postal

@@ -3,24 +3,27 @@ draft: false
 title: DockerRegistry fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/dockerregistry/screenshot-1.jpg
-  description: DockerRegistry provides an easy-to-use platform for securely storing
+  canonical: /fully-managed-open-source-services/hosting-and-infrastructure/containers/dockerregistry
+  description:
+    DockerRegistry provides an easy-to-use platform for securely storing
     and distributing Docker images, offering complete control over your image pipeline
     and seamless integration into your development workflow.
-  keywords: Docker Registry, Docker image storage, secure image distribution, Docker
+  keywords:
+    Docker Registry, Docker image storage, secure image distribution, Docker
     container management, in-house image pipeline, Docker image workflow, private
     Docker registry, container management, image distribution platform, Docker workflow
     integration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: DockerRegistry
-    url: /fully-managed-open-source-services/development/dev-ops/dockerregistry
+    - name: Home
+      url: /
+    - name: Fully managed Open-Source Services
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: DockerRegistry
+      url: /fully-managed-open-source-services/development/dev-ops/dockerregistry
 content:
   id: dockerregistry
   name: DockerRegistry

@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "AgencyOS - The Ultimate Solution for Agency Management and Growth"
+
+meta:
+  canonical: /website/applications/cms/agencyos
+
 content:
   id: agencyos
   name: AgencyOS
