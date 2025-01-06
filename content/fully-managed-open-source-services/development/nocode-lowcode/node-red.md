@@ -3,23 +3,25 @@ draft: false
 title: Node-red fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/node-red/screenshot-1.jpg
-  description: Node-RED is an open-source tool that lets you wire together hardware
+  description:
+    Node-RED is an open-source tool that lets you wire together hardware
     devices, APIs, and services visually using a browser-based editor, perfect for
     IoT and cloud automation.
-  keywords: Node-RED, visual programming, hardware integration, APIs, automation,
+  keywords:
+    Node-RED, visual programming, hardware integration, APIs, automation,
     Node.js, IoT, Raspberry Pi, cloud services, open-source, event-driven, low-cost
     hardware
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Node-red
-    url: /fully-managed-open-source-services/development/nocode-lowcode/node-red
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Node-red
+      url: /fully-managed-open-source-services/development/nocode-lowcode/node-red
 content:
   id: node-red
   name: Node-red
@@ -28,8 +30,8 @@ content:
   website: https://nodered.org/
   iframe_website: /website/development/nocode-lowcode/node-red
   screenshots:
-  - /images/development/nocode-lowcode/node-red/screenshot-1.jpg
-  - /images/development/nocode-lowcode/node-red/screenshot-2.jpg
+    - /images/development/nocode-lowcode/node-red/screenshot-1.jpg
+    - /images/development/nocode-lowcode/node-red/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Trudesk fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/trudesk/screenshot-1.png
-  description: Trudesk is a powerful, easy-to-use solution designed to streamline
+  description:
+    Trudesk is a powerful, easy-to-use solution designed to streamline
     task management and issue resolution. Keep workloads organized with real-time
     updates, live support chat, and customizable permissions.
-  keywords: Trudesk, task management, issue resolution, open-source support, real-time
+  keywords:
+    Trudesk, task management, issue resolution, open-source support, real-time
     updates, live chat support, ticket management, customizable permissions, support
     platform, team collaboration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: Trudesk
-    url: /fully-managed-open-source-services/applications/customer-support/trudesk
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: Trudesk
+      url: /fully-managed-open-source-services/applications/customer-support/trudesk
 content:
   id: trudesk
   name: Trudesk
@@ -28,8 +30,8 @@ content:
   website: https://trudesk.io/
   iframe_website: /website/applications/customer-support/trudesk
   screenshots:
-  - /images/applications/customer-support/trudesk/screenshot-1.png
-  - /images/applications/customer-support/trudesk/screenshot-2.png
+    - /images/applications/customer-support/trudesk/screenshot-1.png
+    - /images/applications/customer-support/trudesk/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: KeyDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/keydb/screenshot-1.jpg
-  description: KeyDB is a high-performance, open-source database that outperforms
+  description:
+    KeyDB is a high-performance, open-source database that outperforms
     Redis with multithreaded architecture, high scalability, and sub-millisecond latencies.
-  keywords: KeyDB, high-performance database, Redis alternative, open-source database,
+  keywords:
+    KeyDB, high-performance database, Redis alternative, open-source database,
     multithreaded database, scalable database, high throughput database, low-latency
     database, active-replica nodes, sharded cluster, in-memory database, high-availability
     database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: KeyDB
-    url: /fully-managed-open-source-services/databases/specialized-databases/keydb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: KeyDB
+      url: /fully-managed-open-source-services/databases/specialized-databases/keydb
 content:
   id: keydb
   name: KeyDB
@@ -28,8 +30,8 @@ content:
   website: https://docs.keydb.dev/docs/cluster-tutorial/
   iframe_website: /website/databases/specialized-databases/keydb
   screenshots:
-  - /images/databases/specialized-databases/keydb/screenshot-1.jpg
-  - /images/databases/specialized-databases/keydb/screenshot-2.jpg
+    - /images/databases/specialized-databases/keydb/screenshot-1.jpg
+    - /images/databases/specialized-databases/keydb/screenshot-2.jpg
 ---
 
 ## Overview

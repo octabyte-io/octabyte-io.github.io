@@ -3,23 +3,25 @@ draft: false
 title: Kellnr fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/kellnr/screenshot-1.png
-  description: Kellnr allows you to host your private Rust crates on your own hardware,
+  description:
+    Kellnr allows you to host your private Rust crates on your own hardware,
     offering complete control over your code and providing powerful tools for crate
     management.
-  keywords: Kellnr, Rust crates, private Rust crates, self-hosted Rust, crate management,
+  keywords:
+    Kellnr, Rust crates, private Rust crates, self-hosted Rust, crate management,
     crates.io proxy, Rust package management, Rust crate hosting, docs.rs, self-hosted
     package manager, private crate server
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Kellnr
-    url: /fully-managed-open-source-services/development/dev-ops/kellnr
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Kellnr
+      url: /fully-managed-open-source-services/development/dev-ops/kellnr
 content:
   id: kellnr
   name: Kellnr
@@ -28,8 +30,8 @@ content:
   website: https://kellnr.io/
   iframe_website: /website/development/dev-ops/kellnr
   screenshots:
-  - /images/development/dev-ops/kellnr/screenshot-1.png
-  - /images/development/dev-ops/kellnr/screenshot-2.png
+    - /images/development/dev-ops/kellnr/screenshot-1.png
+    - /images/development/dev-ops/kellnr/screenshot-2.png
 ---
 
 ## Overview

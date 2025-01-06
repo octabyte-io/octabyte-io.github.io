@@ -3,22 +3,24 @@ draft: false
 title: Supabase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/supabase/screenshot-1.jpg
-  description: Supabase is an open-source backend-as-a-service platform offering PostgreSQL,
+  description:
+    Supabase is an open-source backend-as-a-service platform offering PostgreSQL,
     authentication, real-time APIs, and scalable storage to simplify modern app development.
-  keywords: Supabase, open-source backend, PostgreSQL database, real-time APIs, scalable
+  keywords:
+    Supabase, open-source backend, PostgreSQL database, real-time APIs, scalable
     storage, user authentication, backend-as-a-service, developer tools, app development,
     open-source database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: Supabase
-    url: /fully-managed-open-source-services/development/backend-as-a-service/supabase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: Supabase
+      url: /fully-managed-open-source-services/development/backend-as-a-service/supabase
 content:
   id: supabase
   name: Supabase
@@ -27,8 +29,8 @@ content:
   website: https://supabase.com/
   iframe_website: /website/development/backend-as-a-service/supabase
   screenshots:
-  - /images/development/backend-as-a-service/supabase/screenshot-1.jpg
-  - /images/development/backend-as-a-service/supabase/screenshot-2.jpg
+    - /images/development/backend-as-a-service/supabase/screenshot-1.jpg
+    - /images/development/backend-as-a-service/supabase/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Pleroma fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/pleroma/screenshot-1.png
-  description: Pleroma is a decentralized microblogging server that supports the ActivityPub
+  description:
+    Pleroma is a decentralized microblogging server that supports the ActivityPub
     protocol, offering privacy, lightweight performance, and easy federation with
     other platforms.
-  keywords: Pleroma, microblogging software, decentralized social network, ActivityPub,
+  keywords:
+    Pleroma, microblogging software, decentralized social network, ActivityPub,
     federated platforms, Mastodon, privacy-focused, lightweight social media, open
     source social network, self-hosted social network
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: Pleroma
-    url: /fully-managed-open-source-services/applications/fediverse/pleroma
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Pleroma
+      url: /fully-managed-open-source-services/applications/fediverse/pleroma
 content:
   id: pleroma
   name: Pleroma
@@ -28,8 +30,8 @@ content:
   website: https://pleroma.social/
   iframe_website: /website/applications/fediverse/pleroma
   screenshots:
-  - /images/applications/fediverse/pleroma/screenshot-1.png
-  - /images/applications/fediverse/pleroma/screenshot-2.png
+    - /images/applications/fediverse/pleroma/screenshot-1.png
+    - /images/applications/fediverse/pleroma/screenshot-2.png
 ---
 
 ## Overview

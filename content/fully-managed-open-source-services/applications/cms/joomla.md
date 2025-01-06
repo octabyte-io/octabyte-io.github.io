@@ -3,23 +3,25 @@ draft: false
 title: Joomla fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/joomla/screenshot-1.jpg
-  description: Joomla is a free, open-source CMS that offers flexibility, strong security,
+  description:
+    Joomla is a free, open-source CMS that offers flexibility, strong security,
     SEO optimization, and thousands of extensions, making it perfect for building
     any website or web application.
-  keywords: Joomla, open-source CMS, content management system, web publishing, SEO
+  keywords:
+    Joomla, open-source CMS, content management system, web publishing, SEO
     optimization, e-commerce, photo galleries, user communities, secure CMS, flexible
     CMS, Joomla extensions, Joomla templates
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Joomla
-    url: /fully-managed-open-source-services/applications/cms/joomla
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Joomla
+      url: /fully-managed-open-source-services/applications/cms/joomla
 content:
   id: joomla
   name: Joomla
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/cms/joomla
   direct_link: true
   screenshots:
-  - /images/applications/cms/joomla/screenshot-1.jpg
-  - /images/applications/cms/joomla/screenshot-2.jpg
+    - /images/applications/cms/joomla/screenshot-1.jpg
+    - /images/applications/cms/joomla/screenshot-2.jpg
 ---
 
 ## Overview

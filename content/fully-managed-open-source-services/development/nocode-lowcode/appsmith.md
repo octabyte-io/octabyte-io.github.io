@@ -3,22 +3,24 @@ draft: false
 title: Appsmith fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
-  description: Appsmith is a powerful, open-source low-code platform that lets you
+  description:
+    Appsmith is a powerful, open-source low-code platform that lets you
     build internal applications rapidly. Create dynamic CRUD apps, dashboards, and
     admin panels with ease.
-  keywords: Appsmith, open-source low-code platform, build internal apps, low-code
+  keywords:
+    Appsmith, open-source low-code platform, build internal apps, low-code
     development, open-source framework, CRUD apps, dashboards, admin panels
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Appsmith
-    url: /fully-managed-open-source-services/development/nocode-lowcode/appsmith
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Appsmith
+      url: /fully-managed-open-source-services/development/nocode-lowcode/appsmith
 content:
   id: appsmith
   name: Appsmith
@@ -27,8 +29,8 @@ content:
   website: https://www.appsmith.com/
   iframe_website: /website/development/nocode-lowcode/appsmith
   screenshots:
-  - /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
-  - /images/development/nocode-lowcode/appsmith/screenshot-2.jpg
+    - /images/development/nocode-lowcode/appsmith/screenshot-1.jpg
+    - /images/development/nocode-lowcode/appsmith/screenshot-2.jpg
 ---
 
 ## Overview

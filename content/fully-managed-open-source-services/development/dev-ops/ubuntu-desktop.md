@@ -3,22 +3,24 @@ draft: false
 title: Ubuntu-Desktop fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg
-  description: Ubuntu Virtual Desktop by OctaByte offers a browser-based desktop environment
+  description:
+    Ubuntu Virtual Desktop by OctaByte offers a browser-based desktop environment
     with pre-installed software, Wine for Windows compatibility, and secure, collaborative
     features.
-  keywords: Ubuntu Virtual Desktop, browser-based desktop, Wine compatibility, secure
+  keywords:
+    Ubuntu Virtual Desktop, browser-based desktop, Wine compatibility, secure
     virtual desktop, collaborative desktop, Ubuntu remote desktop
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Ubuntu-Desktop
-    url: /fully-managed-open-source-services/development/dev-ops/ubuntu-desktop
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Ubuntu-Desktop
+      url: /fully-managed-open-source-services/development/dev-ops/ubuntu-desktop
 content:
   id: ubuntu-desktop
   name: Ubuntu-Desktop
@@ -27,8 +29,8 @@ content:
   website: https://ubuntu.com/download/desktop
   iframe_website: /website/development/dev-ops/ubuntu-desktop
   screenshots:
-  - /images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg
-  - /images/development/dev-ops/ubuntu-desktop/screenshot-2.jpg
+    - /images/development/dev-ops/ubuntu-desktop/screenshot-1.jpg
+    - /images/development/dev-ops/ubuntu-desktop/screenshot-2.jpg
 ---
 
 ## Overview

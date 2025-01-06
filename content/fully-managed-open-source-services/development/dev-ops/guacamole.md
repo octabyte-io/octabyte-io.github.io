@@ -3,25 +3,27 @@ draft: false
 title: Guacamole fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/guacamole/screenshot-1.jpg
-  description: Apache Guacamole is a free, open-source remote desktop gateway that
+  description:
+    Apache Guacamole is a free, open-source remote desktop gateway that
     allows access to your computers from anywhere through a web browser. It supports
     standard protocols like VNC, RDP, and SSH, without requiring any plugins or client
     software.
-  keywords: Apache Guacamole, remote desktop, clientless remote desktop, VNC, RDP,
+  keywords:
+    Apache Guacamole, remote desktop, clientless remote desktop, VNC, RDP,
     SSH, web-based remote access, open-source remote desktop, cloud desktop, HTML5
     desktop, free remote access, remote desktop gateway, virtual desktop, open-source
     software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Guacamole
-    url: /fully-managed-open-source-services/development/dev-ops/guacamole
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Guacamole
+      url: /fully-managed-open-source-services/development/dev-ops/guacamole
 content:
   id: guacamole
   name: Guacamole
@@ -30,8 +32,8 @@ content:
   website: http://guacamole.apache.org/
   iframe_website: /website/development/dev-ops/guacamole
   screenshots:
-  - /images/development/dev-ops/guacamole/screenshot-1.jpg
-  - /images/development/dev-ops/guacamole/screenshot-2.jpg
+    - /images/development/dev-ops/guacamole/screenshot-1.jpg
+    - /images/development/dev-ops/guacamole/screenshot-2.jpg
 ---
 
 ## Overview

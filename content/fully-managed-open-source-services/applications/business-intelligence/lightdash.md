@@ -3,23 +3,25 @@ draft: false
 title: Lightdash fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/business-intelligence/lightdash/screenshot-1.jpg
-  description: Lightdash streamlines data analytics by connecting data modeling, transformation,
+  description:
+    Lightdash streamlines data analytics by connecting data modeling, transformation,
     and visualization into a unified platform. It offers affordable analytics with
     DBT integration and centralized business logic for easier decision-making.
-  keywords: Lightdash, data analytics, DBT integration, affordable analytics, self-hosted
+  keywords:
+    Lightdash, data analytics, DBT integration, affordable analytics, self-hosted
     analytics, cloud-based analytics, data team tools, business logic, data transformation,
     metrics management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Business Intelligence
-    url: /fully-managed-open-source-services/applications/business-intelligence
-  - name: Lightdash
-    url: /fully-managed-open-source-services/applications/business-intelligence/lightdash
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Lightdash
+      url: /fully-managed-open-source-services/applications/business-intelligence/lightdash
 content:
   id: lightdash
   name: Lightdash
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/business-intelligence/lightdash
   direct_link: true
   screenshots:
-  - /images/applications/business-intelligence/lightdash/screenshot-1.jpg
-  - /images/applications/business-intelligence/lightdash/screenshot-2.jpg
+    - /images/applications/business-intelligence/lightdash/screenshot-1.jpg
+    - /images/applications/business-intelligence/lightdash/screenshot-2.jpg
 ---
 
 ## Overview

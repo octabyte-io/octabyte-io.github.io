@@ -3,23 +3,25 @@ draft: false
 title: MediaCMS fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/mediacms/screenshot-1.jpg
-  description: MediaCMS is an open-source CMS for sharing and managing media, offering
+  description:
+    MediaCMS is an open-source CMS for sharing and managing media, offering
     easy installation, robust media management, and advanced user controls. Perfect
     for creating media-centric communities.
-  keywords: MediaCMS, open-source CMS, content management, media sharing, video portal,
+  keywords:
+    MediaCMS, open-source CMS, content management, media sharing, video portal,
     media management, community building, multimedia CMS, transcoding profiles, online
     communities, educational media platform, media hosting, file sharing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: MediaCMS
-    url: /fully-managed-open-source-services/applications/cms/mediacms
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: MediaCMS
+      url: /fully-managed-open-source-services/applications/cms/mediacms
 content:
   id: mediacms
   name: MediaCMS
@@ -28,8 +30,8 @@ content:
   website: https://mediacms.io/
   iframe_website: /website/applications/cms/mediacms
   screenshots:
-  - /images/applications/cms/mediacms/screenshot-1.jpg
-  - /images/applications/cms/mediacms/screenshot-2.jpg
+    - /images/applications/cms/mediacms/screenshot-1.jpg
+    - /images/applications/cms/mediacms/screenshot-2.jpg
 ---
 
 ## Overview

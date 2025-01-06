@@ -3,23 +3,25 @@ draft: false
 title: Cronicle fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/cronicle/screenshot-1.jpg
-  description: Cronicle is an advanced multi-server task scheduler that replaces Cron
+  description:
+    Cronicle is an advanced multi-server task scheduler that replaces Cron
     with a web-based UI, offering real-time stats, live logs, and the ability to run
     tasks on demand or on a schedule.
-  keywords: Cronicle, task scheduler, multi-server task runner, Cron replacement,
+  keywords:
+    Cronicle, task scheduler, multi-server task runner, Cron replacement,
     job scheduler, real-time log viewer, Node.js scheduler, recurring tasks, server
     automation, task management, job automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Cronicle
-    url: /fully-managed-open-source-services/development/dev-ops/cronicle
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Cronicle
+      url: /fully-managed-open-source-services/development/dev-ops/cronicle
 content:
   id: cronicle
   name: Cronicle
@@ -28,8 +30,8 @@ content:
   website: http://cronicle.net/
   iframe_website: /website/development/dev-ops/cronicle
   screenshots:
-  - /images/development/dev-ops/cronicle/screenshot-1.jpg
-  - /images/development/dev-ops/cronicle/screenshot-2.jpg
+    - /images/development/dev-ops/cronicle/screenshot-1.jpg
+    - /images/development/dev-ops/cronicle/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: EspoCRM fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/espocrm/screenshot-1.png
-  description: EspoCRM is an open-source CRM solution offering sales and marketing
+  description:
+    EspoCRM is an open-source CRM solution offering sales and marketing
     automation, customization, analytics, and workflow management in a user-friendly
     interface.
-  keywords: EspoCRM, open-source CRM, sales automation, marketing automation, CRM
+  keywords:
+    EspoCRM, open-source CRM, sales automation, marketing automation, CRM
     customization, business analytics, workflow management, customer relationship
     management, team collaboration, EspoCRM features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: EspoCRM
-    url: /fully-managed-open-source-services/applications/crm-erp/espocrm
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: EspoCRM
+      url: /fully-managed-open-source-services/applications/crm-erp/espocrm
 content:
   id: espocrm
   name: EspoCRM
@@ -28,8 +30,8 @@ content:
   website: https://www.espocrm.com/
   iframe_website: /website/applications/crm-erp/espocrm
   screenshots:
-  - /images/applications/crm-erp/espocrm/screenshot-1.png
-  - /images/applications/crm-erp/espocrm/screenshot-2.png
+    - /images/applications/crm-erp/espocrm/screenshot-1.png
+    - /images/applications/crm-erp/espocrm/screenshot-2.png
 ---
 
 ## Overview

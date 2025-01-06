@@ -3,32 +3,34 @@ draft: false
 title: Wordpress-Multisites fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/wordpress-multisites/screenshot-1.png
-  description: WordPress Multisite lets you manage multiple websites from one dashboard,
+  description:
+    WordPress Multisite lets you manage multiple websites from one dashboard,
     making it perfect for organizations, businesses, and educational institutions.
-  keywords: WordPress Multisite, WordPress network, multiple websites, manage websites,
+  keywords:
+    WordPress Multisite, WordPress network, multiple websites, manage websites,
     WordPress dashboard, blogging platform, educational portal, network of sites,
     business websites, web management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Wordpress-Multisites
-    url: /fully-managed-open-source-services/applications/cms/wordpress-multisites
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Wordpress-Multisites
+      url: /fully-managed-open-source-services/applications/cms/wordpress-multisites
 content:
   id: wordpress-multisites
   name: Wordpress-Multisites
-  title: 'Unlock the Power of WordPress Multisite: Manage Multiple Websites Effortlessly'
+  title: "Unlock the Power of WordPress Multisite: Manage Multiple Websites Effortlessly"
   logo: /images/applications/cms/wordpress-multisites/logo.png
   website: https://wordpress.org
   iframe_website: /website/applications/cms/wordpress-multisites
   screenshots:
-  - /images/applications/cms/wordpress-multisites/screenshot-1.png
-  - /images/applications/cms/wordpress-multisites/screenshot-2.png
+    - /images/applications/cms/wordpress-multisites/screenshot-1.png
+    - /images/applications/cms/wordpress-multisites/screenshot-2.png
 ---
 
 ## Overview

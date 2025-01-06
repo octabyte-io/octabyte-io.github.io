@@ -3,22 +3,24 @@ draft: false
 title: Pritunl fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/pritunl/screenshot-1.png
-  description: Pritunl is a powerful, open-source VPN solution that offers secure
+  description:
+    Pritunl is a powerful, open-source VPN solution that offers secure
     remote access, supports multiple protocols, and simplifies configuration with
     an easy-to-use web interface.
-  keywords: Pritunl, open-source VPN, remote access, VPN server, WireGuard, OpenVPN,
+  keywords:
+    Pritunl, open-source VPN, remote access, VPN server, WireGuard, OpenVPN,
     IPsec, secure VPN, enterprise VPN, site-to-site VPN, distributed VPN, VPN protocols
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: Pritunl
-    url: /fully-managed-open-source-services/development/network/pritunl
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: Pritunl
+      url: /fully-managed-open-source-services/development/network/pritunl
 content:
   id: pritunl
   name: Pritunl
@@ -27,8 +29,8 @@ content:
   website: https://pritunl.com/
   iframe_website: /website/development/network/pritunl
   screenshots:
-  - /images/development/network/pritunl/screenshot-1.png
-  - /images/development/network/pritunl/screenshot-2.png
+    - /images/development/network/pritunl/screenshot-1.png
+    - /images/development/network/pritunl/screenshot-2.png
 ---
 
 ## Overview

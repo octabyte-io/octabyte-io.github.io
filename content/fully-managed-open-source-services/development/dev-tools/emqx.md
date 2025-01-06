@@ -3,24 +3,26 @@ draft: false
 title: EMQX fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/emqx/screenshot-1.webp
-  description: EMQX is a high-performance, scalable MQTT broker that supports multiple
+  description:
+    EMQX is a high-performance, scalable MQTT broker that supports multiple
     open protocols like MQTT, HTTP, QUIC, and WebSocket. It ensures secure communication
     for IoT, IIoT, and connected vehicles with full compliance to MQTT 5.0 and 3.x
     standards.
-  keywords: MQTT broker, IoT broker, IIoT communication, connected vehicles, EMQX,
+  keywords:
+    MQTT broker, IoT broker, IIoT communication, connected vehicles, EMQX,
     MQTT 5.0, scalable MQTT, IoT messaging, MQTT over TLS/SSL, SQL-based rule engine,
     high-performance MQTT
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: EMQX
-    url: /fully-managed-open-source-services/development/dev-tools/emqx
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: EMQX
+      url: /fully-managed-open-source-services/development/dev-tools/emqx
 content:
   id: emqx
   name: EMQX
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/development/dev-tools/emqx
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/emqx/screenshot-1.webp
-  - /images/development/dev-tools/emqx/screenshot-2.webp
+    - /images/development/dev-tools/emqx/screenshot-1.webp
+    - /images/development/dev-tools/emqx/screenshot-2.webp
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Sharkey fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/sharkey/screenshot-2.png
-  description: Sharkey is a powerful Misskey fork that enhances ActivityPub interoperability
+  description:
+    Sharkey is a powerful Misskey fork that enhances ActivityPub interoperability
     with added features, including background music statuses, Mastodon API support,
     and a customizable web UI.
-  keywords: Sharkey, Misskey fork, ActivityPub, Mastodon, Pixelfed, Fediverse, federated
+  keywords:
+    Sharkey, Misskey fork, ActivityPub, Mastodon, Pixelfed, Fediverse, federated
     social network, ListenBrainz, customizable UI, web UI, social media features,
     Mastodon API
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: Sharkey
-    url: /fully-managed-open-source-services/applications/fediverse/sharkey
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Sharkey
+      url: /fully-managed-open-source-services/applications/fediverse/sharkey
 content:
   id: sharkey
   name: Sharkey
@@ -28,7 +30,7 @@ content:
   website: https://docs.joinsharkey.org/docs/getting-started/overview/
   iframe_website: /website/applications/fediverse/sharkey
   screenshots:
-  - /images/applications/fediverse/sharkey/screenshot-2.png
+    - /images/applications/fediverse/sharkey/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Fugu fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/fugu/screenshot-1.jpg
-  description: Fugu is an open-source, privacy-friendly, and self-hostable product
+  description:
+    Fugu is an open-source, privacy-friendly, and self-hostable product
     analytics tool designed for simplicity. Track events, build funnels, and manage
     data with ease.
-  keywords: Fugu, privacy-friendly analytics, open-source product analytics, self-hosted
+  keywords:
+    Fugu, privacy-friendly analytics, open-source product analytics, self-hosted
     analytics, event tracking, funnels, product analytics tool, simple analytics,
     privacy-focused analytics, Fugu API
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Fugu
-    url: /fully-managed-open-source-services/applications/analytics/fugu
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Fugu
+      url: /fully-managed-open-source-services/applications/analytics/fugu
 content:
   id: fugu
   name: Fugu
@@ -28,8 +30,8 @@ content:
   website: https://fugu.lol/
   iframe_website: /website/applications/analytics/fugu
   screenshots:
-  - /images/applications/analytics/fugu/screenshot-1.jpg
-  - /images/applications/analytics/fugu/screenshot-2.jpg
+    - /images/applications/analytics/fugu/screenshot-1.jpg
+    - /images/applications/analytics/fugu/screenshot-2.jpg
 ---
 
 ## Overview

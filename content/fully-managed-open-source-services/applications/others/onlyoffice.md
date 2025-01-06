@@ -3,32 +3,34 @@ draft: false
 title: OnlyOffice fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/onlyoffice/screenshot-1.jpg
-  description: OnlyOffice is an all-in-one open-source office suite offering advanced
+  description:
+    OnlyOffice is an all-in-one open-source office suite offering advanced
     tools for document management, collaboration, and productivity.
-  keywords: OnlyOffice, open-source office suite, productivity tools, online document
+  keywords:
+    OnlyOffice, open-source office suite, productivity tools, online document
     editing, collaboration software, CRM integration, project management, customizable
     office software, cloud-hosted office suite, Microsoft Office alternative
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: OnlyOffice
-    url: /fully-managed-open-source-services/applications/others/onlyoffice
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: OnlyOffice
+      url: /fully-managed-open-source-services/applications/others/onlyoffice
 content:
   id: onlyoffice
   name: OnlyOffice
-  title: 'Boost Productivity with OnlyOffice: The Ultimate Open-Source Office Suite'
+  title: "Boost Productivity with OnlyOffice: The Ultimate Open-Source Office Suite"
   logo: /images/applications/others/onlyoffice/logo.png
   website: https://www.onlyoffice.com/
   iframe_website: /website/applications/others/onlyoffice
   screenshots:
-  - /images/applications/others/onlyoffice/screenshot-1.jpg
-  - /images/applications/others/onlyoffice/screenshot-2.jpg
+    - /images/applications/others/onlyoffice/screenshot-1.jpg
+    - /images/applications/others/onlyoffice/screenshot-2.jpg
 ---
 
 ## Overview

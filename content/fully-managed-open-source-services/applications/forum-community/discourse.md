@@ -3,23 +3,25 @@ draft: false
 title: Discourse fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/discourse/screenshot-1.jpg
-  description: Discourse is an open-source, self-hosted forum software that redefines
+  description:
+    Discourse is an open-source, self-hosted forum software that redefines
     community interaction with dynamic notifications, continuous scrolling, and rich
     media features for modern discussions.
-  keywords: Discourse, open-source forum software, self-hosted forum, discussion platform,
+  keywords:
+    Discourse, open-source forum software, self-hosted forum, discussion platform,
     community software, online forum, internet forum, mailing list software, dynamic
     notifications, modern forum software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: AzuraCast
-    url: /fully-managed-open-source-services/applications/forum-community/discourse
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: AzuraCast
+      url: /fully-managed-open-source-services/applications/forum-community/discourse
 content:
   id: discourse
   name: Discourse
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/forum-community/discourse
   direct_link: true
   screenshots:
-  - /images/applications/forum-community/discourse/screenshot-1.jpg
-  - /images/applications/forum-community/discourse/screenshot-2.jpg
+    - /images/applications/forum-community/discourse/screenshot-1.jpg
+    - /images/applications/forum-community/discourse/screenshot-2.jpg
 ---
 
 ## Overview

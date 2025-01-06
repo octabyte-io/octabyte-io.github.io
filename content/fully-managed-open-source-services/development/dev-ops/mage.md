@@ -3,23 +3,25 @@ draft: false
 title: Mage AI fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/mage/screenshot-1.jpg
-  description: Mage AI is an advanced platform for building, managing, and automating
+  description:
+    Mage AI is an advanced platform for building, managing, and automating
     data pipelines. It simplifies integration, transformation, and monitoring, providing
     seamless orchestration for real-time and batch data processing.
-  keywords: Mage AI, data pipeline, data orchestration, data integration, data transformation,
+  keywords:
+    Mage AI, data pipeline, data orchestration, data integration, data transformation,
     real-time processing, batch processing, Python, SQL, R, monitoring, observability,
     Airflow alternative
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Mage AI
-    url: /fully-managed-open-source-services/development/dev-ops/mage
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Mage AI
+      url: /fully-managed-open-source-services/development/dev-ops/mage
 content:
   id: mage
   name: Mage AI
@@ -28,8 +30,8 @@ content:
   website: https://www.mage.ai/
   iframe_website: /website/development/dev-ops/mage
   screenshots:
-  - /images/development/dev-ops/mage/screenshot-1.jpg
-  - /images/development/dev-ops/mage/screenshot-2.webp
+    - /images/development/dev-ops/mage/screenshot-1.jpg
+    - /images/development/dev-ops/mage/screenshot-2.webp
 ---
 
 ## Overview

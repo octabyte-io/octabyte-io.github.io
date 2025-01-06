@@ -3,23 +3,25 @@ draft: false
 title: ToolJet fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/tooljet/screenshot-1.jpg
-  description: ToolJet allows you to rapidly build powerful internal tools by connecting
+  description:
+    ToolJet allows you to rapidly build powerful internal tools by connecting
     to databases, services, cloud storage, and custom APIs. It features a visual builder
     with support for custom JavaScript code to tailor your tools.
-  keywords: ToolJet, open-source internal tools, visual builder, JavaScript support,
+  keywords:
+    ToolJet, open-source internal tools, visual builder, JavaScript support,
     API integration, database connection, cloud storage, rapid tool development, internal
     applications, no-code tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: ToolJet
-    url: /fully-managed-open-source-services/development/nocode-lowcode/tooljet
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: ToolJet
+      url: /fully-managed-open-source-services/development/nocode-lowcode/tooljet
 content:
   id: tooljet
   name: ToolJet
@@ -28,8 +30,8 @@ content:
   website: https://tooljet.com/
   iframe_website: /website/development/nocode-lowcode/tooljet
   screenshots:
-  - /images/development/nocode-lowcode/tooljet/screenshot-1.jpg
-  - /images/development/nocode-lowcode/tooljet/screenshot-2.jpg
+    - /images/development/nocode-lowcode/tooljet/screenshot-1.jpg
+    - /images/development/nocode-lowcode/tooljet/screenshot-2.jpg
 ---
 
 ## Overview

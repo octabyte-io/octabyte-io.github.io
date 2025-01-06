@@ -3,23 +3,25 @@ draft: false
 title: LibreTranslate fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/libretranslate/screenshot-1.png
-  description: LibreTranslate is a free, open-source, and self-hosted machine translation
+  description:
+    LibreTranslate is a free, open-source, and self-hosted machine translation
     API that supports 29 languages and ensures full privacy without relying on proprietary
     services like Google or Azure.
-  keywords: LibreTranslate, open-source translation, free translation API, self-hosted
+  keywords:
+    LibreTranslate, open-source translation, free translation API, self-hosted
     machine translation, Argos Translate, multilingual API, privacy-focused translation,
     language translation API
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: LibreTranslate
-    url: /fully-managed-open-source-services/development/nocode-lowcode/libretranslate
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: LibreTranslate
+      url: /fully-managed-open-source-services/development/nocode-lowcode/libretranslate
 content:
   id: libretranslate
   name: LibreTranslate
@@ -28,8 +30,8 @@ content:
   website: https://libretranslate.com/
   iframe_website: /website/development/others/libretranslate
   screenshots:
-  - /images/development/others/libretranslate/screenshot-1.png
-  - /images/development/others/libretranslate/screenshot-2.png
+    - /images/development/others/libretranslate/screenshot-1.png
+    - /images/development/others/libretranslate/screenshot-2.png
 ---
 
 ## Overview

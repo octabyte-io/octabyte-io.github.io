@@ -3,35 +3,38 @@ draft: false
 title: Ragflow fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/ragflow/screenshot-1.png
-  description: RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation)
+  description:
+    RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation)
     engine designed for deep document understanding, delivering accurate, citation-backed
     question answering when integrated with LLMs.
-  keywords: RAGFlow, open-source RAG engine, retrieval-augmented generation, document
+  keywords:
+    RAGFlow, open-source RAG engine, retrieval-augmented generation, document
     understanding, question answering, citation-backed answers, deep learning, LLM
     integration, knowledge extraction, unstructured data, AI question answering, API
     integration.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Ragflow
-    url: /fully-managed-open-source-services/applications/others/ragflow
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Ragflow
+      url: /fully-managed-open-source-services/applications/others/ragflow
 content:
   id: ragflow
   name: Ragflow
-  title: 'Unlock the Power of RAGFlow: The Open-Source Retrieval-Augmented Generation
-    Engine'
+  title:
+    "Unlock the Power of RAGFlow: The Open-Source Retrieval-Augmented Generation
+    Engine"
   logo: /images/applications/others/ragflow/logo.png
   website: https://ragflow.io/
   iframe_website: /website/applications/others/ragflow
   screenshots:
-  - /images/applications/others/ragflow/screenshot-1.png
-  - /images/applications/others/ragflow/screenshot-2.png
+    - /images/applications/others/ragflow/screenshot-1.png
+    - /images/applications/others/ragflow/screenshot-2.png
 ---
 
 ## Overview

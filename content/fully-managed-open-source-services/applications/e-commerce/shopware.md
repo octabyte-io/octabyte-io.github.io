@@ -3,22 +3,24 @@ draft: false
 title: Shopware fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/e-commerce/shopware/screenshot-1.png
-  description: Shopware is a comprehensive e-commerce platform designed for both B2C
+  description:
+    Shopware is a comprehensive e-commerce platform designed for both B2C
     and B2B businesses, offering scalability, flexibility, and expert support to elevate
     your online store.
-  keywords: Shopware, open-source e-commerce, B2C, B2B, e-commerce platform, scalability,
+  keywords:
+    Shopware, open-source e-commerce, B2C, B2B, e-commerce platform, scalability,
     performance, flexibility, e-commerce automation, data ownership, e-commerce security
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: E-commerce
-    url: /fully-managed-open-source-services/applications/e-commerce
-  - name: Shopware
-    url: /fully-managed-open-source-services/applications/e-commerce/shopware
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: E-commerce
+      url: /fully-managed-open-source-services/applications/e-commerce
+    - name: Shopware
+      url: /fully-managed-open-source-services/applications/e-commerce/shopware
 content:
   id: shopware
   name: Shopware
@@ -27,8 +29,8 @@ content:
   website: https://www.shopware.com/
   iframe_website: /website/applications/e-commerce/shopware
   screenshots:
-  - /images/applications/e-commerce/shopware/screenshot-1.png
-  - /images/applications/e-commerce/shopware/screenshot-2.png
+    - /images/applications/e-commerce/shopware/screenshot-1.png
+    - /images/applications/e-commerce/shopware/screenshot-2.png
 ---
 
 ## Overview

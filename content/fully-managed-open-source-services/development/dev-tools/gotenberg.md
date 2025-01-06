@@ -3,23 +3,25 @@ draft: false
 title: Gotenberg fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gotenberg/screenshot-1.png
-  description: Gotenberg offers a developer-friendly API to easily convert, merge,
+  description:
+    Gotenberg offers a developer-friendly API to easily convert, merge,
     and manipulate a variety of document formats into PDFs, using tools like Chromium
     and LibreOffice.
-  keywords: Gotenberg, document conversion API, PDF conversion, convert Word to PDF,
+  keywords:
+    Gotenberg, document conversion API, PDF conversion, convert Word to PDF,
     convert Excel to PDF, developer API, modular platform, Chromium, LibreOffice,
     asynchronous workflow
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gotenberg
-    url: /fully-managed-open-source-services/development/dev-tools/gotenberg
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gotenberg
+      url: /fully-managed-open-source-services/development/dev-tools/gotenberg
 content:
   id: gotenberg
   name: Gotenberg
@@ -28,8 +30,8 @@ content:
   website: https://gotenberg.dev/
   iframe_website: /website/development/dev-tools/gotenberg
   screenshots:
-  - /images/development/dev-tools/gotenberg/screenshot-1.png
-  - /images/development/dev-tools/gotenberg/screenshot-2.png
+    - /images/development/dev-tools/gotenberg/screenshot-1.png
+    - /images/development/dev-tools/gotenberg/screenshot-2.png
 ---
 
 ## Overview

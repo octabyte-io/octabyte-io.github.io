@@ -3,23 +3,25 @@ draft: false
 title: Solr fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/solr/screenshot-1.png
-  description: Apache Solr is an open-source, enterprise-level search platform that
+  description:
+    Apache Solr is an open-source, enterprise-level search platform that
     provides powerful full-text search capabilities, advanced query features, and
     extensive scalability for high-volume applications.
-  keywords: Apache Solr, Enterprise Search, Open Source Search, Full-Text Search,
+  keywords:
+    Apache Solr, Enterprise Search, Open Source Search, Full-Text Search,
     Solr Features, Scalable Search Engine, REST API Search, Data Indexing, Query Capabilities,
     Solr Plugins
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: Solr
-    url: /fully-managed-open-source-services/applications/search/solr
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: Solr
+      url: /fully-managed-open-source-services/applications/search/solr
 content:
   id: solr
   name: Solr
@@ -28,8 +30,8 @@ content:
   website: https://solr.apache.org/
   iframe_website: /website/applications/search/solr
   screenshots:
-  - /images/applications/search/solr/screenshot-1.png
-  - /images/applications/search/solr/screenshot-2.png
+    - /images/applications/search/solr/screenshot-1.png
+    - /images/applications/search/solr/screenshot-2.png
 ---
 
 ## Overview

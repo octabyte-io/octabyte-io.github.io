@@ -3,24 +3,26 @@ draft: false
 title: Dashy fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/dashy/screenshot-1.png
-  description: Dashy is a fully customizable, self-hostable dashboard that provides
+  description:
+    Dashy is a fully customizable, self-hostable dashboard that provides
     a streamlined interface for monitoring your apps and services with widgets, themes,
     icons, and status indicators. Perfect for tech enthusiasts and developers looking
     to optimize their workflow.
-  keywords: self-hostable dashboard, customizable dashboard, app monitoring, status
+  keywords:
+    self-hostable dashboard, customizable dashboard, app monitoring, status
     indicators, UI editor, icon packs, widgets, machine translations, Dashy, personal
     dashboard, open-source dashboard, personal productivity tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Dashy
-    url: /fully-managed-open-source-services/applications/others/dashy
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Dashy
+      url: /fully-managed-open-source-services/applications/others/dashy
 content:
   id: dashy
   name: Dashy
@@ -29,8 +31,8 @@ content:
   website: https://dashy.to/
   iframe_website: /website/applications/others/dashy
   screenshots:
-  - /images/applications/others/dashy/screenshot-1.png
-  - /images/applications/others/dashy/screenshot-2.png
+    - /images/applications/others/dashy/screenshot-1.png
+    - /images/applications/others/dashy/screenshot-2.png
 ---
 
 ## Overview

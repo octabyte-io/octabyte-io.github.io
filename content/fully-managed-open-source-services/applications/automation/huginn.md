@@ -3,35 +3,38 @@ draft: false
 title: Huginn fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/automation/huginn/screenshot-1.jpg
-  description: "Huginn is a powerful system for creating agents that automate tasks,\
+  description:
+    "Huginn is a powerful system for creating agents that automate tasks,\
     \ monitor events, and interact with various services on your behalf. It\u2019\
     s like a personalized IFTTT for your server, giving you full control of your data."
-  keywords: Huginn, automate tasks, self-hosted automation, online automation, event
+  keywords:
+    Huginn, automate tasks, self-hosted automation, online automation, event
     tracking, personalized IFTTT, Zapier alternative, automate notifications, server
     automation, API integration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Huginn
-    url: /fully-managed-open-source-services/applications/automation/huginn
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Huginn
+      url: /fully-managed-open-source-services/applications/automation/huginn
 content:
   id: huginn
   name: Huginn
-  title: "Automate Your Online Tasks with Huginn \u2013 The Ultimate Self-Hosted Agent\
+  title:
+    "Automate Your Online Tasks with Huginn \u2013 The Ultimate Self-Hosted Agent\
     \ Platform"
   logo: /images/applications/automation/huginn/logo.png
   website: https://github.com/huginn/huginn
   iframe_website: /website/applications/automation/huginn
   direct_link: true
   screenshots:
-  - /images/applications/automation/huginn/screenshot-1.jpg
-  - /images/applications/automation/huginn/screenshot-2.jpg
+    - /images/applications/automation/huginn/screenshot-1.jpg
+    - /images/applications/automation/huginn/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Milvus fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/milvus/screenshot-1.png
-  description: Milvus is an open-source vector database designed for GenAI applications.
+  description:
+    Milvus is an open-source vector database designed for GenAI applications.
     It offers high-speed searches, elastic scalability, and a thriving community for
     support.
-  keywords: Milvus database, open-source vector database, GenAI, scalable database,
+  keywords:
+    Milvus database, open-source vector database, GenAI, scalable database,
     high-speed searches, vector search, global index, AI applications, reusable code,
     distributed database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: Milvus
-    url: /fully-managed-open-source-services/databases/specialized-databases/milvus
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: Milvus
+      url: /fully-managed-open-source-services/databases/specialized-databases/milvus
 content:
   id: milvus
   name: Milvus
@@ -28,8 +30,8 @@ content:
   website: https://milvus.io/
   iframe_website: /website/databases/specialized-databases/milvus
   screenshots:
-  - /images/databases/specialized-databases/milvus/screenshot-1.png
-  - /images/databases/specialized-databases/milvus/screenshot-2.png
+    - /images/databases/specialized-databases/milvus/screenshot-1.png
+    - /images/databases/specialized-databases/milvus/screenshot-2.png
 ---
 
 ## Overview

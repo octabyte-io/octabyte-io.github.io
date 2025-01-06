@@ -3,23 +3,25 @@ draft: false
 title: SuiteCRM fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/suitecrm/screenshot-1.png
-  description: SuiteCRM is a comprehensive, open-source CRM software that enhances
+  description:
+    SuiteCRM is a comprehensive, open-source CRM software that enhances
     sales, marketing, and customer service with powerful automation, insightful reporting,
     and personalized dashboards.
-  keywords: SuiteCRM, CRM software, open-source CRM, customer relationship management,
+  keywords:
+    SuiteCRM, CRM software, open-source CRM, customer relationship management,
     sales automation, marketing automation, CRM reports, business dashboards, customer
     service management, sales pipeline management, CRM platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: SuiteCRM
-    url: /fully-managed-open-source-services/applications/crm-erp/suitecrm
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: SuiteCRM
+      url: /fully-managed-open-source-services/applications/crm-erp/suitecrm
 content:
   id: suitecrm
   name: SuiteCRM
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/crm-erp/suitecrm
   direct_link: true
   screenshots:
-  - /images/applications/crm-erp/suitecrm/screenshot-1.png
-  - /images/applications/crm-erp/suitecrm/screenshot-2.png
+    - /images/applications/crm-erp/suitecrm/screenshot-1.png
+    - /images/applications/crm-erp/suitecrm/screenshot-2.png
 ---
 
 ## Overview

@@ -3,24 +3,26 @@ draft: false
 title: Attendize fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/attendize/screenshot-1.png
-  description: Attendize is a powerful event management and ticket-selling platform
+  description:
+    Attendize is a powerful event management and ticket-selling platform
     offering seamless attendee management, secure payment options, and advanced features
     to ensure successful events.
-  keywords: Attendize, ticket-selling platform, event management software, open-source
+  keywords:
+    Attendize, ticket-selling platform, event management software, open-source
     event management, attendee management, payment gateway integration, event planning
     tools, affiliate tracking, ticket-selling widget, PayPal integration, Stripe integration,
     Coinbase integration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: Attendize
-    url: /fully-managed-open-source-services/applications/crm-erp/attendize
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Attendize
+      url: /fully-managed-open-source-services/applications/crm-erp/attendize
 content:
   id: attendize
   name: Attendize
@@ -29,8 +31,8 @@ content:
   website: https://www.attendize.com/
   iframe_website: /website/applications/crm-erp/attendize
   screenshots:
-  - /images/applications/crm-erp/attendize/screenshot-1.png
-  - /images/applications/crm-erp/attendize/screenshot-2.png
+    - /images/applications/crm-erp/attendize/screenshot-1.png
+    - /images/applications/crm-erp/attendize/screenshot-2.png
 ---
 
 ## Overview

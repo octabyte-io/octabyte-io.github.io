@@ -3,23 +3,25 @@ draft: false
 title: OpenLDAP fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/openldap/screenshot-1.png
-  description: OpenLDAP is an open-source LDAP protocol implementation, known for
+  description:
+    OpenLDAP is an open-source LDAP protocol implementation, known for
     its flexibility, cost-effectiveness, and cross-platform compatibility. It centralizes
     user authentication and integrates easily with various systems.
-  keywords: OpenLDAP, LDAP protocol, centralized authentication, open-source LDAP,
+  keywords:
+    OpenLDAP, LDAP protocol, centralized authentication, open-source LDAP,
     SSL/TLS support, phpLDAPadmin, LDAP integration, directory services, secure authentication,
     LDAP server management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: OpenLDAP
-    url: /fully-managed-open-source-services/development/dev-ops/openldap
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: OpenLDAP
+      url: /fully-managed-open-source-services/development/dev-ops/openldap
 content:
   id: openldap
   name: OpenLDAP
@@ -28,8 +30,8 @@ content:
   website: https://www.openldap.org/
   iframe_website: /website/development/dev-ops/openldap
   screenshots:
-  - /images/development/dev-ops/openldap/screenshot-1.png
-  - /images/development/dev-ops/openldap/screenshot-2.jpg
+    - /images/development/dev-ops/openldap/screenshot-1.png
+    - /images/development/dev-ops/openldap/screenshot-2.jpg
 ---
 
 ## Overview

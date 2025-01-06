@@ -3,23 +3,25 @@ draft: false
 title: Meilisearch fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/meilisearch/screenshot-1.jpg
-  description: "Meilisearch is a lightning-fast, customizable open-source search engine\
+  description:
+    "Meilisearch is a lightning-fast, customizable open-source search engine\
     \ designed to offer highly relevant search results in real time. Perfect for developers,\
     \ it\u2019s easy to install and offers extensive options for customization."
-  keywords: Meilisearch, open-source search engine, fast search engine, scalable search,
+  keywords:
+    Meilisearch, open-source search engine, fast search engine, scalable search,
     real-time search, customizable search, typo-tolerant search, relevant search results,
     search engine for developers, Meilisearch features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: Meilisearch
-    url: /fully-managed-open-source-services/applications/search/meilisearch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: Meilisearch
+      url: /fully-managed-open-source-services/applications/search/meilisearch
 content:
   id: meilisearch
   name: Meilisearch
@@ -28,8 +30,8 @@ content:
   website: https://www.meilisearch.com/
   iframe_website: /website/applications/search/meilisearch
   screenshots:
-  - /images/applications/search/meilisearch/screenshot-1.jpg
-  - /images/applications/search/meilisearch/screenshot-2.jpg
+    - /images/applications/search/meilisearch/screenshot-1.jpg
+    - /images/applications/search/meilisearch/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,26 +3,28 @@ draft: false
 title: Tolgee fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/tolgee/screenshot-1.jpg
-  description: Tolgee is a developer-centric localization platform that simplifies
+  description:
+    Tolgee is a developer-centric localization platform that simplifies
     translating applications into any language, supporting web, mobile, and desktop
     apps. Integrating seamlessly into your development workflow, Tolgee streamlines
     translation management and offers powerful features like in-context translation
     and machine translation.
-  keywords: Localization platform, Tolgee, application translation, web app translation,
+  keywords:
+    Localization platform, Tolgee, application translation, web app translation,
     mobile app translation, desktop app translation, translation management, in-context
     translation, translation memory, machine translation, auto-translation, developer
     tools, multilingual applications, translation workflow
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Tolgee
-    url: /fully-managed-open-source-services/applications/others/tolgee
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Tolgee
+      url: /fully-managed-open-source-services/applications/others/tolgee
 content:
   id: tolgee
   name: Tolgee
@@ -31,8 +33,8 @@ content:
   website: https://tolgee.io/
   iframe_website: /website/applications/others/tolgee
   screenshots:
-  - /images/applications/others/tolgee/screenshot-1.jpg
-  - /images/applications/others/tolgee/screenshot-2.jpg
+    - /images/applications/others/tolgee/screenshot-1.jpg
+    - /images/applications/others/tolgee/screenshot-2.jpg
 ---
 
 ## Overview

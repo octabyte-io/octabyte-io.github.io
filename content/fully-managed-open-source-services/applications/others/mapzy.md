@@ -3,23 +3,25 @@ draft: false
 title: Mapzy fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/mapzy/screenshot-1.png
-  description: Mapzy lets you add a stunning, code-free store locator to your website.
+  description:
+    Mapzy lets you add a stunning, code-free store locator to your website.
     It's simple, mobile-friendly, and privacy-conscious, offering both a managed service
     and self-hosting option.
-  keywords: store locator, website store map, privacy-friendly map, no-code store
+  keywords:
+    store locator, website store map, privacy-friendly map, no-code store
     locator, GDPR compliant map, open-source locator, self-hostable map, map integration
     for websites, location map for websites, store locator plugin
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Mapzy
-    url: /fully-managed-open-source-services/applications/others/mapzy
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Mapzy
+      url: /fully-managed-open-source-services/applications/others/mapzy
 content:
   id: mapzy
   name: Mapzy
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/others/mapzy
   direct_link: true
   screenshots:
-  - /images/applications/others/mapzy/screenshot-1.png
-  - /images/applications/others/mapzy/screenshot-2.png
+    - /images/applications/others/mapzy/screenshot-1.png
+    - /images/applications/others/mapzy/screenshot-2.png
 ---
 
 ## Overview

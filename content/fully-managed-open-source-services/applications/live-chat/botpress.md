@@ -3,23 +3,25 @@ draft: false
 title: Botpress fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/botpress/screenshot-1.png
-  description: Botpress is an AI-powered chatbot builder that enables the creation
+  description:
+    Botpress is an AI-powered chatbot builder that enables the creation
     of intelligent, conversational bots for businesses and projects. Powered by OpenAI,
     Botpress ensures bots understand context, sentiment, and complex dialogues.
-  keywords: Botpress, chatbot builder, OpenAI, GPT-powered, natural language understanding,
+  keywords:
+    Botpress, chatbot builder, OpenAI, GPT-powered, natural language understanding,
     sentiment analysis, conversational AI, business automation, AI-driven bots, intelligent
     chatbots, chatbot platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Botpress
-    url: /fully-managed-open-source-services/applications/live-chat/botpress
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Botpress
+      url: /fully-managed-open-source-services/applications/live-chat/botpress
 content:
   id: botpress
   name: Botpress
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/live-chat/botpress
   direct_link: true
   screenshots:
-  - /images/applications/live-chat/botpress/screenshot-1.png
-  - /images/applications/live-chat/botpress/screenshot-2.png
+    - /images/applications/live-chat/botpress/screenshot-1.png
+    - /images/applications/live-chat/botpress/screenshot-2.png
 ---
 
 ## Overview

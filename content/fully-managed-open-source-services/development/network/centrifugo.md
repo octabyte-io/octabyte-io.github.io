@@ -3,24 +3,26 @@ draft: false
 title: Centrifugo fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/centrifugo/screenshot-1.jpg
-  description: Centrifugo is a high-performance, self-hosted real-time messaging server
+  description:
+    Centrifugo is a high-performance, self-hosted real-time messaging server
     that integrates seamlessly with any programming language, delivering real-time
     communication with low latency and impressive scalability.
-  keywords: Centrifugo, real-time messaging, PUB/SUB server, scalable messaging server,
+  keywords:
+    Centrifugo, real-time messaging, PUB/SUB server, scalable messaging server,
     WebSocket integration, real-time applications, low latency messaging, self-hosted
     server, Go language, real-time presence, scalable server, messaging API, instant
     messaging
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: Centrifugo
-    url: /fully-managed-open-source-services/development/network/centrifugo
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: Centrifugo
+      url: /fully-managed-open-source-services/development/network/centrifugo
 content:
   id: centrifugo
   name: Centrifugo
@@ -29,8 +31,8 @@ content:
   website: https://centrifugal.dev/
   iframe_website: /website/development/network/centrifugo
   screenshots:
-  - /images/development/network/centrifugo/screenshot-1.jpg
-  - /images/development/network/centrifugo/screenshot-2.jpg
+    - /images/development/network/centrifugo/screenshot-1.jpg
+    - /images/development/network/centrifugo/screenshot-2.jpg
 ---
 
 ## Overview

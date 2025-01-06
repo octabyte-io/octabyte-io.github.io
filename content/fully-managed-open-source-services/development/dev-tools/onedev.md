@@ -3,23 +3,25 @@ draft: false
 title: Onedev fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/onedev/screenshot-1.jpg
-  description: OneDev is an all-in-one DevOps platform offering Git repository management,
+  description:
+    OneDev is an all-in-one DevOps platform offering Git repository management,
     issue tracking, and a powerful Docker-first Kubernetes native build engine for
     streamlined CI/CD workflows.
-  keywords: OneDev, DevOps platform, CI/CD, Git repository management, Docker, Kubernetes,
+  keywords:
+    OneDev, DevOps platform, CI/CD, Git repository management, Docker, Kubernetes,
     build automation, issue management, scalable DevOps, GitLab alternative, DevOps
     tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Onedev
-    url: /fully-managed-open-source-services/development/dev-tools/onedev
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Onedev
+      url: /fully-managed-open-source-services/development/dev-tools/onedev
 content:
   id: onedev
   name: Onedev
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/dev-tools/onedev
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/onedev/screenshot-1.jpg
-  - /images/development/dev-tools/onedev/screenshot-2.jpg
+    - /images/development/dev-tools/onedev/screenshot-1.jpg
+    - /images/development/dev-tools/onedev/screenshot-2.jpg
 ---
 
 ## Overview

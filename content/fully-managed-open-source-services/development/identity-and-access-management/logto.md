@@ -3,23 +3,25 @@ draft: false
 title: Logto fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/logto/screenshot-1.png
-  description: Logto is a comprehensive and user-friendly platform for managing customer
+  description:
+    Logto is a comprehensive and user-friendly platform for managing customer
     identity and authentication, offering passwordless logins, social sign-ins, and
     multi-tenancy capabilities. Ideal for both B2C and B2B applications.
-  keywords: Logto, Auth0 alternative, identity management, user authentication, passwordless
+  keywords:
+    Logto, Auth0 alternative, identity management, user authentication, passwordless
     sign-in, role-based access control, B2C, B2B, multi-tenancy, management API, social
     login, secure authentication
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: Logto
-    url: /fully-managed-open-source-services/development/identity-and-access-management/logto
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: Logto
+      url: /fully-managed-open-source-services/development/identity-and-access-management/logto
 content:
   id: logto
   name: Logto
@@ -28,8 +30,8 @@ content:
   website: https://logto.io/
   iframe_website: /website/development/identity-and-access-management/logto
   screenshots:
-  - /images/development/identity-and-access-management/logto/screenshot-1.png
-  - /images/development/identity-and-access-management/logto/screenshot-2.png
+    - /images/development/identity-and-access-management/logto/screenshot-1.png
+    - /images/development/identity-and-access-management/logto/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: PostHog fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/posthog/screenshot-1.jpg
-  description: PostHog offers product analytics, video replays, feature flags, and
+  description:
+    PostHog offers product analytics, video replays, feature flags, and
     more to help engineers build products that users love, all while maintaining full
     control over customer data.
-  keywords: PostHog, product analytics, data infrastructure, feature flags, video
+  keywords:
+    PostHog, product analytics, data infrastructure, feature flags, video
     replays, feedback tools, self-hosting, private cloud, compliance, data privacy,
     experimentation, API access, SQL access
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: PostHog
-    url: /fully-managed-open-source-services/applications/analytics/posthog
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: PostHog
+      url: /fully-managed-open-source-services/applications/analytics/posthog
 content:
   id: posthog
   name: PostHog
@@ -28,8 +30,8 @@ content:
   website: https://posthog.com/
   iframe_website: /website/applications/analytics/posthog
   screenshots:
-  - /images/applications/analytics/posthog/screenshot-1.jpg
-  - /images/applications/analytics/posthog/screenshot-2.jpg
+    - /images/applications/analytics/posthog/screenshot-1.jpg
+    - /images/applications/analytics/posthog/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: MariaDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/mariadb/screenshot-1.jpg
-  description: MariaDB is an open-source relational database offering modern SQL capabilities,
+  description:
+    MariaDB is an open-source relational database offering modern SQL capabilities,
     pluggable storage engines, and seamless MySQL compatibility, ideal for scalable,
     high-performance applications.
-  keywords: MariaDB database, open-source relational database, MySQL replacement,
+  keywords:
+    MariaDB database, open-source relational database, MySQL replacement,
     modern SQL database, Galera Cluster, pluggable storage engines, scalable database,
     MariaDB ColumnStore, analytics database, high-performance database.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: MariaDB
-    url: /fully-managed-open-source-services/databases/relational-databases/mariadb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: MariaDB
+      url: /fully-managed-open-source-services/databases/relational-databases/mariadb
 content:
   id: mariadb
   name: MariaDB
@@ -28,8 +30,8 @@ content:
   website: https://mariadb.org/
   iframe_website: /website/databases/relational-databases/mariadb
   screenshots:
-  - /images/databases/relational-databases/mariadb/screenshot-1.jpg
-  - /images/databases/relational-databases/mariadb/screenshot-2.jpg
+    - /images/databases/relational-databases/mariadb/screenshot-1.jpg
+    - /images/databases/relational-databases/mariadb/screenshot-2.jpg
 ---
 
 ## Overview

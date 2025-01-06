@@ -3,23 +3,25 @@ draft: false
 title: Ollama fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/ollama/screenshot-1.png
-  description: Ollama is a ChatGPT-style web UI client for interacting with large
+  description:
+    Ollama is a ChatGPT-style web UI client for interacting with large
     language models like Llama 2 and Mistral, featuring intuitive chat, full Markdown/LaTeX
     support, and advanced RAG and RLHF integration.
-  keywords: Ollama, ChatGPT-style, LLMs, large language models, Llama 2, Mistral,
+  keywords:
+    Ollama, ChatGPT-style, LLMs, large language models, Llama 2, Mistral,
     web UI, intuitive chat, Markdown, LaTeX, Retrieval Augmented Generation, RLHF,
     AI chat, model fine-tuning, machine learning, open-source
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: Ollama
-    url: /fully-managed-open-source-services/applications/search/ollama
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: Ollama
+      url: /fully-managed-open-source-services/applications/search/ollama
 content:
   id: ollama
   name: Ollama
@@ -28,8 +30,8 @@ content:
   website: https://openwebui.com/
   iframe_website: /website/applications/search/ollama
   screenshots:
-  - /images/applications/search/ollama/screenshot-1.png
-  - /images/applications/search/ollama/screenshot-2.jpg
+    - /images/applications/search/ollama/screenshot-1.png
+    - /images/applications/search/ollama/screenshot-2.jpg
 ---
 
 ## Overview

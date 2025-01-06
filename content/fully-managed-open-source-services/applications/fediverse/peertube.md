@@ -3,23 +3,25 @@ draft: false
 title: PeerTube fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/peertube/screenshot-1.png
-  description: PeerTube is an open-source, decentralized video platform that empowers
+  description:
+    PeerTube is an open-source, decentralized video platform that empowers
     users to host and share content while promoting freedom, privacy, and community-based
     moderation.
-  keywords: PeerTube, decentralized video platform, open-source video hosting, federated
+  keywords:
+    PeerTube, decentralized video platform, open-source video hosting, federated
     video platform, free video sharing, alternative to YouTube, ActivityPub, community-driven
     video hosting, video privacy, open-source software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: PeerTube
-    url: /fully-managed-open-source-services/applications/fediverse/peertube
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: PeerTube
+      url: /fully-managed-open-source-services/applications/fediverse/peertube
 content:
   id: peertube
   name: PeerTube
@@ -28,8 +30,8 @@ content:
   website: https://joinpeertube.org/
   iframe_website: /website/applications/fediverse/peertube
   screenshots:
-  - /images/applications/fediverse/peertube/screenshot-1.png
-  - /images/applications/fediverse/peertube/screenshot-2.png
+    - /images/applications/fediverse/peertube/screenshot-1.png
+    - /images/applications/fediverse/peertube/screenshot-2.png
 ---
 
 ## Overview

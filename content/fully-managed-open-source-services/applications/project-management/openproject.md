@@ -3,35 +3,38 @@ draft: false
 title: OpenProject fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/openproject/screenshot-1.jpg
-  description: OpenProject is a secure, open-source project management software for
+  description:
+    OpenProject is a secure, open-source project management software for
     effective team collaboration, task tracking, time management, and project delivery.
     It offers full data control with on-premises installation and supports agile,
     classic, and hybrid project methodologies.
-  keywords: OpenProject, open-source project management, agile project management,
+  keywords:
+    OpenProject, open-source project management, agile project management,
     hybrid project management, task tracking software, project management tool, time
     tracking, project budget management, team collaboration, on-premises software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: OpenProject
-    url: /fully-managed-open-source-services/applications/project-management/openproject
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: OpenProject
+      url: /fully-managed-open-source-services/applications/project-management/openproject
 content:
   id: openproject
   name: OpenProject
-  title: Open-Source Project Management Software for Efficient Team Collaboration
+  title:
+    Open-Source Project Management Software for Efficient Team Collaboration
     and Timely Project Delivery
   logo: /images/applications/project-management/openproject/logo.png
   website: https://www.openproject.org/
   iframe_website: /website/applications/project-management/openproject
   screenshots:
-  - /images/applications/project-management/openproject/screenshot-1.jpg
-  - /images/applications/project-management/openproject/screenshot-2.jpg
+    - /images/applications/project-management/openproject/screenshot-1.jpg
+    - /images/applications/project-management/openproject/screenshot-2.jpg
 ---
 
 ## Overview

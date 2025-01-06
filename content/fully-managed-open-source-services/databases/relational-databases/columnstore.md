@@ -3,23 +3,25 @@ draft: false
 title: ColumnStore fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/columnstore/screenshot-1.png
-  description: MariaDB ColumnStore is an open-source columnar database designed for
+  description:
+    MariaDB ColumnStore is an open-source columnar database designed for
     modern analytics, offering advanced SQL, columnar storage, and seamless MySQL
     compatibility.
-  keywords: ColumnStore database, MariaDB ColumnStore, open-source database, columnar
+  keywords:
+    ColumnStore database, MariaDB ColumnStore, open-source database, columnar
     database, MySQL replacement, modern SQL, analytics database, HTAP database, MPP
     database, MariaDB features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: ColumnStore
-    url: /fully-managed-open-source-services/databases/relational-databases/columnstore
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: ColumnStore
+      url: /fully-managed-open-source-services/databases/relational-databases/columnstore
 content:
   id: columnstore
   name: ColumnStore
@@ -28,8 +30,8 @@ content:
   website: https://mariadb.org/
   iframe_website: /website/databases/relational-databases/columnstore
   screenshots:
-  - /images/databases/relational-databases/columnstore/screenshot-1.png
-  - /images/databases/relational-databases/columnstore/screenshot-2.png
+    - /images/databases/relational-databases/columnstore/screenshot-1.png
+    - /images/databases/relational-databases/columnstore/screenshot-2.png
 ---
 
 ## Overview

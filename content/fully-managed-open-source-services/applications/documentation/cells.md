@@ -3,23 +3,25 @@ draft: false
 title: Cells fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/cells/screenshot-1.png
-  description: Pydio Cells is a self-hosted document sharing and collaboration platform,
+  description:
+    Pydio Cells is a self-hosted document sharing and collaboration platform,
     offering fast performance, robust security, and advanced workflow automation for
     businesses and organizations.
-  keywords: Pydio Cells, document sharing, file management, document collaboration,
+  keywords:
+    Pydio Cells, document sharing, file management, document collaboration,
     self-hosted platform, secure file sharing, enterprise SSO, workflow automation,
     file transfer, collaboration spaces, secure document access, OpenID Connect
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Cells
-    url: /fully-managed-open-source-services/applications/documentation/cells
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Cells
+      url: /fully-managed-open-source-services/applications/documentation/cells
 content:
   id: cells
   name: Cells
@@ -28,8 +30,8 @@ content:
   website: https://pydio.com/en
   iframe_website: /website/applications/documentation/cells
   screenshots:
-  - /images/applications/documentation/cells/screenshot-1.png
-  - /images/applications/documentation/cells/screenshot-2.png
+    - /images/applications/documentation/cells/screenshot-1.png
+    - /images/applications/documentation/cells/screenshot-2.png
 ---
 
 ## Overview

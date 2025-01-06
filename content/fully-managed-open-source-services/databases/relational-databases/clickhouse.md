@@ -3,23 +3,25 @@ draft: false
 title: ClickHouse fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/clickhouse/screenshot-1.jpg
-  description: ClickHouse is a fast, scalable, and reliable OLAP database for real-time
+  description:
+    ClickHouse is a fast, scalable, and reliable OLAP database for real-time
     analytics, capable of processing billions of rows per second with enterprise-grade
     security.
-  keywords: ClickHouse database, OLAP database, real-time analytics, big data, SQL
+  keywords:
+    ClickHouse database, OLAP database, real-time analytics, big data, SQL
     database, scalable database, high-performance database, data processing, enterprise
     security, columnar storage, data analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: ClickHouse
-    url: /fully-managed-open-source-services/databases/relational-databases/clickhouse
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: ClickHouse
+      url: /fully-managed-open-source-services/databases/relational-databases/clickhouse
 content:
   id: clickhouse
   name: ClickHouse
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/relational-databases/clickhouse
   direct_link: true
   screenshots:
-  - /images/databases/relational-databases/clickhouse/screenshot-1.jpg
-  - /images/databases/relational-databases/clickhouse/screenshot-2.jpg
+    - /images/databases/relational-databases/clickhouse/screenshot-1.jpg
+    - /images/databases/relational-databases/clickhouse/screenshot-2.jpg
 ---
 
 ## Overview

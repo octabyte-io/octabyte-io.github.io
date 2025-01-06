@@ -3,23 +3,25 @@ draft: false
 title: Authentik fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/authentik/screenshot-1.jpg
-  description: Authentik is an open-source identity provider that simplifies authentication
+  description:
+    Authentik is an open-source identity provider that simplifies authentication
     and access control with flexible integrations and custom workflows, offering seamless
     sign-on, user management, and more.
-  keywords: open-source identity provider, single sign-on, SSO, user authentication,
+  keywords:
+    open-source identity provider, single sign-on, SSO, user authentication,
     access control, Authentik, authentication protocols, identity management, Python
     integrations, flexible authentication, user enrollment
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: Authentik
-    url: /fully-managed-open-source-services/development/identity-and-access-management/authentik
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: Authentik
+      url: /fully-managed-open-source-services/development/identity-and-access-management/authentik
 content:
   id: authentik
   name: Authentik
@@ -28,8 +30,8 @@ content:
   website: https://goauthentik.io/
   iframe_website: /website/development/identity-and-access-management/authentik
   screenshots:
-  - /images/development/identity-and-access-management/authentik/screenshot-1.jpg
-  - /images/development/identity-and-access-management/authentik/screenshot-2.jpg
+    - /images/development/identity-and-access-management/authentik/screenshot-1.jpg
+    - /images/development/identity-and-access-management/authentik/screenshot-2.jpg
 ---
 
 ## Overview

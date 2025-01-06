@@ -3,34 +3,37 @@ draft: false
 title: Budibase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/budibase/screenshot-1.jpg
-  description: Budibase is an open-source, low-code platform that empowers developers
+  description:
+    Budibase is an open-source, low-code platform that empowers developers
     and IT professionals to quickly build and deploy internal tools, admin panels,
     dashboards, and portals for enhanced workflow automation.
-  keywords: Budibase, open-source platform, low-code platform, build internal tools,
+  keywords:
+    Budibase, open-source platform, low-code platform, build internal tools,
     create admin panels, data dashboards, automate workflows, customizable dashboards,
     client portals, internal applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Budibase
-    url: /fully-managed-open-source-services/development/nocode-lowcode/budibase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Budibase
+      url: /fully-managed-open-source-services/development/nocode-lowcode/budibase
 content:
   id: budibase
   name: Budibase
-  title: The Ultimate Open-Source Low-Code Platform for Building Internal Tools, Admin
+  title:
+    The Ultimate Open-Source Low-Code Platform for Building Internal Tools, Admin
     Panels, and Dashboards
   logo: /images/development/nocode-lowcode/budibase/logo.png
   website: https://budibase.com/
   iframe_website: /website/development/nocode-lowcode/budibase
   screenshots:
-  - /images/development/nocode-lowcode/budibase/screenshot-1.jpg
-  - /images/development/nocode-lowcode/budibase/screenshot-2.jpg
+    - /images/development/nocode-lowcode/budibase/screenshot-1.jpg
+    - /images/development/nocode-lowcode/budibase/screenshot-2.jpg
 ---
 
 ## Overview

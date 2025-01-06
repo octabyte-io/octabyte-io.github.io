@@ -3,36 +3,39 @@ draft: false
 title: WG-Easy fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/wg-easy/screenshot-1.jpg
-  description: "WG-Easy is a user-friendly VPN solution that combines WireGuard\u2019\
+  description:
+    "WG-Easy is a user-friendly VPN solution that combines WireGuard\u2019\
     s speed and security with a simple web interface for quick and easy setup on any\
     \ device."
-  keywords: WG-Easy, WireGuard, VPN, WireGuard web UI, secure VPN, high-speed VPN,
+  keywords:
+    WG-Easy, WireGuard, VPN, WireGuard web UI, secure VPN, high-speed VPN,
     easy VPN setup, VPN solution, cross-platform VPN, secure networking, VPN client
     QR code, WireGuard performance, VPN installation, WireGuard interface, fast VPN
     solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: WG-Easy
-    url: /fully-managed-open-source-services/development/network/wg-easy
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: WG-Easy
+      url: /fully-managed-open-source-services/development/network/wg-easy
 content:
   id: wg-easy
   name: WG-Easy
-  title: Simplified WireGuard VPN with Web UI for Effortless Setup and High-Speed
+  title:
+    Simplified WireGuard VPN with Web UI for Effortless Setup and High-Speed
     Performance
   logo: /images/development/network/wg-easy/logo.png
   website: https://hub.docker.com/r/weejewel/wg-easy
   iframe_website: /website/development/network/wg-easy
   direct_link: true
   screenshots:
-  - /images/development/network/wg-easy/screenshot-1.jpg
-  - /images/development/network/wg-easy/screenshot-2.jpg
+    - /images/development/network/wg-easy/screenshot-1.jpg
+    - /images/development/network/wg-easy/screenshot-2.jpg
 ---
 
 ## Overview

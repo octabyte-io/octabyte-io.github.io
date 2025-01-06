@@ -3,23 +3,25 @@ draft: false
 title: ILLA fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/illa/screenshot-1.png
-  description: ILLA Cloud is a powerful low-code platform that enables you to quickly
+  description:
+    ILLA Cloud is a powerful low-code platform that enables you to quickly
     build internal tools and applications with ease, using AI-driven SQL generation,
     real-time collaboration, and seamless data source integration.
-  keywords: low-code platform, build internal tools, AI SQL generation, real-time
+  keywords:
+    low-code platform, build internal tools, AI SQL generation, real-time
     collaboration, integrate data sources, ILLA Cloud, application development, easy-to-use
     platform, file storage solution, no-code development, business applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: ILLA
-    url: /fully-managed-open-source-services/development/nocode-lowcode/illa
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: ILLA
+      url: /fully-managed-open-source-services/development/nocode-lowcode/illa
 content:
   id: illa
   name: ILLA
@@ -28,8 +30,8 @@ content:
   website: https://www.illacloud.com/
   iframe_website: /website/development/nocode-lowcode/illa
   screenshots:
-  - /images/development/nocode-lowcode/illa/screenshot-1.png
-  - /images/development/nocode-lowcode/illa/screenshot-2.png
+    - /images/development/nocode-lowcode/illa/screenshot-1.png
+    - /images/development/nocode-lowcode/illa/screenshot-2.png
 ---
 
 ## Overview

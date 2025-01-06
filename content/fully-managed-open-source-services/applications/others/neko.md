@@ -3,35 +3,38 @@ draft: false
 title: Neko Rooms fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/neko/screenshot-1.jpg
-  description: Neko Rooms is a self-hosted collaborative browser and room management
+  description:
+    Neko Rooms is a self-hosted collaborative browser and room management
     system, providing a seamless alternative to Rabb.it for secure and synchronized
     online experiences.
-  keywords: Neko Rooms, self-hosted alternative to Rabb.it, collaborative browser,
+  keywords:
+    Neko Rooms, self-hosted alternative to Rabb.it, collaborative browser,
     room management system, n.eko platform, synchronized browsing, real-time collaboration,
     secure online sharing, virtual rooms, movie nights
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Neko Rooms
-    url: /fully-managed-open-source-services/applications/others/neko
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Neko Rooms
+      url: /fully-managed-open-source-services/applications/others/neko
 content:
   id: neko
   name: Neko Rooms
-  title: Effortlessly Collaborate and Share with Neko Rooms - The Ultimate Self-Hosted
+  title:
+    Effortlessly Collaborate and Share with Neko Rooms - The Ultimate Self-Hosted
     Alternative to Rabb.it
   logo: /images/applications/others/neko/logo.png
   website: https://github.com/m1k1o/neko-rooms
   iframe_website: /website/applications/others/neko
   direct_link: true
   screenshots:
-  - /images/applications/others/neko/screenshot-1.jpg
-  - /images/applications/others/neko/screenshot-2.jpg
+    - /images/applications/others/neko/screenshot-1.jpg
+    - /images/applications/others/neko/screenshot-2.jpg
 ---
 
 ## Overview

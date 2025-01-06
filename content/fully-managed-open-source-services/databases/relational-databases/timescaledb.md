@@ -3,22 +3,24 @@ draft: false
 title: TimescaleDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/timescaledb/screenshot-1.jpg
-  description: TimescaleDB is an open-source PostgreSQL extension optimized for scalable,
+  description:
+    TimescaleDB is an open-source PostgreSQL extension optimized for scalable,
     high-performance time-series data management with full SQL support.
-  keywords: TimescaleDB, time-series database, scalable SQL database, PostgreSQL extension,
+  keywords:
+    TimescaleDB, time-series database, scalable SQL database, PostgreSQL extension,
     time-series analytics, high-performance database, SQL for time-series, IoT data
     storage, database for metrics, open-source database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: TimescaleDB
-    url: /fully-managed-open-source-services/databases/relational-databases/timescaledb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: TimescaleDB
+      url: /fully-managed-open-source-services/databases/relational-databases/timescaledb
 content:
   id: timescaledb
   name: TimescaleDB
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/databases/relational-databases/timescaledb
   direct_link: true
   screenshots:
-  - /images/databases/relational-databases/timescaledb/screenshot-1.jpg
-  - /images/databases/relational-databases/timescaledb/screenshot-2.jpg
+    - /images/databases/relational-databases/timescaledb/screenshot-1.jpg
+    - /images/databases/relational-databases/timescaledb/screenshot-2.jpg
 ---
 
 ## Overview

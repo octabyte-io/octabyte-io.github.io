@@ -3,34 +3,37 @@ draft: false
 title: OpenBlocks fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/openblocks/screenshot-1.png
-  description: OpenBlocks is an open-source, low-code platform for developers to rapidly
+  description:
+    OpenBlocks is an open-source, low-code platform for developers to rapidly
     build customizable internal applications with ease, using powerful UI components,
     seamless data connections, and robust security.
-  keywords: OpenBlocks, low-code platform, developer-friendly platform, open-source
+  keywords:
+    OpenBlocks, low-code platform, developer-friendly platform, open-source
     app builder, Retool alternative, build internal apps, customizable UI, data integrations,
     self-hosted platform, security-focused development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: OpenBlocks
-    url: /fully-managed-open-source-services/development/nocode-lowcode/openblocks
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: OpenBlocks
+      url: /fully-managed-open-source-services/development/nocode-lowcode/openblocks
 content:
   id: openblocks
   name: OpenBlocks
-  title: A Developer-Friendly Open-Source Low-Code Platform for Building Internal
+  title:
+    A Developer-Friendly Open-Source Low-Code Platform for Building Internal
     Apps
   logo: /images/development/nocode-lowcode/openblocks/logo.png
   website: https://openblocks.dev/
   iframe_website: /website/development/nocode-lowcode/openblocks
   screenshots:
-  - /images/development/nocode-lowcode/openblocks/screenshot-1.png
-  - /images/development/nocode-lowcode/openblocks/screenshot-2.png
+    - /images/development/nocode-lowcode/openblocks/screenshot-1.png
+    - /images/development/nocode-lowcode/openblocks/screenshot-2.png
 ---
 
 ## Overview

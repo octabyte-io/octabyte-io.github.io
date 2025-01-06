@@ -3,24 +3,26 @@ draft: false
 title: PostgreSQL fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/postgresql/screenshot-1.jpg
-  description: PostgreSQL is a robust, open-source database system known for its reliability,
+  description:
+    PostgreSQL is a robust, open-source database system known for its reliability,
     scalability, and advanced features. It offers a wide range of data types, high
     security, and unparalleled extensibility, making it the ideal choice for modern
     applications.
-  keywords: PostgreSQL, PostgreSQL database, open-source database, object-relational
+  keywords:
+    PostgreSQL, PostgreSQL database, open-source database, object-relational
     database, SQL database, ACID-compliant database, scalable database, secure database,
     extensible database, PostGIS
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: PostgreSQL
-    url: /fully-managed-open-source-services/databases/relational-databases/postgresql
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: PostgreSQL
+      url: /fully-managed-open-source-services/databases/relational-databases/postgresql
 content:
   id: postgresql
   name: PostgreSQL
@@ -29,8 +31,8 @@ content:
   website: https://www.postgresql.org/
   iframe_website: /website/databases/relational-databases/postgresql
   screenshots:
-  - /images/databases/relational-databases/postgresql/screenshot-1.jpg
-  - /images/databases/relational-databases/postgresql/screenshot-2.jpg
+    - /images/databases/relational-databases/postgresql/screenshot-1.jpg
+    - /images/databases/relational-databases/postgresql/screenshot-2.jpg
 ---
 
 ## Overview

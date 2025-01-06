@@ -3,23 +3,25 @@ draft: false
 title: Gogs fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gogs/screenshot-1.jpg
-  description: Gogs is a simple, lightweight, and cross-platform Git service that
+  description:
+    Gogs is a simple, lightweight, and cross-platform Git service that
     provides hassle-free setup and management for self-hosted repositories. It's open-source,
     free, and works across all platforms supported by Go.
-  keywords: Gogs, self-hosted Git, Git service, cross-platform Git, open-source Git,
+  keywords:
+    Gogs, self-hosted Git, Git service, cross-platform Git, open-source Git,
     lightweight Git server, Git hosting, self-hosted repositories, Go language, Git
     management tool, Git hosting solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gogs
-    url: /fully-managed-open-source-services/development/dev-tools/gogs
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gogs
+      url: /fully-managed-open-source-services/development/dev-tools/gogs
 content:
   id: gogs
   name: Gogs
@@ -28,8 +30,8 @@ content:
   website: https://gogs.io/
   iframe_website: /website/development/dev-tools/gogs
   screenshots:
-  - /images/development/dev-tools/gogs/screenshot-1.jpg
-  - /images/development/dev-tools/gogs/screenshot-2.jpg
+    - /images/development/dev-tools/gogs/screenshot-1.jpg
+    - /images/development/dev-tools/gogs/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: MeshCentral fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/meshcentral/screenshot-1.png
-  description: MeshCentral is a self-hosted, web-based remote management solution
+  description:
+    MeshCentral is a self-hosted, web-based remote management solution
     that provides secure access to remote desktops, terminals, and files, all in real
     time. Perfect for managing devices on local or global networks.
-  keywords: MeshCentral, remote management, remote desktop, multi-user, file access,
+  keywords:
+    MeshCentral, remote management, remote desktop, multi-user, file access,
     self-hosted solution, terminal access, device control, web-based interface, network
     management, real-time access
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: MeshCentral
-    url: /fully-managed-open-source-services/development/network/meshcentral
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: MeshCentral
+      url: /fully-managed-open-source-services/development/network/meshcentral
 content:
   id: meshcentral
   name: MeshCentral
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/network/meshcentral
   direct_link: true
   screenshots:
-  - /images/development/network/meshcentral/screenshot-1.png
-  - /images/development/network/meshcentral/screenshot-2.png
+    - /images/development/network/meshcentral/screenshot-1.png
+    - /images/development/network/meshcentral/screenshot-2.png
 ---
 
 ## Overview

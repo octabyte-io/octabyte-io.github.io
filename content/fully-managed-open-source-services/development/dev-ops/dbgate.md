@@ -3,23 +3,25 @@ draft: false
 title: DbGate fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/dbgate/screenshot-1.png
-  description: DbGate is a cross-platform database manager supporting MySQL, PostgreSQL,
+  description:
+    DbGate is a cross-platform database manager supporting MySQL, PostgreSQL,
     SQL Server, MongoDB, SQLite, and more. It offers powerful features like data editing,
     import/export, and SSH tunneling for secure access.
-  keywords: DbGate, database manager, MySQL, PostgreSQL, MongoDB, SQL Server, SQLite,
+  keywords:
+    DbGate, database manager, MySQL, PostgreSQL, MongoDB, SQL Server, SQLite,
     NoSQL, cross-platform, SSH tunnel, data editor, database import/export, Redis,
     Amazon Redshift, CockroachDB
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: DbGate
-    url: /fully-managed-open-source-services/development/dev-ops/dbgate
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: DbGate
+      url: /fully-managed-open-source-services/development/dev-ops/dbgate
 content:
   id: dbgate
   name: DbGate
@@ -28,8 +30,8 @@ content:
   website: https://dbgate.org/
   iframe_website: /website/development/dev-ops/dbgate
   screenshots:
-  - /images/development/dev-ops/dbgate/screenshot-1.png
-  - /images/development/dev-ops/dbgate/screenshot-2.png
+    - /images/development/dev-ops/dbgate/screenshot-1.png
+    - /images/development/dev-ops/dbgate/screenshot-2.png
 ---
 
 ## Overview

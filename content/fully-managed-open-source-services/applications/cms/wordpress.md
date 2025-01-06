@@ -3,22 +3,24 @@ draft: false
 title: Wordpress fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/wordpress/screenshot-1.jpg
-  description: WordPress is a free, open-source CMS that offers easy-to-use tools,
+  description:
+    WordPress is a free, open-source CMS that offers easy-to-use tools,
     SEO features, and full control over your website, making it the perfect platform
     for creating websites, blogs, and e-commerce stores.
-  keywords: WordPress, open-source CMS, website builder, blogging platform, SEO-friendly,
+  keywords:
+    WordPress, open-source CMS, website builder, blogging platform, SEO-friendly,
     content management, MySQL, MariaDB, WordPress plugins, WordPress themes, web development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Wordpress
-    url: /fully-managed-open-source-services/applications/cms/wordpress
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Wordpress
+      url: /fully-managed-open-source-services/applications/cms/wordpress
 content:
   id: wordpress
   name: Wordpress
@@ -27,8 +29,8 @@ content:
   website: https://wordpress.org/
   iframe_website: /website/applications/cms/wordpress
   screenshots:
-  - /images/applications/cms/wordpress/screenshot-1.jpg
-  - /images/applications/cms/wordpress/screenshot-2.jpg
+    - /images/applications/cms/wordpress/screenshot-1.jpg
+    - /images/applications/cms/wordpress/screenshot-2.jpg
 ---
 
 ## Overview

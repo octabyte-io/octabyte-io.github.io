@@ -3,21 +3,23 @@ draft: false
 title: OJS fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/ojs/screenshot-1.png
-  description: Open Journal Systems (OJS) is open-source software for managing scholarly
+  description:
+    Open Journal Systems (OJS) is open-source software for managing scholarly
     journals, offering submission, peer review, editorial workflows, and global indexing.
-  keywords: Open Journal Systems, OJS software, scholarly publishing, peer review
+  keywords:
+    Open Journal Systems, OJS software, scholarly publishing, peer review
     management, academic journals, open-source publishing, journal submission system
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: OJS
-    url: /fully-managed-open-source-services/applications/others/ojs
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: OJS
+      url: /fully-managed-open-source-services/applications/others/ojs
 content:
   id: ojs
   name: OJS
@@ -26,8 +28,8 @@ content:
   website: https://pkp.sfu.ca/software/ojs/
   iframe_website: /website/applications/others/ojs
   screenshots:
-  - /images/applications/others/ojs/screenshot-1.png
-  - /images/applications/others/ojs/screenshot-2.png
+    - /images/applications/others/ojs/screenshot-1.png
+    - /images/applications/others/ojs/screenshot-2.png
 ---
 
 ## Overview

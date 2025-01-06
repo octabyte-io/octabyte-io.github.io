@@ -3,23 +3,25 @@ draft: false
 title: MySQL fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/mysql/screenshot-1.jpg
-  description: MySQL is a fast, reliable, and secure open-source RDBMS ideal for powering
+  description:
+    MySQL is a fast, reliable, and secure open-source RDBMS ideal for powering
     high-volume websites and critical business systems. It offers high availability,
     robust scalability, and enterprise-grade security features.
-  keywords: MySQL, relational database, open-source database, RDBMS, high availability,
+  keywords:
+    MySQL, relational database, open-source database, RDBMS, high availability,
     database scalability, secure database, database management, enterprise database,
     MySQL features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: MySQL
-    url: /fully-managed-open-source-services/databases/relational-databases/mysql
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: MySQL
+      url: /fully-managed-open-source-services/databases/relational-databases/mysql
 content:
   id: mysql
   name: MySQL
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/relational-databases/mysql
   direct_link: true
   screenshots:
-  - /images/databases/relational-databases/mysql/screenshot-1.jpg
-  - /images/databases/relational-databases/mysql/screenshot-2.jpg
+    - /images/databases/relational-databases/mysql/screenshot-1.jpg
+    - /images/databases/relational-databases/mysql/screenshot-2.jpg
 ---
 
 ## Overview

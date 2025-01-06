@@ -3,23 +3,25 @@ draft: false
 title: Valkey fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/nosql/valkey/screenshot-1.jpg
-  description: Valkey is a high-performance, open-source key/value datastore for fast
+  description:
+    Valkey is a high-performance, open-source key/value datastore for fast
     caching, message queues, and more. It supports a variety of data types and offers
     high availability for reliable deployments.
-  keywords: Valkey database, key/value datastore, open-source database, caching, message
+  keywords:
+    Valkey database, key/value datastore, open-source database, caching, message
     queues, in-memory storage, high availability, fast data access, scalable database,
     Valkey features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: NoSQL
-    url: /fully-managed-open-source-services/databases/nosql
-  - name: Valkey
-    url: /fully-managed-open-source-services/databases/nosql/valkey
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
+    - name: Valkey
+      url: /fully-managed-open-source-services/databases/nosql/valkey
 content:
   id: valkey
   name: Valkey
@@ -28,8 +30,8 @@ content:
   website: https://valkey.io/
   iframe_website: /website/databases/nosql/valkey
   screenshots:
-  - /images/databases/nosql/valkey/screenshot-1.jpg
-  - /images/databases/nosql/valkey/screenshot-2.jpg
+    - /images/databases/nosql/valkey/screenshot-1.jpg
+    - /images/databases/nosql/valkey/screenshot-2.jpg
 ---
 
 ## Overview

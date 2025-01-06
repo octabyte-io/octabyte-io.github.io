@@ -3,23 +3,25 @@ draft: false
 title: NodeBB fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/nodebb/screenshot-1.jpg
-  description: NodeBB is a powerful, mobile-first, and SEO-friendly community discussion
+  description:
+    NodeBB is a powerful, mobile-first, and SEO-friendly community discussion
     platform that provides real-time interactions, social authentication, and easy
     customization.
-  keywords: NodeBB, community forum software, discussion platform, mobile-first forum,
+  keywords:
+    NodeBB, community forum software, discussion platform, mobile-first forum,
     social authentication, real-time community, SEO-friendly forum, customizable forum,
     online community, NodeBB features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: NodeBB
-    url: /fully-managed-open-source-services/applications/forum-community/nodebb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: NodeBB
+      url: /fully-managed-open-source-services/applications/forum-community/nodebb
 content:
   id: nodebb
   name: NodeBB
@@ -28,8 +30,8 @@ content:
   website: https://nodebb.org/
   iframe_website: /website/applications/forum-community/nodebb
   screenshots:
-  - /images/applications/forum-community/nodebb/screenshot-1.jpg
-  - /images/applications/forum-community/nodebb/screenshot-2.jpg
+    - /images/applications/forum-community/nodebb/screenshot-1.jpg
+    - /images/applications/forum-community/nodebb/screenshot-2.jpg
 ---
 
 ## Overview

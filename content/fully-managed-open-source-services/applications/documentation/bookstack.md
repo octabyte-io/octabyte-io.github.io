@@ -3,24 +3,26 @@ draft: false
 title: BookStack fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/bookstack/screenshot-1.jpg
-  description: BookStack is a free, open-source wiki system that offers an intuitive,
+  description:
+    BookStack is a free, open-source wiki system that offers an intuitive,
     simple platform for organizing and managing documentation. Built on Laravel, it
     provides powerful features like full-text search, easy linking, and user authentication
     integration.
-  keywords: BookStack, open-source wiki, knowledge management, documentation, Laravel,
+  keywords:
+    BookStack, open-source wiki, knowledge management, documentation, Laravel,
     PHP framework, full-text search, easy linking, authentication, GitHub, Google,
     Slack, enterprise wiki, SAML2, LDAP
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: BookStack
-    url: /fully-managed-open-source-services/applications/documentation/bookstack
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: BookStack
+      url: /fully-managed-open-source-services/applications/documentation/bookstack
 content:
   id: bookstack
   name: BookStack
@@ -29,8 +31,8 @@ content:
   website: https://www.bookstackapp.com/
   iframe_website: /website/applications/documentation/bookstack
   screenshots:
-  - /images/applications/documentation/bookstack/screenshot-1.jpg
-  - /images/applications/documentation/bookstack/screenshot-2.jpg
+    - /images/applications/documentation/bookstack/screenshot-1.jpg
+    - /images/applications/documentation/bookstack/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: InfluxDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/influxdb/screenshot-1.jpg
-  description: InfluxDB is a high-performance time series database for managing real-time
+  description:
+    InfluxDB is a high-performance time series database for managing real-time
     analytics, IoT, and cloud-native applications. It simplifies data management with
     an easy-to-use API and robust features for developers.
-  keywords: InfluxDB, time series database, real-time analytics, IoT database, cloud-native
+  keywords:
+    InfluxDB, time series database, real-time analytics, IoT database, cloud-native
     services, data storage, developer-friendly database, InfluxDB features, time-stamped
     data, real-time applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: InfluxDB
-    url: /fully-managed-open-source-services/databases/specialized-databases/influxdb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: InfluxDB
+      url: /fully-managed-open-source-services/databases/specialized-databases/influxdb
 content:
   id: influxdb
   name: InfluxDB
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/specialized-databases/influxdb
   direct_link: true
   screenshots:
-  - /images/databases/specialized-databases/influxdb/screenshot-1.jpg
-  - /images/databases/specialized-databases/influxdb/screenshot-2.jpg
+    - /images/databases/specialized-databases/influxdb/screenshot-1.jpg
+    - /images/databases/specialized-databases/influxdb/screenshot-2.jpg
 ---
 
 ## Overview

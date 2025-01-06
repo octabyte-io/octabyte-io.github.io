@@ -3,33 +3,36 @@ draft: false
 title: Dittofeed fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/dittofeed/screenshot-1.png
-  description: "Automate your customer communications with Dittofeed. Create personalized\
+  description:
+    "Automate your customer communications with Dittofeed. Create personalized\
     \ marketing journeys, segment users, and optimize your growth team\u2019s workflow."
-  keywords: Dittofeed, automate customer communication, personalized marketing, user
+  keywords:
+    Dittofeed, automate customer communication, personalized marketing, user
     segmentation, marketing automation, growth tools, customer engagement, workflow
     automation, multi-trigger journeys, customer communication software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: Dittofeed
-    url: /fully-managed-open-source-services/applications/customer-support/dittofeed
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: Dittofeed
+      url: /fully-managed-open-source-services/applications/customer-support/dittofeed
 content:
   id: dittofeed
   name: Dittofeed
-  title: "Boost Customer Engagement with Dittofeed \u2013 Automate and Personalize\
+  title:
+    "Boost Customer Engagement with Dittofeed \u2013 Automate and Personalize\
     \ Communications"
   logo: /images/applications/customer-support/dittofeed/logo.png
   website: https://dittofeed.com/
   iframe_website: /website/applications/customer-support/dittofeed
   screenshots:
-  - /images/applications/customer-support/dittofeed/screenshot-1.png
-  - /images/applications/customer-support/dittofeed/screenshot-2.png
+    - /images/applications/customer-support/dittofeed/screenshot-1.png
+    - /images/applications/customer-support/dittofeed/screenshot-2.png
 ---
 
 ## Overview

@@ -3,24 +3,26 @@ draft: false
 title: Jitsi fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/jitsi/screenshot-1.jpg
-  description: Jitsi is an open-source, multiplatform video conferencing and messaging
+  description:
+    Jitsi is an open-source, multiplatform video conferencing and messaging
     solution that enables secure, high-quality communication without the need for
     accounts. It supports voice, video, and instant messaging on web, Windows, Linux,
     macOS, iOS, and Android devices.
-  keywords: Jitsi, open-source video conferencing, video conferencing software, secure
+  keywords:
+    Jitsi, open-source video conferencing, video conferencing software, secure
     video meetings, free video chat, multiplatform communication, instant messaging,
     WebRTC, Jitsi Meet, video calls
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Jitsi
-    url: /fully-managed-open-source-services/applications/live-chat/jitsi
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Jitsi
+      url: /fully-managed-open-source-services/applications/live-chat/jitsi
 content:
   id: jitsi
   name: Jitsi
@@ -29,8 +31,8 @@ content:
   website: https://jitsi.org/jitsi-meet/
   iframe_website: /website/applications/live-chat/jitsi
   screenshots:
-  - /images/applications/live-chat/jitsi/screenshot-1.jpg
-  - /images/applications/live-chat/jitsi/screenshot-2.jpg
+    - /images/applications/live-chat/jitsi/screenshot-1.jpg
+    - /images/applications/live-chat/jitsi/screenshot-2.jpg
 ---
 
 ## Overview

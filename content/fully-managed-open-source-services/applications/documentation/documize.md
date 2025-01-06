@@ -3,23 +3,25 @@ draft: false
 title: Documize fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/documize/screenshot-1.png
-  description: Documize is an open-source, enterprise-ready wiki and knowledge base
+  description:
+    Documize is an open-source, enterprise-ready wiki and knowledge base
     software, designed to simplify documentation management for teams. Free and easy
     to use, it's the perfect alternative to Confluence.
-  keywords: Documize, open-source wiki, knowledge base software, enterprise wiki,
+  keywords:
+    Documize, open-source wiki, knowledge base software, enterprise wiki,
     documentation management, alternative to Confluence, collaborative knowledge repository,
     version control, knowledge sharing platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Documize
-    url: /fully-managed-open-source-services/applications/documentation/documize
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Documize
+      url: /fully-managed-open-source-services/applications/documentation/documize
 content:
   id: documize
   name: Documize
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/documentation/documize
   direct_link: true
   screenshots:
-  - /images/applications/documentation/documize/screenshot-1.png
-  - /images/applications/documentation/documize/screenshot-2.png
+    - /images/applications/documentation/documize/screenshot-1.png
+    - /images/applications/documentation/documize/screenshot-2.png
 ---
 
 ## Overview

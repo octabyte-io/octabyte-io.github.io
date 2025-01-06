@@ -3,35 +3,38 @@ draft: false
 title: Couchbase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/couchbase/screenshot-1.jpg
-  description: Couchbase is a cloud-native distributed database fusing SQL's strengths
+  description:
+    Couchbase is a cloud-native distributed database fusing SQL's strengths
     with NoSQL's flexibility, offering ACID transactions, advanced analytics, and
     real-time eventing.
-  keywords: Couchbase, distributed database, cloud-native database, NoSQL, SQL++,
+  keywords:
+    Couchbase, distributed database, cloud-native database, NoSQL, SQL++,
     ACID transactions, JSON database, hybrid cloud, analytics, event-driven database,
     scalable database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Couchbase
-    url: /fully-managed-open-source-services/development/dev-ops/couchbase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Couchbase
+      url: /fully-managed-open-source-services/development/dev-ops/couchbase
 content:
   id: couchbase
   name: Couchbase
-  title: "Unlock the Power of Couchbase \u2013 The Ultimate Cloud-Native Distributed\
+  title:
+    "Unlock the Power of Couchbase \u2013 The Ultimate Cloud-Native Distributed\
     \ Database"
   logo: /images/development/dev-ops/couchbase/logo.png
   website: https://www.couchbase.com/products/server
   iframe_website: /website/development/dev-ops/couchbase
   direct_link: true
   screenshots:
-  - /images/development/dev-ops/couchbase/screenshot-1.jpg
-  - /images/development/dev-ops/couchbase/screenshot-2.jpg
+    - /images/development/dev-ops/couchbase/screenshot-1.jpg
+    - /images/development/dev-ops/couchbase/screenshot-2.jpg
 ---
 
 ## Overview

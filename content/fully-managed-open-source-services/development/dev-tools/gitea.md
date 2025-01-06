@@ -3,23 +3,25 @@ draft: false
 title: Gitea fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gitea/screenshot-1.jpg
-  description: Gitea is an open-source Git-based software hosting platform offering
+  description:
+    Gitea is an open-source Git-based software hosting platform offering
     collaboration tools like bug tracking, wikis, and code review. Lightweight and
     cross-platform, it's perfect for both individual developers and teams.
-  keywords: Gitea, open-source Git hosting, software development platform, bug tracking,
+  keywords:
+    Gitea, open-source Git hosting, software development platform, bug tracking,
     code review, Git repository hosting, version control, self-hosting, lightweight
     Git, cross-platform Git, Git for teams
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gitea
-    url: /fully-managed-open-source-services/development/dev-tools/gitea
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gitea
+      url: /fully-managed-open-source-services/development/dev-tools/gitea
 content:
   id: gitea
   name: Gitea
@@ -28,8 +30,8 @@ content:
   website: https://gitea.io/
   iframe_website: /website/development/dev-tools/gitea
   screenshots:
-  - /images/development/dev-tools/gitea/screenshot-1.jpg
-  - /images/development/dev-tools/gitea/screenshot-2.jpg
+    - /images/development/dev-tools/gitea/screenshot-1.jpg
+    - /images/development/dev-tools/gitea/screenshot-2.jpg
 ---
 
 ## Overview

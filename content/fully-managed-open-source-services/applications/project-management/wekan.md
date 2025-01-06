@@ -3,32 +3,34 @@ draft: false
 title: Wekan fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/wekan/screenshot-1.png
-  description: WeKan is an open-source, customizable, and privacy-focused Kanban tool
+  description:
+    WeKan is an open-source, customizable, and privacy-focused Kanban tool
     that helps you organize tasks and manage projects effectively.
-  keywords: WeKan, Open-Source Kanban, Task Management, Kanban Board, Project Management,
+  keywords:
+    WeKan, Open-Source Kanban, Task Management, Kanban Board, Project Management,
     Privacy-Focused, Customizable Kanban, Task Tracking, Secure Kanban, Collaborative
     Task Management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: Wekan
-    url: /fully-managed-open-source-services/applications/project-management/wekan
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Wekan
+      url: /fully-managed-open-source-services/applications/project-management/wekan
 content:
   id: wekan
   name: Wekan
-  title: 'Efficient Task Management with WeKan: The Open-Source Kanban Solution'
+  title: "Efficient Task Management with WeKan: The Open-Source Kanban Solution"
   logo: /images/applications/project-management/wekan/logo.png
   website: https://wekan.github.io/
   iframe_website: /website/applications/project-management/wekan
   screenshots:
-  - /images/applications/project-management/wekan/screenshot-1.png
-  - /images/applications/project-management/wekan/screenshot-2.png
+    - /images/applications/project-management/wekan/screenshot-1.png
+    - /images/applications/project-management/wekan/screenshot-2.png
 ---
 
 ## Overview

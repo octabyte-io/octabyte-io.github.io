@@ -3,34 +3,37 @@ draft: false
 title: Bytebase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/bytebase/screenshot-1.webp
-  description: Bytebase is an open-source database CI/CD tool, simplifying database
+  description:
+    Bytebase is an open-source database CI/CD tool, simplifying database
     management with SQL review, version control, rollback, and multi-database support,
     including MySQL, PostgreSQL, and Snowflake.
-  keywords: Bytebase, database CI/CD, open-source database tool, SQL review, version
+  keywords:
+    Bytebase, database CI/CD, open-source database tool, SQL review, version
     control, database rollback, database change management, MySQL CI/CD, PostgreSQL
     CI/CD, database governance, automated SQL checks
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Bytebase
-    url: /fully-managed-open-source-services/development/dev-tools/bytebase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Bytebase
+      url: /fully-managed-open-source-services/development/dev-tools/bytebase
 content:
   id: bytebase
   name: Bytebase
-  title: Streamline Your Database Workflow with Bytebase - The Open-Source CI/CD Tool
+  title:
+    Streamline Your Database Workflow with Bytebase - The Open-Source CI/CD Tool
     for Modern Databases
   logo: /images/development/dev-tools/bytebase/logo.png
   website: https://www.bytebase.com/
   iframe_website: /website/development/dev-tools/bytebase
   screenshots:
-  - /images/development/dev-tools/bytebase/screenshot-1.webp
-  - /images/development/dev-tools/bytebase/screenshot-2.webp
+    - /images/development/dev-tools/bytebase/screenshot-1.webp
+    - /images/development/dev-tools/bytebase/screenshot-2.webp
 ---
 
 ## Overview

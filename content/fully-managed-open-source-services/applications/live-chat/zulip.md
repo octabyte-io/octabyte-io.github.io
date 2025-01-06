@@ -3,23 +3,25 @@ draft: false
 title: Zulip fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/zulip/screenshot-1.png
-  description: Zulip is an open-source team collaboration platform that enhances productivity
+  description:
+    Zulip is an open-source team collaboration platform that enhances productivity
     with its unique topic-based threading. Combining the best of email and chat, it
     makes remote work seamless and efficient for teams.
-  keywords: Zulip, open-source team collaboration, topic-based threading, remote work
+  keywords:
+    Zulip, open-source team collaboration, topic-based threading, remote work
     tool, team communication, messaging app, email and chat, productivity tool, team
     chat, full-text search, customizable notifications, team collaboration software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Zulip
-    url: /fully-managed-open-source-services/applications/live-chat/zulip
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Zulip
+      url: /fully-managed-open-source-services/applications/live-chat/zulip
 content:
   id: zulip
   name: Zulip
@@ -28,8 +30,8 @@ content:
   website: https://zulip.com/
   iframe_website: /website/applications/live-chat/zulip
   screenshots:
-  - /images/applications/live-chat/zulip/screenshot-1.png
-  - /images/applications/live-chat/zulip/screenshot-2.png
+    - /images/applications/live-chat/zulip/screenshot-1.png
+    - /images/applications/live-chat/zulip/screenshot-2.png
 ---
 
 ## Overview

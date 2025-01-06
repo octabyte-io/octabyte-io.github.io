@@ -3,23 +3,25 @@ draft: false
 title: Akaunting fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/akaunting/screenshot-1.png
-  description: Akaunting is a free, open-source accounting software for small businesses,
+  description:
+    Akaunting is a free, open-source accounting software for small businesses,
     offering tools like invoicing, expense tracking, multi-currency support, and powerful
     reporting.
-  keywords: open-source knowledge base, collaborative workspace, privacy-first, alternative
+  keywords:
+    open-source knowledge base, collaborative workspace, privacy-first, alternative
     to Monday, alternative to Notion, alternative to Miro, data management, real-time
     collaboration, Markdown support, secure data storage
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Akaunting
-    url: /fully-managed-open-source-services/applications/others/akaunting
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Akaunting
+      url: /fully-managed-open-source-services/applications/others/akaunting
 content:
   id: akaunting
   name: Akaunting
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/others/akaunting
   direct_link: true
   screenshots:
-  - /images/applications/others/akaunting/screenshot-1.png
-  - /images/applications/others/akaunting/screenshot-2.png
+    - /images/applications/others/akaunting/screenshot-1.png
+    - /images/applications/others/akaunting/screenshot-2.png
 ---
 
 ## Overview

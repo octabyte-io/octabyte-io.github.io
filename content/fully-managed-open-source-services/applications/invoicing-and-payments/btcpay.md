@@ -3,22 +3,24 @@ draft: false
 title: BTCPay fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/invoicing-and-payments/btcpay/screenshot-1.png
-  description: BTCPay Server is a secure, open-source cryptocurrency payment processor
+  description:
+    BTCPay Server is a secure, open-source cryptocurrency payment processor
     offering privacy, control, and essential tools for invoicing, payments, and automation.
-  keywords: BTCPay Server, cryptocurrency payment processor, open-source, self-hosted,
+  keywords:
+    BTCPay Server, cryptocurrency payment processor, open-source, self-hosted,
     Bitcoin payments, privacy-focused payments, crypto invoicing, secure payment platform,
     blockchain payments
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Invoicing and payments
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments
-  - name: BTCPay
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments/btcpay
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
+    - name: BTCPay
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/btcpay
 content:
   id: btcpay
   name: BTCPay
@@ -27,8 +29,8 @@ content:
   website: https://btcpayserver.org/
   iframe_website: /website/applications/invoicing-and-payments/btcpay
   screenshots:
-  - /images/applications/invoicing-and-payments/btcpay/screenshot-1.png
-  - /images/applications/invoicing-and-payments/btcpay/screenshot-2.png
+    - /images/applications/invoicing-and-payments/btcpay/screenshot-1.png
+    - /images/applications/invoicing-and-payments/btcpay/screenshot-2.png
 ---
 
 ## Overview

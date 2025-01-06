@@ -3,22 +3,24 @@ draft: false
 title: Hyperswitch fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.png
-  description: Hyperswitch is an open-source payment switch in Rust, delivering fast,
+  description:
+    Hyperswitch is an open-source payment switch in Rust, delivering fast,
     reliable, and affordable payment processing for digital businesses.
-  keywords: Hyperswitch, open-source payment switch, payment processing software,
+  keywords:
+    Hyperswitch, open-source payment switch, payment processing software,
     payment reliability, API-first payment platform, scalable payment solution, Rust
     payment switch, cloud-native payments, payment orchestration, secure payment infrastructure
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Invoicing and payments
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments
-  - name: Hyperswitch
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments/hyperswitch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
+    - name: Hyperswitch
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/hyperswitch
 content:
   id: hyperswitch
   name: Hyperswitch
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/applications/invoicing-and-payments/hyperswitch
   direct_link: true
   screenshots:
-  - /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.png
-  - /images/applications/invoicing-and-payments/hyperswitch/screenshot-2.png
+    - /images/applications/invoicing-and-payments/hyperswitch/screenshot-1.png
+    - /images/applications/invoicing-and-payments/hyperswitch/screenshot-2.png
 ---
 
 ## Overview

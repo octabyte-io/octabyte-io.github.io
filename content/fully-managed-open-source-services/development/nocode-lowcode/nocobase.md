@@ -3,34 +3,37 @@ draft: false
 title: NocoBase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/nocobase/screenshot-1.png
-  description: NocoBase is a scalable open-source no-code platform designed for building
+  description:
+    NocoBase is a scalable open-source no-code platform designed for building
     custom collaboration platforms and management systems in minutes. No programming
     required, just a simple and extendable architecture to meet your needs.
-  keywords: No-code platform, open-source collaboration system, NocoBase, scalability,
+  keywords:
+    No-code platform, open-source collaboration system, NocoBase, scalability,
     workflow automation, role-based access control, menu management, data processing,
     extendable architecture, custom management system, no-code development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: NocoBase
-    url: /fully-managed-open-source-services/development/nocode-lowcode/nocobase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: NocoBase
+      url: /fully-managed-open-source-services/development/nocode-lowcode/nocobase
 content:
   id: nocobase
   name: NocoBase
-  title: A Scalable Open-Source No-Code Platform for Building Custom Collaboration
+  title:
+    A Scalable Open-Source No-Code Platform for Building Custom Collaboration
     Systems
   logo: /images/development/nocode-lowcode/nocobase/logo.png
   website: https://www.nocobase.com/
   iframe_website: /website/development/nocode-lowcode/nocobase
   screenshots:
-  - /images/development/nocode-lowcode/nocobase/screenshot-1.png
-  - /images/development/nocode-lowcode/nocobase/screenshot-2.png
+    - /images/development/nocode-lowcode/nocobase/screenshot-1.png
+    - /images/development/nocode-lowcode/nocobase/screenshot-2.png
 ---
 
 ## Overview

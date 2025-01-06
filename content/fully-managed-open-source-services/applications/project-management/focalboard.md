@@ -3,23 +3,25 @@ draft: false
 title: FocalBoard fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/focalboard/screenshot-1.jpeg
-  description: FocalBoard is an open-source project management tool for organizing
+  description:
+    FocalBoard is an open-source project management tool for organizing
     tasks and projects, offering collaboration features, task tracking, and seamless
     integrations for teams of any size.
-  keywords: FocalBoard, open-source project management, task management, team collaboration,
+  keywords:
+    FocalBoard, open-source project management, task management, team collaboration,
     productivity tool, Asana alternative, Trello alternative, Mattermost integration,
     project tracking, task organizing software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: FocalBoard
-    url: /fully-managed-open-source-services/applications/project-management/focalboard
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: FocalBoard
+      url: /fully-managed-open-source-services/applications/project-management/focalboard
 content:
   id: focalboard
   name: FocalBoard
@@ -28,8 +30,8 @@ content:
   website: https://www.focalboard.com/
   iframe_website: /website/applications/project-management/focalboard
   screenshots:
-  - /images/applications/project-management/focalboard/screenshot-1.jpeg
-  - /images/applications/project-management/focalboard/screenshot-2.jpeg
+    - /images/applications/project-management/focalboard/screenshot-1.jpeg
+    - /images/applications/project-management/focalboard/screenshot-2.jpeg
 ---
 
 ## Overview

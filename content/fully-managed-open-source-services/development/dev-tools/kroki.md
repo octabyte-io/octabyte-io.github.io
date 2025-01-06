@@ -3,23 +3,25 @@ draft: false
 title: Kroki fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/kroki/screenshot-1.jpeg
-  description: Kroki provides a powerful, free, and open-source API for rendering
+  description:
+    Kroki provides a powerful, free, and open-source API for rendering
     over 20 types of diagrams, including BPMN, UML, and GraphViz, with support for
     multiple languages.
-  keywords: Kroki API, Diagram API, Unified Diagram Tool, Open-source Diagramming,
+  keywords:
+    Kroki API, Diagram API, Unified Diagram Tool, Open-source Diagramming,
     BPMN, UML, GraphViz, BlockDiag, PlantUML, Free Diagram Tool, Diagram Generator,
     API for Diagrams
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Kroki
-    url: /fully-managed-open-source-services/development/dev-tools/kroki
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Kroki
+      url: /fully-managed-open-source-services/development/dev-tools/kroki
 content:
   id: kroki
   name: Kroki
@@ -28,8 +30,8 @@ content:
   website: https://kroki.io/
   iframe_website: /website/development/dev-tools/kroki
   screenshots:
-  - /images/development/dev-tools/kroki/screenshot-1.jpeg
-  - /images/development/dev-tools/kroki/screenshot-2.png
+    - /images/development/dev-tools/kroki/screenshot-1.jpeg
+    - /images/development/dev-tools/kroki/screenshot-2.png
 ---
 
 ## Overview

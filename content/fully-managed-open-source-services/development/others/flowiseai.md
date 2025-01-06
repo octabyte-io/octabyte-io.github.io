@@ -3,24 +3,26 @@ draft: false
 title: FlowiseAI fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/flowiseai/screenshot-1.png
-  description: FlowiseAI is an open-source visual tool that allows you to create personalized
+  description:
+    FlowiseAI is an open-source visual tool that allows you to create personalized
     LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS
     and TypeScript/JavaScript. Build intelligent AI-driven applications quickly and
     efficiently with FlowiseAI.
-  keywords: FlowiseAI, LangchainJS, open-source AI tool, LLM flow builder, conversational
+  keywords:
+    FlowiseAI, LangchainJS, open-source AI tool, LLM flow builder, conversational
     agent, NodeJS AI, AI workflow, LangchainJS integration, customizable AI flows,
     open-source AI platform, NodeJS TypeScript AI
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: FlowiseAI
-    url: /fully-managed-open-source-services/development/nocode-lowcode/flowiseai
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: FlowiseAI
+      url: /fully-managed-open-source-services/development/nocode-lowcode/flowiseai
 content:
   id: flowiseai
   name: FlowiseAI
@@ -29,8 +31,8 @@ content:
   website: https://flowiseai.com/
   iframe_website: /website/development/others/flowiseai
   screenshots:
-  - /images/development/others/flowiseai/screenshot-1.png
-  - /images/development/others/flowiseai/screenshot-2.png
+    - /images/development/others/flowiseai/screenshot-1.png
+    - /images/development/others/flowiseai/screenshot-2.png
 ---
 
 ## Overview

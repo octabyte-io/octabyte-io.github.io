@@ -3,23 +3,25 @@ draft: false
 title: Misskey fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/misskey/screenshot-1.jpg
-  description: Misskey is a decentralized platform that allows users to create their
+  description:
+    Misskey is a decentralized platform that allows users to create their
     own servers, interact with others across the Fediverse, and enjoy complete control
     over their data and social interactions.
-  keywords: Decentralized social network, Misskey, Fediverse, create your own server,
+  keywords:
+    Decentralized social network, Misskey, Fediverse, create your own server,
     privacy, open-source social media, ActivityPub, alternative to big tech, custom
     social media, cloud storage, federated platform, free and open social media
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: Misskey
-    url: /fully-managed-open-source-services/applications/fediverse/misskey
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Misskey
+      url: /fully-managed-open-source-services/applications/fediverse/misskey
 content:
   id: misskey
   name: Misskey
@@ -28,7 +30,7 @@ content:
   website: https://misskey-hub.net/en/
   iframe_website: /website/applications/fediverse/misskey
   screenshots:
-  - /images/applications/fediverse/misskey/screenshot-1.jpg
+    - /images/applications/fediverse/misskey/screenshot-1.jpg
 ---
 
 ## Overview

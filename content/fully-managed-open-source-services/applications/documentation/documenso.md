@@ -3,23 +3,25 @@ draft: false
 title: Documenso fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/documenso/screenshot-1.webp
-  description: Documenso is the open-source alternative to DocuSign, offering a faster,
+  description:
+    Documenso is the open-source alternative to DocuSign, offering a faster,
     smarter, and more beautiful document signing experience with customizable templates
     and seamless integrations.
-  keywords: Documenso, open-source DocuSign alternative, document signing, e-signature,
+  keywords:
+    Documenso, open-source DocuSign alternative, document signing, e-signature,
     smart templates, automation, Zapier integrations, fast document signing, beautiful
     document signing, customizable templates
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Documenso
-    url: /fully-managed-open-source-services/applications/documentation/documenso
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Documenso
+      url: /fully-managed-open-source-services/applications/documentation/documenso
 content:
   id: documenso
   name: Documenso
@@ -28,8 +30,8 @@ content:
   website: https://documenso.com/
   iframe_website: /website/applications/documentation/documenso
   screenshots:
-  - /images/applications/documentation/documenso/screenshot-1.webp
-  - /images/applications/documentation/documenso/screenshot-2.webp
+    - /images/applications/documentation/documenso/screenshot-1.webp
+    - /images/applications/documentation/documenso/screenshot-2.webp
 ---
 
 ## Overview

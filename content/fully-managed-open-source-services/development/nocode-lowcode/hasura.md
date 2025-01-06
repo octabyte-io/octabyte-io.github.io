@@ -3,22 +3,24 @@ draft: false
 title: Hasura fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/hasura/screenshot-1.jpg
-  description: Hasura is an open-source GraphQL engine that provides a real-time,
+  description:
+    Hasura is an open-source GraphQL engine that provides a real-time,
     unified API to your databases and services in minutes, enabling faster application
     development and optimized performance.
-  keywords: Hasura, GraphQL API, real-time API, open-source GraphQL, performance optimization,
+  keywords:
+    Hasura, GraphQL API, real-time API, open-source GraphQL, performance optimization,
     instant API, database API, REST API, scalability, observability, backend development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Hasura
-    url: /fully-managed-open-source-services/development/nocode-lowcode/hasura
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Hasura
+      url: /fully-managed-open-source-services/development/nocode-lowcode/hasura
 content:
   id: hasura
   name: Hasura
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/development/nocode-lowcode/hasura
   direct_link: true
   screenshots:
-  - /images/development/nocode-lowcode/hasura/screenshot-1.jpg
-  - /images/development/nocode-lowcode/hasura/screenshot-2.webp
+    - /images/development/nocode-lowcode/hasura/screenshot-1.jpg
+    - /images/development/nocode-lowcode/hasura/screenshot-2.webp
 ---
 
 ## Overview

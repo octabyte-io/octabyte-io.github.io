@@ -3,22 +3,24 @@ draft: false
 title: Lemmy fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/lemmy/screenshot-1.jpg
-  description: Lemmy is a decentralized link aggregator and social media platform
+  description:
+    Lemmy is a decentralized link aggregator and social media platform
     that allows users to create their own servers while connecting to the larger Fediverse,
     providing a more open, community-driven experience.
-  keywords: Lemmy, decentralized platform, Fediverse, link aggregator, social media,
+  keywords:
+    Lemmy, decentralized platform, Fediverse, link aggregator, social media,
     open-source, federated communities, privacy, Rust, open-source social network
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Lemmy
-    url: /fully-managed-open-source-services/applications/forum-community/lemmy
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Lemmy
+      url: /fully-managed-open-source-services/applications/forum-community/lemmy
 content:
   id: lemmy
   name: Lemmy
@@ -27,8 +29,8 @@ content:
   website: https://join-lemmy.org/
   iframe_website: /website/applications/forum-community/lemmy
   screenshots:
-  - /images/applications/forum-community/lemmy/screenshot-1.jpg
-  - /images/applications/forum-community/lemmy/screenshot-2.jpg
+    - /images/applications/forum-community/lemmy/screenshot-1.jpg
+    - /images/applications/forum-community/lemmy/screenshot-2.jpg
 ---
 
 ## Overview

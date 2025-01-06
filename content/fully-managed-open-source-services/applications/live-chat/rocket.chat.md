@@ -3,25 +3,27 @@ draft: false
 title: Rocket.Chat fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/rocket.chat/screenshot-1.jpg
-  description: Rocket.Chat is a secure, customizable messaging platform that enables
+  description:
+    Rocket.Chat is a secure, customizable messaging platform that enables
     real-time, private communication across teams, customers, and partners. Trusted
     by leading organizations, it enhances productivity with features like group messaging,
     video calls, and integrations.
-  keywords: Rocket.Chat, customizable messaging platform, secure communication, real-time
+  keywords:
+    Rocket.Chat, customizable messaging platform, secure communication, real-time
     chat, data protection, group messaging, video conferencing, team collaboration,
     secure chat app, messaging for teams, enterprise chat solution, communication
     platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Rocket.Chat
-    url: /fully-managed-open-source-services/applications/live-chat/rocket.chat
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Rocket.Chat
+      url: /fully-managed-open-source-services/applications/live-chat/rocket.chat
 content:
   id: rocket.chat
   name: Rocket.Chat
@@ -30,8 +32,8 @@ content:
   website: https://rocket.chat/
   iframe_website: /website/applications/live-chat/rocket.chat
   screenshots:
-  - /images/applications/live-chat/rocket.chat/screenshot-1.jpg
-  - /images/applications/live-chat/rocket.chat/screenshot-2.jpg
+    - /images/applications/live-chat/rocket.chat/screenshot-1.jpg
+    - /images/applications/live-chat/rocket.chat/screenshot-2.jpg
 ---
 
 ## Overview

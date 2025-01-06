@@ -3,23 +3,25 @@ draft: false
 title: ZincSearch fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/zincsearch/screenshot-1.jpg
-  description: ZincSearch is a fast, resource-efficient search engine offering full-text
+  description:
+    ZincSearch is a fast, resource-efficient search engine offering full-text
     indexing with Elasticsearch compatibility. It's designed to provide powerful search
     capabilities while using minimal resources.
-  keywords: ZincSearch, full-text search, Elasticsearch alternative, lightweight search
+  keywords:
+    ZincSearch, full-text search, Elasticsearch alternative, lightweight search
     engine, Bluge indexing, resource-efficient search, search engine, open-source
     search solution, Elasticsearch compatibility
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: ZincSearch
-    url: /fully-managed-open-source-services/applications/search/zincsearch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: ZincSearch
+      url: /fully-managed-open-source-services/applications/search/zincsearch
 content:
   id: zincsearch
   name: ZincSearch
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/search/zincsearch
   direct_link: true
   screenshots:
-  - /images/applications/search/zincsearch/screenshot-1.jpg
-  - /images/applications/search/zincsearch/screenshot-2.png
+    - /images/applications/search/zincsearch/screenshot-1.jpg
+    - /images/applications/search/zincsearch/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Gitlab-runner fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/gitlab-runner/screenshot-1.png
-  description: GitLab Runner is a tool that integrates with GitLab CI/CD to automate
+  description:
+    GitLab Runner is a tool that integrates with GitLab CI/CD to automate
     software testing, building, and deployment, ensuring faster, more secure, and
     efficient delivery.
-  keywords: GitLab Runner, CI/CD, continuous integration, continuous delivery, DevOps,
+  keywords:
+    GitLab Runner, CI/CD, continuous integration, continuous delivery, DevOps,
     automation, software delivery, pipeline automation, GitLab integration, DevSecOps,
     build automation, software security
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Gitlab-runner
-    url: /fully-managed-open-source-services/development/dev-ops/gitlab-runner
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Gitlab-runner
+      url: /fully-managed-open-source-services/development/dev-ops/gitlab-runner
 content:
   id: gitlab-runner
   name: Gitlab-runner
@@ -28,8 +30,8 @@ content:
   website: https://gitlab.com/
   iframe_website: /website/development/dev-ops/gitlab-runner
   screenshots:
-  - /images/development/dev-ops/gitlab-runner/screenshot-1.png
-  - /images/development/dev-ops/gitlab-runner/screenshot-2.png
+    - /images/development/dev-ops/gitlab-runner/screenshot-1.png
+    - /images/development/dev-ops/gitlab-runner/screenshot-2.png
 ---
 
 ## Overview

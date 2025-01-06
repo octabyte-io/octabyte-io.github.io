@@ -3,23 +3,25 @@ draft: false
 title: Tracardi fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/tracardi/screenshot-1.png
-  description: Tracardi is an API-first, low-code/no-code platform designed for e-commerce
+  description:
+    Tracardi is an API-first, low-code/no-code platform designed for e-commerce
     businesses to manage and utilize customer data for marketing automation, engagement,
     and multi-channel integration.
-  keywords: Tracardi, customer data platform, API-first, low-code platform, no-code
+  keywords:
+    Tracardi, customer data platform, API-first, low-code platform, no-code
     platform, e-commerce marketing, marketing automation, customer engagement, multi-channel
     data, e-commerce business solution, user data for marketing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: Tracardi
-    url: /fully-managed-open-source-services/applications/customer-support/tracardi
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: Tracardi
+      url: /fully-managed-open-source-services/applications/customer-support/tracardi
 content:
   id: tracardi
   name: Tracardi
@@ -28,8 +30,8 @@ content:
   website: https://tracardi.com/
   iframe_website: /website/applications/customer-support/tracardi
   screenshots:
-  - /images/applications/customer-support/tracardi/screenshot-1.png
-  - /images/applications/customer-support/tracardi/screenshot-2.png
+    - /images/applications/customer-support/tracardi/screenshot-1.png
+    - /images/applications/customer-support/tracardi/screenshot-2.png
 ---
 
 ## Overview

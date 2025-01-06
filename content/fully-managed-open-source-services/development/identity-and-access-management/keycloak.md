@@ -3,23 +3,25 @@ draft: false
 title: Keycloak fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/keycloak/screenshot-1.jpg
-  description: Keycloak provides seamless single sign-on (SSO) and robust identity
+  description:
+    Keycloak provides seamless single sign-on (SSO) and robust identity
     and access management capabilities, including user federation, social login, and
     advanced authentication features to simplify application security.
-  keywords: Keycloak, single sign-on, identity and access management, user federation,
+  keywords:
+    Keycloak, single sign-on, identity and access management, user federation,
     social login, authentication, LDAP, Active Directory, identity brokering, OpenID
     Connect, SAML 2.0, user management, open-source authentication
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: Keycloak
-    url: /fully-managed-open-source-services/development/identity-and-access-management/keycloak
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: Keycloak
+      url: /fully-managed-open-source-services/development/identity-and-access-management/keycloak
 content:
   id: keycloak
   name: Keycloak
@@ -28,8 +30,8 @@ content:
   website: https://www.keycloak.org/
   iframe_website: /website/development/identity-and-access-management/keycloak
   screenshots:
-  - /images/development/identity-and-access-management/keycloak/screenshot-1.jpg
-  - /images/development/identity-and-access-management/keycloak/screenshot-2.jpg
+    - /images/development/identity-and-access-management/keycloak/screenshot-1.jpg
+    - /images/development/identity-and-access-management/keycloak/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,24 +3,26 @@ draft: false
 title: Hi-events fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/hi-events/screenshot-1.png
-  description: Hi.Events is a powerful, self-hosted event management and ticketing
+  description:
+    Hi.Events is a powerful, self-hosted event management and ticketing
     solution that empowers you to create, manage, and sell tickets for events of all
     sizes. From conferences to club nights, streamline your event operations with
     ease.
-  keywords: Event management, ticketing platform, self-hosted, conference management,
+  keywords:
+    Event management, ticketing platform, self-hosted, conference management,
     ticket sales, event check-in, event analytics, embeddable ticket widget, event
     homepage, event organization
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Hi-events
-    url: /fully-managed-open-source-services/applications/others/hi-events
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Hi-events
+      url: /fully-managed-open-source-services/applications/others/hi-events
 content:
   id: hi-events
   name: Hi-events
@@ -29,8 +31,8 @@ content:
   website: https://hi.events/
   iframe_website: /website/applications/others/hi-events
   screenshots:
-  - /images/applications/others/hi-events/screenshot-1.png
-  - /images/applications/others/hi-events/screenshot-2.png
+    - /images/applications/others/hi-events/screenshot-1.png
+    - /images/applications/others/hi-events/screenshot-2.png
 ---
 
 ## Overview

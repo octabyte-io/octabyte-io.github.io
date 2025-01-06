@@ -3,22 +3,24 @@ draft: false
 title: MintHCM fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/hcm/minthcm/screenshot-1.webp
-  description: MintHCM is a comprehensive Human Capital Management system designed
+  description:
+    MintHCM is a comprehensive Human Capital Management system designed
     to streamline HR processes, enhance recruitment, and optimize employee performance.
-  keywords: MintHCM, Human Capital Management, HCM software, HR management system,
+  keywords:
+    MintHCM, Human Capital Management, HCM software, HR management system,
     CRM-based HR solution, employee performance management, recruitment tools, onboarding
     system, HR software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: HCM
-    url: /fully-managed-open-source-services/applications/hcm
-  - name: MintHCM
-    url: /fully-managed-open-source-services/applications/hcm/minthcm
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: HCM
+      url: /fully-managed-open-source-services/applications/hcm
+    - name: MintHCM
+      url: /fully-managed-open-source-services/applications/hcm/minthcm
 content:
   id: minthcm
   name: MintHCM
@@ -27,8 +29,8 @@ content:
   website: https://minthcm.org/
   iframe_website: /website/applications/hcm/minthcm
   screenshots:
-  - /images/applications/hcm/minthcm/screenshot-1.webp
-  - /images/applications/hcm/minthcm/screenshot-2.webp
+    - /images/applications/hcm/minthcm/screenshot-1.webp
+    - /images/applications/hcm/minthcm/screenshot-2.webp
 ---
 
 ## Overview

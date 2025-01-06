@@ -3,25 +3,27 @@ draft: false
 title: Rstudio fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/rstudio/screenshot-1.png
-  description: RStudio is a powerful Integrated Development Environment (IDE) that
+  description:
+    RStudio is a powerful Integrated Development Environment (IDE) that
     simplifies R programming, offering advanced features like script writing, environment
     management, and interactive visualizations for data science professionals and
     researchers.
-  keywords: RStudio, R programming, Integrated Development Environment, R IDE, data
+  keywords:
+    RStudio, R programming, Integrated Development Environment, R IDE, data
     science, statistical computing, RStudio features, data visualization, RStudio
     interface, reproducible research, programming tools for R, RStudio environment,
     RStudio script editor
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Rstudio
-    url: /fully-managed-open-source-services/development/dev-tools/rstudio
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Rstudio
+      url: /fully-managed-open-source-services/development/dev-tools/rstudio
 content:
   id: rstudio
   name: Rstudio
@@ -31,8 +33,8 @@ content:
   iframe_website: /website/development/dev-tools/rstudio
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/rstudio/screenshot-1.png
-  - /images/development/dev-tools/rstudio/screenshot-2.png
+    - /images/development/dev-tools/rstudio/screenshot-1.png
+    - /images/development/dev-tools/rstudio/screenshot-2.png
 ---
 
 ## Overview

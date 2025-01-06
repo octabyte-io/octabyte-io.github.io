@@ -3,33 +3,35 @@ draft: false
 title: SonarQube fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/sonarqube/screenshot-1.jpg
-  description: SonarQube is an open-source tool for code quality and security, offering
+  description:
+    SonarQube is an open-source tool for code quality and security, offering
     static analysis for 20+ languages to detect bugs, vulnerabilities, and code smells.
-  keywords: SonarQube, code quality, static code analysis, application security, bug
+  keywords:
+    SonarQube, code quality, static code analysis, application security, bug
     detection, code smells, continuous inspection, secure coding, developer productivity,
     open-source development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: SonarQube
-    url: /fully-managed-open-source-services/development/dev-ops/sonarqube
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: SonarQube
+      url: /fully-managed-open-source-services/development/dev-ops/sonarqube
 content:
   id: sonarqube
   name: SonarQube
-  title: 'Elevate Your Code Quality with SonarQube: Continuous Inspection Made Easy'
+  title: "Elevate Your Code Quality with SonarQube: Continuous Inspection Made Easy"
   logo: /images/development/dev-ops/sonarqube/logo.png
   website: https://www.sonarqube.org/
   iframe_website: /website/development/dev-ops/sonarqube
   direct_link: true
   screenshots:
-  - /images/development/dev-ops/sonarqube/screenshot-1.jpg
-  - /images/development/dev-ops/sonarqube/screenshot-2.jpg
+    - /images/development/dev-ops/sonarqube/screenshot-1.jpg
+    - /images/development/dev-ops/sonarqube/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: ManticoreSearch fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/manticoresearch/screenshot-1.png
-  description: ManticoreSearch is an open-source, high-performance search engine offering
+  description:
+    ManticoreSearch is an open-source, high-performance search engine offering
     advanced full-text search capabilities, scalability, and low resource consumption
     for efficient data management.
-  keywords: ManticoreSearch, full-text search engine, open-source database, high-performance
+  keywords:
+    ManticoreSearch, full-text search engine, open-source database, high-performance
     search, scalable search engine, Sphinx Search, text search capabilities, search
     database, open-source search engine, C++ search engine, data analytics search
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: ManticoreSearch
-    url: /fully-managed-open-source-services/applications/search/manticoresearch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: ManticoreSearch
+      url: /fully-managed-open-source-services/applications/search/manticoresearch
 content:
   id: manticoresearch
   name: ManticoreSearch
@@ -28,8 +30,8 @@ content:
   website: https://manticoresearch.com/
   iframe_website: /website/applications/search/manticoresearch
   screenshots:
-  - /images/applications/search/manticoresearch/screenshot-1.png
-  - /images/applications/search/manticoresearch/screenshot-2.png
+    - /images/applications/search/manticoresearch/screenshot-1.png
+    - /images/applications/search/manticoresearch/screenshot-2.png
 ---
 
 ## Overview

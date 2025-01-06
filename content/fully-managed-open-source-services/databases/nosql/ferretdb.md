@@ -3,23 +3,25 @@ draft: false
 title: FerretDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/nosql/ferretdb/screenshot-1.png
-  description: "FerretDB is a powerful, open-source document database built on PostgreSQL.\
+  description:
+    "FerretDB is a powerful, open-source document database built on PostgreSQL.\
     \ It offers MongoDB compatibility, including CRUD operations, and integrates smoothly\
     \ with PostgreSQL\u2019s advanced features. Get it fully managed with OctaByte."
-  keywords: FerretDB, MongoDB, PostgreSQL, document database, open-source database,
+  keywords:
+    FerretDB, MongoDB, PostgreSQL, document database, open-source database,
     database management, CRUD operations, database proxy, MongoDB compatibility, SQL
     queries, cloud database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: NoSQL
-    url: /fully-managed-open-source-services/databases/nosql
-  - name: FerretDB
-    url: /fully-managed-open-source-services/databases/nosql/ferretdb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
+    - name: FerretDB
+      url: /fully-managed-open-source-services/databases/nosql/ferretdb
 content:
   id: ferretdb
   name: FerretDB
@@ -28,8 +30,8 @@ content:
   website: https://www.ferretdb.com/
   iframe_website: /website/databases/nosql/ferretdb
   screenshots:
-  - /images/databases/nosql/ferretdb/screenshot-1.png
-  - /images/databases/nosql/ferretdb/screenshot-2.png
+    - /images/databases/nosql/ferretdb/screenshot-1.png
+    - /images/databases/nosql/ferretdb/screenshot-2.png
 ---
 
 ## Overview

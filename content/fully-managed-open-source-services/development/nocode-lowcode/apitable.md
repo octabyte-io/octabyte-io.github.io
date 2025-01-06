@@ -3,24 +3,26 @@ draft: false
 title: APITable fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/apitable/screenshot-1.png
-  description: "APITable is an API-oriented low-code platform that enables users to\
+  description:
+    "APITable is an API-oriented low-code platform that enables users to\
     \ build collaborative apps with ease, offering advanced features, a beautiful\
     \ UI, and unmatched extensibility. It\u2019s a top choice for anyone looking for\
     \ an open-source alternative to Airtable."
-  keywords: APITable, low-code platform, collaborative apps, Airtable alternative,
+  keywords:
+    APITable, low-code platform, collaborative apps, Airtable alternative,
     real-time collaboration, API-oriented platform, open-source, database-spreadsheet
     interface, automation, extensibility
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: APITable
-    url: /fully-managed-open-source-services/development/nocode-lowcode/apitable
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: APITable
+      url: /fully-managed-open-source-services/development/nocode-lowcode/apitable
 content:
   id: apitable
   name: APITable
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/development/nocode-lowcode/apitable
   direct_link: true
   screenshots:
-  - /images/development/nocode-lowcode/apitable/screenshot-1.png
-  - /images/development/nocode-lowcode/apitable/screenshot-2.png
+    - /images/development/nocode-lowcode/apitable/screenshot-1.png
+    - /images/development/nocode-lowcode/apitable/screenshot-2.png
 ---
 
 ## Overview

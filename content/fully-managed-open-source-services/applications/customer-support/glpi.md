@@ -3,23 +3,25 @@ draft: false
 title: GLPI fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/glpi/screenshot-1.png
-  description: GLPI is a free IT asset and service management software that streamlines
+  description:
+    GLPI is a free IT asset and service management software that streamlines
     your IT operations with tools for asset tracking, helpdesk management, financial
     oversight, and project planning.
-  keywords: GLPI, IT asset management, ITIL service desk, free IT management software,
+  keywords:
+    GLPI, IT asset management, ITIL service desk, free IT management software,
     helpdesk management, asset tracking, project management software, financial management
     IT, software auditing, license tracking, data center management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: GLPI
-    url: /fully-managed-open-source-services/applications/customer-support/glpi
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: GLPI
+      url: /fully-managed-open-source-services/applications/customer-support/glpi
 content:
   id: glpi
   name: GLPI
@@ -28,8 +30,8 @@ content:
   website: https://glpi-project.org/
   iframe_website: /website/applications/customer-support/glpi
   screenshots:
-  - /images/applications/customer-support/glpi/screenshot-1.png
-  - /images/applications/customer-support/glpi/screenshot-2.png
+    - /images/applications/customer-support/glpi/screenshot-1.png
+    - /images/applications/customer-support/glpi/screenshot-2.png
 ---
 
 ## Overview

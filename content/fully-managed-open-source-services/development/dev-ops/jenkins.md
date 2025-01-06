@@ -3,34 +3,37 @@ draft: false
 title: Jenkins fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/jenkins/screenshot-1.jpg
-  description: Jenkins is a robust, open-source automation server that supports continuous
+  description:
+    Jenkins is a robust, open-source automation server that supports continuous
     integration and delivery with hundreds of plugins for building, testing, and deploying
     software projects.
-  keywords: Jenkins, continuous integration, continuous delivery, automation server,
+  keywords:
+    Jenkins, continuous integration, continuous delivery, automation server,
     open-source software, software development automation, Jenkins plugins, build
     automation, deployment automation, Jenkins features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Jenkins
-    url: /fully-managed-open-source-services/development/dev-ops/jenkins
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Jenkins
+      url: /fully-managed-open-source-services/development/dev-ops/jenkins
 content:
   id: jenkins
   name: Jenkins
-  title: The Leading Open-Source Automation Server for Continuous Integration and
+  title:
+    The Leading Open-Source Automation Server for Continuous Integration and
     Delivery
   logo: /images/development/dev-ops/jenkins/logo.png
   website: https://www.jenkins.io/
   iframe_website: /website/development/dev-ops/jenkins
   screenshots:
-  - /images/development/dev-ops/jenkins/screenshot-1.jpg
-  - /images/development/dev-ops/jenkins/screenshot-2.jpg
+    - /images/development/dev-ops/jenkins/screenshot-1.jpg
+    - /images/development/dev-ops/jenkins/screenshot-2.jpg
 ---
 
 ## Overview

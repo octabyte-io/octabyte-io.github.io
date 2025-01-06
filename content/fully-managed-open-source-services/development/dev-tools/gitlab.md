@@ -3,34 +3,37 @@ draft: false
 title: Gitlab fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gitlab/screenshot-1.jpg
-  description: GitLab is a powerful DevOps platform that enables organizations to
+  description:
+    GitLab is a powerful DevOps platform that enables organizations to
     build, secure, and deploy software faster while enhancing security, compliance,
     and team collaboration.
-  keywords: GitLab, DevOps, software development, continuous integration, CI/CD, security,
+  keywords:
+    GitLab, DevOps, software development, continuous integration, CI/CD, security,
     collaboration, project management, software delivery, version control, GitLab
     features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gitlab
-    url: /fully-managed-open-source-services/development/dev-tools/gitlab
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gitlab
+      url: /fully-managed-open-source-services/development/dev-tools/gitlab
 content:
   id: gitlab
   name: Gitlab
-  title: Maximize Your Software Development Efficiency with GitLab - The Ultimate
+  title:
+    Maximize Your Software Development Efficiency with GitLab - The Ultimate
     DevOps Platform
   logo: /images/development/dev-tools/gitlab/logo.png
   website: https://about.gitlab.com/
   iframe_website: /website/development/dev-tools/gitlab
   screenshots:
-  - /images/development/dev-tools/gitlab/screenshot-1.jpg
-  - /images/development/dev-tools/gitlab/screenshot-2.jpg
+    - /images/development/dev-tools/gitlab/screenshot-1.jpg
+    - /images/development/dev-tools/gitlab/screenshot-2.jpg
 ---
 
 ## Overview

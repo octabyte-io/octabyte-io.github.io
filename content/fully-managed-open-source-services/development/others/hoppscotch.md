@@ -3,22 +3,24 @@ draft: false
 title: Hoppscotch fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/hoppscotch/screenshot-1.jpg
-  description: Hoppscotch is a free, open-source API development tool that offers
+  description:
+    Hoppscotch is a free, open-source API development tool that offers
     a fast, lightweight, and user-friendly interface for building and testing APIs.
-  keywords: API development, Hoppscotch, open-source, lightweight API tool, fast API
+  keywords:
+    API development, Hoppscotch, open-source, lightweight API tool, fast API
     testing, API suite, developer tool, HTTP methods, API debugging, real-time API
     testing, collaboration tool, team workspaces, free API tool, web-based API suite
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: Hoppscotch
-    url: /fully-managed-open-source-services/development/nocode-lowcode/hoppscotch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: Hoppscotch
+      url: /fully-managed-open-source-services/development/nocode-lowcode/hoppscotch
 content:
   id: hoppscotch
   name: Hoppscotch
@@ -27,8 +29,8 @@ content:
   website: https://hoppscotch.com/
   iframe_website: /website/development/others/hoppscotch
   screenshots:
-  - /images/development/others/hoppscotch/screenshot-1.jpg
-  - /images/development/others/hoppscotch/screenshot-2.png
+    - /images/development/others/hoppscotch/screenshot-1.jpg
+    - /images/development/others/hoppscotch/screenshot-2.png
 ---
 
 ## Overview

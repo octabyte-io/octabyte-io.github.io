@@ -3,24 +3,26 @@ draft: false
 title: nopCommerce fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/e-commerce/nopcommerce/screenshot-1.png
-  description: nopCommerce is a free, open-source eCommerce platform based on ASP.NET,
+  description:
+    nopCommerce is a free, open-source eCommerce platform based on ASP.NET,
     providing a feature-rich solution for creating and managing online stores. It
     offers mobile commerce, multi-store management, SEO optimization, and various
     payment methods.
-  keywords: nopCommerce, open-source eCommerce platform, ASP.NET shopping cart, mobile
+  keywords:
+    nopCommerce, open-source eCommerce platform, ASP.NET shopping cart, mobile
     commerce, multi-store eCommerce, SEO for eCommerce, online store payment methods,
     customizable eCommerce solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: E-commerce
-    url: /fully-managed-open-source-services/applications/e-commerce
-  - name: nopCommerce
-    url: /fully-managed-open-source-services/applications/e-commerce/nopcommerce
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: E-commerce
+      url: /fully-managed-open-source-services/applications/e-commerce
+    - name: nopCommerce
+      url: /fully-managed-open-source-services/applications/e-commerce/nopcommerce
 content:
   id: nopcommerce
   name: nopCommerce
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/applications/e-commerce/nopcommerce
   direct_link: true
   screenshots:
-  - /images/applications/e-commerce/nopcommerce/screenshot-1.png
-  - /images/applications/e-commerce/nopcommerce/screenshot-2.png
+    - /images/applications/e-commerce/nopcommerce/screenshot-1.png
+    - /images/applications/e-commerce/nopcommerce/screenshot-2.png
 ---
 
 ## Overview

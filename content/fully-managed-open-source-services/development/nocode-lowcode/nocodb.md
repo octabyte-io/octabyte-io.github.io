@@ -3,23 +3,25 @@ draft: false
 title: NocoDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/nocodb/screenshot-1.png
-  description: NocoDB is an open-source Airtable alternative that turns relational
+  description:
+    NocoDB is an open-source Airtable alternative that turns relational
     databases into a smart, collaborative no-code spreadsheet interface for building
     applications effortlessly.
-  keywords: NocoDB, Airtable alternative, open-source, no-code, database management,
+  keywords:
+    NocoDB, Airtable alternative, open-source, no-code, database management,
     workflow automation, collaborative tools, relational databases, team collaboration,
     API integrations, custom views
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: NocoDB
-    url: /fully-managed-open-source-services/development/nocode-lowcode/nocodb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: NocoDB
+      url: /fully-managed-open-source-services/development/nocode-lowcode/nocodb
 content:
   id: nocodb
   name: NocoDB
@@ -28,8 +30,8 @@ content:
   website: https://www.nocodb.com/
   iframe_website: /website/development/nocode-lowcode/nocodb
   screenshots:
-  - /images/development/nocode-lowcode/nocodb/screenshot-1.png
-  - /images/development/nocode-lowcode/nocodb/screenshot-2.webp
+    - /images/development/nocode-lowcode/nocodb/screenshot-1.png
+    - /images/development/nocode-lowcode/nocodb/screenshot-2.webp
 ---
 
 ## Overview

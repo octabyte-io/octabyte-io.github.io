@@ -3,23 +3,25 @@ draft: false
 title: TotaljsFlow fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
-  description: TotaljsFlow is an intuitive, web-based visual programming interface
+  description:
+    TotaljsFlow is an intuitive, web-based visual programming interface
     designed for low-code development, allowing you to create, edit, and manage real-time
     data integrations and event transformations with ease.
-  keywords: TotaljsFlow, low-code development, visual programming, real-time data
+  keywords:
+    TotaljsFlow, low-code development, visual programming, real-time data
     integration, web-based programming, Total.js components, worker threads, PUB/SUB,
     message service, event-driven applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: TotaljsFlow
-    url: /fully-managed-open-source-services/development/nocode-lowcode/totaljsflow
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: TotaljsFlow
+      url: /fully-managed-open-source-services/development/nocode-lowcode/totaljsflow
 content:
   id: totaljsflow
   name: TotaljsFlow
@@ -28,8 +30,8 @@ content:
   website: https://www.totaljs.com/flow/
   iframe_website: /website/development/nocode-lowcode/totaljsflow
   screenshots:
-  - /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
-  - /images/development/nocode-lowcode/totaljsflow/screenshot-2.png
+    - /images/development/nocode-lowcode/totaljsflow/screenshot-1.jpg
+    - /images/development/nocode-lowcode/totaljsflow/screenshot-2.png
 ---
 
 ## Overview

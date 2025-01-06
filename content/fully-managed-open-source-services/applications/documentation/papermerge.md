@@ -3,24 +3,26 @@ draft: false
 title: Papermerge fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/papermerge/screenshot-1.png
-  description: Papermerge is an open-source document management system (DMS) designed
+  description:
+    Papermerge is an open-source document management system (DMS) designed
     for efficient management of scanned documents. With features like OCR, multi-user
     support, full-text search, and a user-friendly interface, Papermerge enables seamless
     document storage and organization.
-  keywords: Papermerge, open-source document management system, DMS, OCR, full-text
+  keywords:
+    Papermerge, open-source document management system, DMS, OCR, full-text
     search, scanned documents, document storage, document organization, multi-user
     document management, document indexing, digital archives, PDF, JPEG, TIFF files
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Papermerge
-    url: /fully-managed-open-source-services/applications/documentation/papermerge
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Papermerge
+      url: /fully-managed-open-source-services/applications/documentation/papermerge
 content:
   id: papermerge
   name: Papermerge
@@ -29,8 +31,8 @@ content:
   website: https://papermerge.com/
   iframe_website: /website/applications/documentation/papermerge
   screenshots:
-  - /images/applications/documentation/papermerge/screenshot-1.png
-  - /images/applications/documentation/papermerge/screenshot-2.jpg
+    - /images/applications/documentation/papermerge/screenshot-1.png
+    - /images/applications/documentation/papermerge/screenshot-2.jpg
 ---
 
 ## Overview

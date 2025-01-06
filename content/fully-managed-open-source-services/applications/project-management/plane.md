@@ -3,24 +3,26 @@ draft: false
 title: Plane fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/plane/screenshot-1.webp
-  description: Plane is an open-source project management tool that evolves from simple
+  description:
+    Plane is an open-source project management tool that evolves from simple
     task tracking to complex project management frameworks, perfect for teams of all
     sizes.
-  keywords: open-source project management, product management tool, agile project
+  keywords:
+    open-source project management, product management tool, agile project
     management, waterfall project management, task tracking tool, project collaboration,
     issue tracking, sprint planning, Kanban, task management software, Plane project
     management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: Plane
-    url: /fully-managed-open-source-services/applications/project-management/plane
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Plane
+      url: /fully-managed-open-source-services/applications/project-management/plane
 content:
   id: plane
   name: Plane
@@ -29,8 +31,8 @@ content:
   website: https://plane.so/
   iframe_website: /website/applications/project-management/plane
   screenshots:
-  - /images/applications/project-management/plane/screenshot-1.webp
-  - /images/applications/project-management/plane/screenshot-2.webp
+    - /images/applications/project-management/plane/screenshot-1.webp
+    - /images/applications/project-management/plane/screenshot-2.webp
 ---
 
 ## Overview

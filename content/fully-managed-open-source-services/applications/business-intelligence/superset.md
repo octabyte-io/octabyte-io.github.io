@@ -3,23 +3,25 @@ draft: false
 title: Superset fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/business-intelligence/superset/screenshot-1.jpg
-  description: Apache Superset is a scalable open-source data visualization tool that
+  description:
+    Apache Superset is a scalable open-source data visualization tool that
     enables users to explore and visualize data with ease, from basic charts to advanced
     geospatial maps.
-  keywords: Apache Superset, open-source data visualization, cloud-native data exploration,
+  keywords:
+    Apache Superset, open-source data visualization, cloud-native data exploration,
     petabyte-scale data, SQL integration, geospatial charts, data dashboards, business
     intelligence tool, scalable data analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Business Intelligence
-    url: /fully-managed-open-source-services/applications/business-intelligence
-  - name: Superset
-    url: /fully-managed-open-source-services/applications/business-intelligence/superset
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
+    - name: Superset
+      url: /fully-managed-open-source-services/applications/business-intelligence/superset
 content:
   id: superset
   name: Superset
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/business-intelligence/superset
   direct_link: true
   screenshots:
-  - /images/applications/business-intelligence/superset/screenshot-1.jpg
-  - /images/applications/business-intelligence/superset/screenshot-2.jpg
+    - /images/applications/business-intelligence/superset/screenshot-1.jpg
+    - /images/applications/business-intelligence/superset/screenshot-2.jpg
 ---
 
 ## Overview

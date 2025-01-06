@@ -3,23 +3,25 @@ draft: false
 title: Ackee fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/ackee/screenshot-1.jpg
-  description: Ackee is a privacy-focused, open-source web analytics tool that provides
+  description:
+    Ackee is a privacy-focused, open-source web analytics tool that provides
     insightful traffic analysis with a minimalistic interface. It ensures complete
     anonymity and runs self-hosted for full control.
-  keywords: Ackee, website analytics, privacy-focused analytics, open-source analytics,
+  keywords:
+    Ackee, website analytics, privacy-focused analytics, open-source analytics,
     self-hosted analytics, traffic analysis, anonymized data, web analytics tool,
     minimal UI analytics, data transparency, GraphQL API analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Ackee
-    url: /fully-managed-open-source-services/applications/analytics/ackee
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Ackee
+      url: /fully-managed-open-source-services/applications/analytics/ackee
 content:
   id: ackee
   name: Ackee
@@ -28,8 +30,8 @@ content:
   website: https://ackee.electerious.com/
   iframe_website: /website/applications/analytics/ackee
   screenshots:
-  - /images/applications/analytics/ackee/screenshot-1.jpg
-  - /images/applications/analytics/ackee/screenshot-2.jpg
+    - /images/applications/analytics/ackee/screenshot-1.jpg
+    - /images/applications/analytics/ackee/screenshot-2.jpg
 ---
 
 ## Overview

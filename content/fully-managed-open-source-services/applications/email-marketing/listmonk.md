@@ -3,23 +3,25 @@ draft: false
 title: Listmonk fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/email-marketing/listmonk/screenshot-1.png
-  description: Listmonk is a free, open-source, self-hosted newsletter and mailing
+  description:
+    Listmonk is a free, open-source, self-hosted newsletter and mailing
     list manager offering high performance, advanced features, and seamless integration.
-  keywords: Listmonk, self-hosted newsletter manager, open-source email marketing,
+  keywords:
+    Listmonk, self-hosted newsletter manager, open-source email marketing,
     mailing list manager, email campaign analytics, high-speed email delivery, dynamic
     email templates, SQL-based segmentation, lightweight email marketing tool, Postgres
     email manager
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Email marketing
-    url: /fully-managed-open-source-services/applications/email-marketing
-  - name: Listmonk
-    url: /fully-managed-open-source-services/applications/email-marketing/listmonk
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Email marketing
+      url: /fully-managed-open-source-services/applications/email-marketing
+    - name: Listmonk
+      url: /fully-managed-open-source-services/applications/email-marketing/listmonk
 content:
   id: listmonk
   name: Listmonk
@@ -28,8 +30,8 @@ content:
   website: https://listmonk.app/
   iframe_website: /website/applications/email-marketing/listmonk
   screenshots:
-  - /images/applications/email-marketing/listmonk/screenshot-1.png
-  - /images/applications/email-marketing/listmonk/screenshot-2.png
+    - /images/applications/email-marketing/listmonk/screenshot-1.png
+    - /images/applications/email-marketing/listmonk/screenshot-2.png
 ---
 
 ## Overview

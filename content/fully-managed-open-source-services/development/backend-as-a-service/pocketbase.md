@@ -3,21 +3,23 @@ draft: false
 title: PocketBase fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/pocketbase/screenshot-1.png
-  description: PocketBase is an open-source backend with SQLite database, real-time
+  description:
+    PocketBase is an open-source backend with SQLite database, real-time
     subscriptions, auth management, RESTful API, and file storage.
-  keywords: PocketBase, open-source backend, real-time database, SQLite, RESTful API,
+  keywords:
+    PocketBase, open-source backend, real-time database, SQLite, RESTful API,
     authentication, OAuth2, file storage, app backend, Go framework, developer tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: PocketBase
-    url: /fully-managed-open-source-services/development/backend-as-a-service/pocketbase
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: PocketBase
+      url: /fully-managed-open-source-services/development/backend-as-a-service/pocketbase
 content:
   id: pocketbase
   name: PocketBase
@@ -27,8 +29,8 @@ content:
   iframe_website: /website/development/backend-as-a-service/pocketbase
   direct_link: true
   screenshots:
-  - /images/development/backend-as-a-service/pocketbase/screenshot-1.png
-  - /images/development/backend-as-a-service/pocketbase/screenshot-2.png
+    - /images/development/backend-as-a-service/pocketbase/screenshot-1.png
+    - /images/development/backend-as-a-service/pocketbase/screenshot-2.png
 ---
 
 ## Overview

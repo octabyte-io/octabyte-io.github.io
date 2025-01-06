@@ -3,24 +3,26 @@ draft: false
 title: Lowcoder fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/lowcoder/screenshot-1.png
-  description: Lowcoder is an intuitive low-code platform designed for businesses
+  description:
+    Lowcoder is an intuitive low-code platform designed for businesses
     and developers. Create powerful software applications for your company and customers
     with minimal coding experience. Perfect for building internal tools, apps, and
     workflows.
-  keywords: low-code platform, build software applications, no-code alternative, scalable
+  keywords:
+    low-code platform, build software applications, no-code alternative, scalable
     apps, API integration, custom components, embed apps, Lowcoder, internal tools,
     app development, workflow automation, secure apps, multi-container deployment
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Lowcoder
-    url: /fully-managed-open-source-services/development/nocode-lowcode/lowcoder
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Lowcoder
+      url: /fully-managed-open-source-services/development/nocode-lowcode/lowcoder
 content:
   id: lowcoder
   name: Lowcoder
@@ -29,8 +31,8 @@ content:
   website: https://lowcoder.cloud/
   iframe_website: /website/development/nocode-lowcode/lowcoder
   screenshots:
-  - /images/development/nocode-lowcode/lowcoder/screenshot-1.png
-  - /images/development/nocode-lowcode/lowcoder/screenshot-2.webp
+    - /images/development/nocode-lowcode/lowcoder/screenshot-1.png
+    - /images/development/nocode-lowcode/lowcoder/screenshot-2.webp
 ---
 
 ## Overview

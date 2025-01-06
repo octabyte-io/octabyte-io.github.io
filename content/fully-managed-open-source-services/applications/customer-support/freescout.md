@@ -3,24 +3,26 @@ draft: false
 title: FreeScout fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/freescout/screenshot-1.jpg
-  description: FreeScout is a free and lightweight open-source help desk and shared
+  description:
+    FreeScout is a free and lightweight open-source help desk and shared
     inbox solution, offering an easy-to-use, self-hosted alternative to Zendesk and
     HelpScout. Enjoy privacy, control, and seamless integrations.
-  keywords: FreeScout, open source help desk, self-hosted support, Zendesk alternative,
+  keywords:
+    FreeScout, open source help desk, self-hosted support, Zendesk alternative,
     HelpScout clone, PHP help desk, customer support software, shared inbox, free
     help desk solution, open-source support platform, ticket management, email integration,
     multilingual support
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: FreeScout
-    url: /fully-managed-open-source-services/applications/customer-support/freescout
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: FreeScout
+      url: /fully-managed-open-source-services/applications/customer-support/freescout
 content:
   id: freescout
   name: FreeScout
@@ -29,8 +31,8 @@ content:
   website: https://freescout.net/
   iframe_website: /website/applications/customer-support/freescout
   screenshots:
-  - /images/applications/customer-support/freescout/screenshot-1.jpg
-  - /images/applications/customer-support/freescout/screenshot-2.jpg
+    - /images/applications/customer-support/freescout/screenshot-1.jpg
+    - /images/applications/customer-support/freescout/screenshot-2.jpg
 ---
 
 ## Overview

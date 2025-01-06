@@ -3,23 +3,25 @@ draft: false
 title: Flagsmith fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/flagsmith/screenshot-1.png
-  description: Flagsmith is a powerful feature flag tool that enables real-time changes
+  description:
+    Flagsmith is a powerful feature flag tool that enables real-time changes
     to apps without requiring code updates or app store approvals. Easily manage flags
     across multiple platforms and drive precise A/B/n testing with advanced segmentation.
-  keywords: feature flags, feature flag management, A/B testing, real-time app changes,
+  keywords:
+    feature flags, feature flag management, A/B testing, real-time app changes,
     deployment tool, feature toggle, cross-platform configuration, Flagsmith, app
     feature management, canary deployments
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Flagsmith
-    url: /fully-managed-open-source-services/development/dev-tools/flagsmith
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Flagsmith
+      url: /fully-managed-open-source-services/development/dev-tools/flagsmith
 content:
   id: flagsmith
   name: Flagsmith
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/dev-tools/flagsmith
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/flagsmith/screenshot-1.png
-  - /images/development/dev-tools/flagsmith/screenshot-2.jpg
+    - /images/development/dev-tools/flagsmith/screenshot-1.png
+    - /images/development/dev-tools/flagsmith/screenshot-2.jpg
 ---
 
 ## Overview

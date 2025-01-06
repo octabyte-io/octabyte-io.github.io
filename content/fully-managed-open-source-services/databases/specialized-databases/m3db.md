@@ -3,23 +3,25 @@ draft: false
 title: M3DB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/m3db/screenshot-1.png
-  description: M3DB is a scalable, efficient, and highly compatible database designed
+  description:
+    M3DB is a scalable, efficient, and highly compatible database designed
     for Cloud Native companies to enhance Prometheus-based monitoring systems. It
     offers seamless integration, optimized performance, and exceptional data compression.
-  keywords: M3DB database, Cloud Native database, Prometheus Remote Storage, time-series
+  keywords:
+    M3DB database, Cloud Native database, Prometheus Remote Storage, time-series
     data, scalable database, PromQL compatibility, metric storage, cloud monitoring,
     performance optimization, data compression
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: M3DB
-    url: /fully-managed-open-source-services/databases/specialized-databases/m3db
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: M3DB
+      url: /fully-managed-open-source-services/databases/specialized-databases/m3db
 content:
   id: m3db
   name: M3DB
@@ -28,8 +30,8 @@ content:
   website: https://m3db.io/
   iframe_website: /website/databases/specialized-databases/m3db
   screenshots:
-  - /images/databases/specialized-databases/m3db/screenshot-1.png
-  - /images/databases/specialized-databases/m3db/screenshot-2.png
+    - /images/databases/specialized-databases/m3db/screenshot-1.png
+    - /images/databases/specialized-databases/m3db/screenshot-2.png
 ---
 
 ## Overview

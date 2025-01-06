@@ -3,23 +3,25 @@ draft: false
 title: SurrealDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/surrealdb/screenshot-1.png
-  description: SurrealDB is a modern, cloud-native database that simplifies database
+  description:
+    SurrealDB is a modern, cloud-native database that simplifies database
     management for web, mobile, and serverless applications, offering performance,
     scalability, and security.
-  keywords: SurrealDB, cloud-native database, modern database, API infrastructure,
+  keywords:
+    SurrealDB, cloud-native database, modern database, API infrastructure,
     database for mobile apps, distributed database, SurrealQL, cloud database, backend
     database, secure database, scalable database.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: SurrealDB
-    url: /fully-managed-open-source-services/databases/specialized-databases/surrealdb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: SurrealDB
+      url: /fully-managed-open-source-services/databases/specialized-databases/surrealdb
 content:
   id: surrealdb
   name: SurrealDB
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/specialized-databases/surrealdb
   direct_link: true
   screenshots:
-  - /images/databases/specialized-databases/surrealdb/screenshot-1.png
-  - /images/databases/specialized-databases/surrealdb/screenshot-2.jpg
+    - /images/databases/specialized-databases/surrealdb/screenshot-1.png
+    - /images/databases/specialized-databases/surrealdb/screenshot-2.jpg
 ---
 
 ## Overview

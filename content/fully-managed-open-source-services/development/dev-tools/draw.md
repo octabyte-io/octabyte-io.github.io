@@ -3,22 +3,24 @@ draft: false
 title: draw fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/draw/screenshot-1.png
-  description: Draw.io is a versatile, client-side diagramming and whiteboarding tool,
+  description:
+    Draw.io is a versatile, client-side diagramming and whiteboarding tool,
     enabling users to create, store, and collaborate on diagrams across multiple platforms.
-  keywords: Draw.io, diagramming tool, whiteboarding software, online diagramming,
+  keywords:
+    Draw.io, diagramming tool, whiteboarding software, online diagramming,
     cloud storage, Google Drive integration, Microsoft OneDrive, Atlassian Confluence,
     real-time collaboration, GitHub, GitLab, wireframing, network diagrams
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: draw
-    url: /fully-managed-open-source-services/development/dev-tools/draw
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: draw
+      url: /fully-managed-open-source-services/development/dev-tools/draw
 content:
   id: draw
   name: draw
@@ -27,8 +29,8 @@ content:
   website: https://www.drawio.com/
   iframe_website: /website/development/dev-tools/draw
   screenshots:
-  - /images/development/dev-tools/draw/screenshot-1.png
-  - /images/development/dev-tools/draw/screenshot-2.png
+    - /images/development/dev-tools/draw/screenshot-1.png
+    - /images/development/dev-tools/draw/screenshot-2.png
 ---
 
 ## Overview

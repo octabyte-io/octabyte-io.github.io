@@ -3,23 +3,25 @@ draft: false
 title: Nebula fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/nebula/screenshot-1.jpg
-  description: Nebula is an open-source networking tool that enables seamless and
+  description:
+    Nebula is an open-source networking tool that enables seamless and
     secure connections between computers worldwide, supporting a range of platforms
     and offering scalability and flexibility for any network setup.
-  keywords: Nebula, open-source networking, VPN, overlay network, scalable network,
+  keywords:
+    Nebula, open-source networking, VPN, overlay network, scalable network,
     secure connections, global connectivity, mesh VPN, IoT connectivity, encryption,
     networking tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: Nebula
-    url: /fully-managed-open-source-services/development/network/nebula
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: Nebula
+      url: /fully-managed-open-source-services/development/network/nebula
 content:
   id: nebula
   name: Nebula

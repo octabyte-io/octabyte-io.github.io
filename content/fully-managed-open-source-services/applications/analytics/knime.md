@@ -3,35 +3,38 @@ draft: false
 title: Knime fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/knime/screenshot-1.jpg
-  description: KNIME Analytics Platform is an open-source data science software that
+  description:
+    KNIME Analytics Platform is an open-source data science software that
     enables users to build data workflows and analyze data with ease, offering visual
     programming, tool blending, and full support for the data science life cycle.
-  keywords: KNIME, open source data science software, data analytics, visual programming,
+  keywords:
+    KNIME, open source data science software, data analytics, visual programming,
     data science workflows, machine learning, KNIME Hub, tool blending, data analysis,
     R Python integration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Knime
-    url: /fully-managed-open-source-services/applications/analytics/knime
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Knime
+      url: /fully-managed-open-source-services/applications/analytics/knime
 content:
   id: knime
   name: Knime
-  title: Unlock the Power of Data with KNIME Analytics Platform - Open Source Data
+  title:
+    Unlock the Power of Data with KNIME Analytics Platform - Open Source Data
     Science Software
   logo: /images/applications/analytics/knime/logo.png
   website: https://github.com/OctaByte/docker-desktop-vnc-knime
   iframe_website: /website/applications/analytics/knime
   direct_link: true
   screenshots:
-  - /images/applications/analytics/knime/screenshot-1.jpg
-  - /images/applications/analytics/knime/screenshot-2.jpg
+    - /images/applications/analytics/knime/screenshot-1.jpg
+    - /images/applications/analytics/knime/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,35 +3,38 @@ draft: false
 title: Wger fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/wger/screenshot-1.png
-  description: Wger Workout Manager is an open-source web app that helps you track
+  description:
+    Wger Workout Manager is an open-source web app that helps you track
     workouts, diet plans, and progress. Plan meals, set goals, and manage your fitness
     routine easily. Ideal for both personal use and gym management.
-  keywords: Wger, workout manager, fitness tracker, gym management, meal planner,
+  keywords:
+    Wger, workout manager, fitness tracker, gym management, meal planner,
     open-source fitness tool, workout routine, track progress, gym tracker, fitness
     API, exercise tracker, nutrition log, body weight tracker
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Wger
-    url: /fully-managed-open-source-services/applications/others/wger
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Wger
+      url: /fully-managed-open-source-services/applications/others/wger
 content:
   id: wger
   name: Wger
-  title: 'Wger Workout Manager: The Ultimate Open-Source Fitness Tracker and Gym Management
-    Tool'
+  title:
+    "Wger Workout Manager: The Ultimate Open-Source Fitness Tracker and Gym Management
+    Tool"
   logo: /images/applications/others/wger/logo.png
   website: https://wger.de/en/software/features
   iframe_website: /website/applications/others/wger
   direct_link: true
   screenshots:
-  - /images/applications/others/wger/screenshot-1.png
-  - /images/applications/others/wger/screenshot-2.png
+    - /images/applications/others/wger/screenshot-1.png
+    - /images/applications/others/wger/screenshot-2.png
 ---
 
 ## Overview

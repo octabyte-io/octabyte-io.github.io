@@ -3,34 +3,37 @@ draft: false
 title: Moodle fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/moodle/screenshot-1.jpg
-  description: Moodle is a free, open-source LMS enabling educators to create dynamic
+  description:
+    Moodle is a free, open-source LMS enabling educators to create dynamic
     courses and collaborative learning environments, trusted by 213M+ users worldwide.
-  keywords: Moodle, learning management system, open-source LMS, e-learning platform,
+  keywords:
+    Moodle, learning management system, open-source LMS, e-learning platform,
     online education, dynamic courses, collaborative learning, accessible learning,
     Moodle features, customizable LMS
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Moodle
-    url: /fully-managed-open-source-services/applications/others/moodle
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Moodle
+      url: /fully-managed-open-source-services/applications/others/moodle
 content:
   id: moodle
   name: Moodle
-  title: "Empower Education with Moodle: The World\u2019s Leading Learning Management\
+  title:
+    "Empower Education with Moodle: The World\u2019s Leading Learning Management\
     \ System"
   logo: /images/applications/others/moodle/logo.png
   website: https://moodle.org/
   iframe_website: /website/applications/others/moodle
   direct_link: true
   screenshots:
-  - /images/applications/others/moodle/screenshot-1.jpg
-  - /images/applications/others/moodle/screenshot-2.jpg
+    - /images/applications/others/moodle/screenshot-1.jpg
+    - /images/applications/others/moodle/screenshot-2.jpg
 ---
 
 ## Overview

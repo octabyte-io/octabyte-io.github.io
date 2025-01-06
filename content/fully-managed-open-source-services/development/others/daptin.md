@@ -3,23 +3,25 @@ draft: false
 title: Daptin fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/daptin/screenshot-1.jpg
-  description: Daptin is an open-source backend framework that simplifies building
+  description:
+    Daptin is an open-source backend framework that simplifies building
     and deploying production-ready JSONAPI microservices with cloud storage integration
     and flexible API handling.
-  keywords: Daptin, backend framework, JSONAPI, open-source, microservices, cloud
+  keywords:
+    Daptin, backend framework, JSONAPI, open-source, microservices, cloud
     storage, OAuth2, GraphQL, API development, production-ready, authentication, authorization,
     JSONAPI.org, flexible APIs
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: Daptin
-    url: /fully-managed-open-source-services/development/nocode-lowcode/daptin
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: Daptin
+      url: /fully-managed-open-source-services/development/nocode-lowcode/daptin
 content:
   id: daptin
   name: Daptin
@@ -28,8 +30,8 @@ content:
   website: https://daptin.github.io/daptin/
   iframe_website: /website/development/others/daptin
   screenshots:
-  - /images/development/others/daptin/screenshot-1.jpg
-  - /images/development/others/daptin/screenshot-2.jpg
+    - /images/development/others/daptin/screenshot-1.jpg
+    - /images/development/others/daptin/screenshot-2.jpg
 ---
 
 ## Overview

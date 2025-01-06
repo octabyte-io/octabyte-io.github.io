@@ -3,23 +3,25 @@ draft: false
 title: Redis fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/nosql/redis/screenshot-1.jpg
-  description: Redis is an in-memory database that provides lightning-fast data access
+  description:
+    Redis is an in-memory database that provides lightning-fast data access
     and supports a wide range of data types. Perfect for real-time applications, it
     enables millions of requests per second.
-  keywords: Redis database, in-memory data store, real-time data, low-latency, high-throughput,
+  keywords:
+    Redis database, in-memory data store, real-time data, low-latency, high-throughput,
     Redis features, fast data access, caching solution, Redis performance, scalable
     data store
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: NoSQL
-    url: /fully-managed-open-source-services/databases/nosql
-  - name: Redis
-    url: /fully-managed-open-source-services/databases/nosql/redis
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
+    - name: Redis
+      url: /fully-managed-open-source-services/databases/nosql/redis
 content:
   id: redis
   name: Redis
@@ -28,8 +30,8 @@ content:
   website: https://redis.io/
   iframe_website: /website/databases/nosql/redis
   screenshots:
-  - /images/databases/nosql/redis/screenshot-1.jpg
-  - /images/databases/nosql/redis/screenshot-2.jpg
+    - /images/databases/nosql/redis/screenshot-1.jpg
+    - /images/databases/nosql/redis/screenshot-2.jpg
 ---
 
 ## Overview

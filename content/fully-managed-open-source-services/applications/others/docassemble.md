@@ -3,24 +3,26 @@ draft: false
 title: Docassemble fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/docassemble/screenshot-1.jpg
-  description: Docassemble is a free, open-source system that automates guided interviews
+  description:
+    Docassemble is a free, open-source system that automates guided interviews
     and document assembly, providing customized workflows and generating documents
     in multiple formats.
-  keywords: Docassemble, guided interviews, document assembly, open-source expert
+  keywords:
+    Docassemble, guided interviews, document assembly, open-source expert
     system, PDF document generation, RTF document generation, DOCX document generation,
     user data collection, legal automation, document automation, machine learning,
     OpenAI API, touchscreen signatures, live chat, web-based interviews
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Docassemble
-    url: /fully-managed-open-source-services/applications/others/docassemble
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Docassemble
+      url: /fully-managed-open-source-services/applications/others/docassemble
 content:
   id: docassemble
   name: Docassemble
@@ -29,8 +31,8 @@ content:
   website: https://docassemble.org/
   iframe_website: /website/applications/others/docassemble
   screenshots:
-  - /images/applications/others/docassemble/screenshot-1.jpg
-  - /images/applications/others/docassemble/screenshot-2.png
+    - /images/applications/others/docassemble/screenshot-1.jpg
+    - /images/applications/others/docassemble/screenshot-2.png
 ---
 
 ## Overview

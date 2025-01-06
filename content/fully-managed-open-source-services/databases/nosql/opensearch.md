@@ -3,23 +3,25 @@ draft: false
 title: OpenSearch fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/nosql/opensearch/screenshot-1.jpg
-  description: OpenSearch is an open-source search and analytics suite built from
+  description:
+    OpenSearch is an open-source search and analytics suite built from
     Elasticsearch & Kibana, offering powerful search capabilities and data visualization.
     It provides scalability, flexibility, and community-driven development.
-  keywords: OpenSearch, open-source search, analytics, Elasticsearch, Kibana, search
+  keywords:
+    OpenSearch, open-source search, analytics, Elasticsearch, Kibana, search
     engine, data visualization, scalable search, community-driven, open-source software,
     search and analytics suite
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: NoSQL
-    url: /fully-managed-open-source-services/databases/nosql
-  - name: OpenSearch
-    url: /fully-managed-open-source-services/databases/nosql/opensearch
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
+    - name: OpenSearch
+      url: /fully-managed-open-source-services/databases/nosql/opensearch
 content:
   id: opensearch
   name: OpenSearch
@@ -28,8 +30,8 @@ content:
   website: https://opensearch.org/
   iframe_website: /website/databases/nosql/opensearch
   screenshots:
-  - /images/databases/nosql/opensearch/screenshot-1.jpg
-  - /images/databases/nosql/opensearch/screenshot-2.jpg
+    - /images/databases/nosql/opensearch/screenshot-1.jpg
+    - /images/databases/nosql/opensearch/screenshot-2.jpg
 ---
 
 ## Overview

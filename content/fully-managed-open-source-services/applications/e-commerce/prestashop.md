@@ -3,23 +3,25 @@ draft: false
 title: Prestashop fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/e-commerce/prestashop/screenshot-1.jpg
-  description: PrestaShop is a free, open-source e-commerce platform that allows you
+  description:
+    PrestaShop is a free, open-source e-commerce platform that allows you
     to build, manage, and grow your online store with ease. It offers budget-friendly
     features, easy installation, and full customization with thousands of plugins.
-  keywords: PrestaShop, open-source e-commerce, online store, PHP, MySQL, free shopping
+  keywords:
+    PrestaShop, open-source e-commerce, online store, PHP, MySQL, free shopping
     cart, e-commerce platform, customizable store, responsive design, multilingual
     e-commerce, budget-friendly platform, PrestaShop features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: E-commerce
-    url: /fully-managed-open-source-services/applications/e-commerce
-  - name: Prestashop
-    url: /fully-managed-open-source-services/applications/e-commerce/prestashop
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: E-commerce
+      url: /fully-managed-open-source-services/applications/e-commerce
+    - name: Prestashop
+      url: /fully-managed-open-source-services/applications/e-commerce/prestashop
 content:
   id: prestashop
   name: Prestashop
@@ -28,8 +30,8 @@ content:
   website: https://www.prestashop-project.org/
   iframe_website: /website/applications/e-commerce/prestashop
   screenshots:
-  - /images/applications/e-commerce/prestashop/screenshot-1.jpg
-  - /images/applications/e-commerce/prestashop/screenshot-2.jpg
+    - /images/applications/e-commerce/prestashop/screenshot-1.jpg
+    - /images/applications/e-commerce/prestashop/screenshot-2.jpg
 ---
 
 ## Overview

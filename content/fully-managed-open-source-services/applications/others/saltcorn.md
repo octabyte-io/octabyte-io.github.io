@@ -3,23 +3,25 @@ draft: false
 title: Saltcorn fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/saltcorn/screenshot-1.png
-  description: Saltcorn is a no-code platform for building powerful database web applications
+  description:
+    Saltcorn is a no-code platform for building powerful database web applications
     with an intuitive drag-and-drop interface. Create and manage your apps effortlessly
     without writing a single line of code.
-  keywords: no-code platform, database web applications, drag-and-drop builder, relational
+  keywords:
+    no-code platform, database web applications, drag-and-drop builder, relational
     data model, open-source software, create apps without code, Saltcorn, database
     management, build apps easily, multi-platform applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Saltcorn
-    url: /fully-managed-open-source-services/applications/others/saltcorn
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Saltcorn
+      url: /fully-managed-open-source-services/applications/others/saltcorn
 content:
   id: saltcorn
   name: Saltcorn
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/others/saltcorn
   direct_link: true
   screenshots:
-  - /images/applications/others/saltcorn/screenshot-1.png
-  - /images/applications/others/saltcorn/screenshot-2.png
+    - /images/applications/others/saltcorn/screenshot-1.png
+    - /images/applications/others/saltcorn/screenshot-2.png
 ---
 
 ## Overview

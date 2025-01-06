@@ -3,25 +3,27 @@ draft: false
 title: SigLens fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/siglens/screenshot-1.png
-  description: SigLens is a high-performance log management tool that scales effortlessly
+  description:
+    SigLens is a high-performance log management tool that scales effortlessly
     to meet your needs, slashing observability costs by up to 90%. It combines logs,
     metrics, and traces in a single platform for unmatched efficiency and ease of
     use.
-  keywords: SigLens, log management, observability tool, scalable log management,
+  keywords:
+    SigLens, log management, observability tool, scalable log management,
     log search, full-text search, metrics and traces, log ingestion, telemetry, Elasticsearch,
     cost-efficient observability, log query, wildcard search, regex search, real-time
     log analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: SigLens
-    url: /fully-managed-open-source-services/applications/project-management/siglens
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: SigLens
+      url: /fully-managed-open-source-services/applications/project-management/siglens
 content:
   id: siglens
   name: SigLens
@@ -30,8 +32,8 @@ content:
   website: https://www.siglens.com/index.html
   iframe_website: /website/applications/project-management/siglens
   screenshots:
-  - /images/applications/project-management/siglens/screenshot-1.png
-  - /images/applications/project-management/siglens/screenshot-2.png
+    - /images/applications/project-management/siglens/screenshot-1.png
+    - /images/applications/project-management/siglens/screenshot-2.png
 ---
 
 ## Overview

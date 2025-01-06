@@ -3,22 +3,24 @@ draft: false
 title: Corteza fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/corteza/screenshot-1.webp
-  description: Corteza is a low-code platform for building CRM systems, automating
+  description:
+    Corteza is a low-code platform for building CRM systems, automating
     workflows, and integrating data across environments.
-  keywords: Corteza, low-code platform, Salesforce alternative, CRM software, business
+  keywords:
+    Corteza, low-code platform, Salesforce alternative, CRM software, business
     process automation, app development, workflow automation, data integration, open-source
     CRM, custom applications
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Corteza
-    url: /fully-managed-open-source-services/development/dev-tools/corteza
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Corteza
+      url: /fully-managed-open-source-services/development/dev-tools/corteza
 content:
   id: corteza
   name: Corteza
@@ -27,8 +29,8 @@ content:
   website: https://cortezaproject.org/
   iframe_website: /website/development/dev-tools/corteza
   screenshots:
-  - /images/development/dev-tools/corteza/screenshot-1.webp
-  - /images/development/dev-tools/corteza/screenshot-2.webp
+    - /images/development/dev-tools/corteza/screenshot-1.webp
+    - /images/development/dev-tools/corteza/screenshot-2.webp
 ---
 
 ## Overview

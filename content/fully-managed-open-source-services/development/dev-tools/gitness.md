@@ -3,23 +3,25 @@ draft: false
 title: Gitness fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gitness/screenshot-1.png
-  description: Gitness is an open-source developer platform that combines SCM, CI,
+  description:
+    Gitness is an open-source developer platform that combines SCM, CI,
     and CD, providing a fast, integrated solution for building, testing, and deploying
     code.
-  keywords: Gitness, Open Source Developer Platform, CI/CD, Source Control, Continuous
+  keywords:
+    Gitness, Open Source Developer Platform, CI/CD, Source Control, Continuous
     Integration, Continuous Delivery, Automation, Code Deployment, GitHub Integration,
     GitLab Integration, Bitbucket Integration, DevOps, Developer Tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gitness
-    url: /fully-managed-open-source-services/development/dev-tools/gitness
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gitness
+      url: /fully-managed-open-source-services/development/dev-tools/gitness
 content:
   id: gitness
   name: Gitness
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/dev-tools/gitness
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/gitness/screenshot-1.png
-  - /images/development/dev-tools/gitness/screenshot-2.png
+    - /images/development/dev-tools/gitness/screenshot-1.png
+    - /images/development/dev-tools/gitness/screenshot-2.png
 ---
 
 ## Overview

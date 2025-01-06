@@ -3,21 +3,23 @@ draft: false
 title: PhpBB fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/phpbb/screenshot-1.png
-  description: phpBB is a free and secure forum software solution to build and manage
+  description:
+    phpBB is a free and secure forum software solution to build and manage
     online communities effortlessly.
-  keywords: phpBB, open-source forum software, free forum software, online community
+  keywords:
+    phpBB, open-source forum software, free forum software, online community
     builder, phpBB features, secure forum software, forum management tool
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: PhpBB
-    url: /fully-managed-open-source-services/applications/forum-community/phpbb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: PhpBB
+      url: /fully-managed-open-source-services/applications/forum-community/phpbb
 content:
   id: phpbb
   name: PhpBB
@@ -27,8 +29,8 @@ content:
   iframe_website: /website/applications/forum-community/phpbb
   direct_link: true
   screenshots:
-  - /images/applications/forum-community/phpbb/screenshot-1.png
-  - /images/applications/forum-community/phpbb/screenshot-2.jpg
+    - /images/applications/forum-community/phpbb/screenshot-1.png
+    - /images/applications/forum-community/phpbb/screenshot-2.jpg
 ---
 
 ## Overview

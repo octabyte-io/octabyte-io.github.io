@@ -3,23 +3,25 @@ draft: false
 title: QuickChart fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/quickchart/screenshot-1.png
-  description: QuickChart is a powerful API that lets you generate chart images, PDFs,
+  description:
+    QuickChart is a powerful API that lets you generate chart images, PDFs,
     and QR codes with ease. Built on the popular Chart.js library, QuickChart is perfect
     for embedding charts in emails, SMS, and more, without the need for dynamic rendering.
-  keywords: QuickChart, chart API, image generation, Chart.js, QR code generator,
+  keywords:
+    QuickChart, chart API, image generation, Chart.js, QR code generator,
     chart maker, open-source, no-code chart maker, static chart images, PDF charts,
     data visualization API
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: QuickChart
-    url: /fully-managed-open-source-services/development/dev-tools/quickchart
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: QuickChart
+      url: /fully-managed-open-source-services/development/dev-tools/quickchart
 content:
   id: quickchart
   name: QuickChart
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/dev-tools/quickchart
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/quickchart/screenshot-1.png
-  - /images/development/dev-tools/quickchart/screenshot-2.png
+    - /images/development/dev-tools/quickchart/screenshot-1.png
+    - /images/development/dev-tools/quickchart/screenshot-2.png
 ---
 
 ## Overview

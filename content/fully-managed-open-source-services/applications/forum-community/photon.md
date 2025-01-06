@@ -3,23 +3,25 @@ draft: false
 title: Photon fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/photon/screenshot-1.png
-  description: Photon is a customizable replacement for Lemmy-ui, offering an improved
+  description:
+    Photon is a customizable replacement for Lemmy-ui, offering an improved
     design, more features, and full integration with the Fediverse for creating decentralized
     discussion platforms.
-  keywords: Photon, Lemmy, Reddit alternative, open-source, decentralized discussion
+  keywords:
+    Photon, Lemmy, Reddit alternative, open-source, decentralized discussion
     platform, Fediverse, community building, customizable UI, discussion platform,
     Lemmy UI replacement, open-source software.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Photon
-    url: /fully-managed-open-source-services/applications/forum-community/photon
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Photon
+      url: /fully-managed-open-source-services/applications/forum-community/photon
 content:
   id: photon
   name: Photon
@@ -28,8 +30,8 @@ content:
   website: https://phtn.app/
   iframe_website: /website/applications/forum-community/photon
   screenshots:
-  - /images/applications/forum-community/photon/screenshot-1.png
-  - /images/applications/forum-community/photon/screenshot-2.png
+    - /images/applications/forum-community/photon/screenshot-1.png
+    - /images/applications/forum-community/photon/screenshot-2.png
 ---
 
 ## Overview

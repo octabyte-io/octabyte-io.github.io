@@ -3,21 +3,23 @@ draft: false
 title: MetaTrader5 fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/metatrader5/screenshot-1.jpg
-  description: MetaTrader 5 is a modern trading platform offering advanced tools,
+  description:
+    MetaTrader 5 is a modern trading platform offering advanced tools,
     broker compatibility, and 24/7 accessibility for seamless trading experiences.
-  keywords: MetaTrader 5, trading platform, MT5, Forex trading, stock trading, futures
+  keywords:
+    MetaTrader 5, trading platform, MT5, Forex trading, stock trading, futures
     trading, automated trading, backtesting, broker compatibility, advanced analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: MetaTrader5
-    url: /fully-managed-open-source-services/applications/others/metatrader5
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: MetaTrader5
+      url: /fully-managed-open-source-services/applications/others/metatrader5
 content:
   id: metatrader5
   name: MetaTrader5
@@ -27,8 +29,8 @@ content:
   iframe_website: /website/applications/others/metatrader5
   direct_link: true
   screenshots:
-  - /images/applications/others/metatrader5/screenshot-1.jpg
-  - /images/applications/others/metatrader5/screenshot-2.jpg
+    - /images/applications/others/metatrader5/screenshot-1.jpg
+    - /images/applications/others/metatrader5/screenshot-2.jpg
 ---
 
 ## Overview

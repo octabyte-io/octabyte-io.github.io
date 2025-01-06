@@ -3,23 +3,25 @@ draft: false
 title: KrakenD fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/krakend/screenshot-1.png
-  description: KrakenD is a distributed, stateless API Gateway designed to streamline
+  description:
+    KrakenD is a distributed, stateless API Gateway designed to streamline
     microservices adoption with powerful features like content aggregation, format
     transformation, and advanced security measures.
-  keywords: KrakenD, API Gateway, microservices, high-performance API, content aggregation,
+  keywords:
+    KrakenD, API Gateway, microservices, high-performance API, content aggregation,
     format transformation, API security, rate-limiting, OAuth, JWT, API management,
     content composition, stateless API Gateway
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: KrakenD
-    url: /fully-managed-open-source-services/development/nocode-lowcode/krakend
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: KrakenD
+      url: /fully-managed-open-source-services/development/nocode-lowcode/krakend
 content:
   id: krakend
   name: KrakenD
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/others/krakend
   direct_link: true
   screenshots:
-  - /images/development/others/krakend/screenshot-1.png
-  - /images/development/others/krakend/screenshot-2.png
+    - /images/development/others/krakend/screenshot-1.png
+    - /images/development/others/krakend/screenshot-2.png
 ---
 
 ## Overview

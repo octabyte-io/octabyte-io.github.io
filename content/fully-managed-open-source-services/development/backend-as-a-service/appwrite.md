@@ -3,23 +3,25 @@ draft: false
 title: Appwrite fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/appwrite/screenshot-1.png
-  description: Appwrite is a self-hosted backend platform offering robust APIs for
+  description:
+    Appwrite is a self-hosted backend platform offering robust APIs for
     authentication, database, storage, cloud functions, and more, empowering developers
     with secure and scalable backend solutions.
-  keywords: Appwrite, self-hosted backend, open-source backend, REST APIs, user authentication,
+  keywords:
+    Appwrite, self-hosted backend, open-source backend, REST APIs, user authentication,
     database management, file storage, cloud functions, backend development, secure
     backend solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: Appwrite
-    url: /fully-managed-open-source-services/development/backend-as-a-service/appwrite
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: Appwrite
+      url: /fully-managed-open-source-services/development/backend-as-a-service/appwrite
 content:
   id: appwrite
   name: Appwrite
@@ -28,8 +30,8 @@ content:
   website: https://appwrite.io/
   iframe_website: /website/development/backend-as-a-service/appwrite
   screenshots:
-  - /images/development/backend-as-a-service/appwrite/screenshot-1.png
-  - /images/development/backend-as-a-service/appwrite/screenshot-2.png
+    - /images/development/backend-as-a-service/appwrite/screenshot-1.png
+    - /images/development/backend-as-a-service/appwrite/screenshot-2.png
 ---
 
 ## Overview

@@ -3,25 +3,27 @@ draft: false
 title: LanguageTool fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/languagetool/screenshot-1.png
-  description: LanguageTool is a multilingual writing assistant that provides grammar,
+  description:
+    LanguageTool is a multilingual writing assistant that provides grammar,
     style, and spell checking in over 20 languages, enhancing your writing with real-time
     suggestions. Available as a browser add-on and desktop integration, it ensures
     error-free writing across any platform.
-  keywords: LanguageTool, multilingual grammar checker, spell checker, style checker,
+  keywords:
+    LanguageTool, multilingual grammar checker, spell checker, style checker,
     grammar correction tool, writing assistant, writing improvement, language tool,
     real-time suggestions, punctuation checker, multilingual writing support, language
     tool add-on
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: LanguageTool
-    url: /fully-managed-open-source-services/applications/others/languagetool
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: LanguageTool
+      url: /fully-managed-open-source-services/applications/others/languagetool
 content:
   id: languagetool
   name: LanguageTool
@@ -31,8 +33,8 @@ content:
   iframe_website: /website/applications/others/languagetool
   direct_link: true
   screenshots:
-  - /images/applications/others/languagetool/screenshot-1.png
-  - /images/applications/others/languagetool/screenshot-2.png
+    - /images/applications/others/languagetool/screenshot-1.png
+    - /images/applications/others/languagetool/screenshot-2.png
 ---
 
 ## Overview

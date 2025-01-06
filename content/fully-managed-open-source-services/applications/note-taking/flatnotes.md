@@ -3,23 +3,25 @@ draft: false
 title: Flatnotes fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/flatnotes/screenshot-1.png
-  description: Flatnotes is a self-hosted, database-less markdown note-taking app
+  description:
+    Flatnotes is a self-hosted, database-less markdown note-taking app
     with advanced features such as multiple authentication options, powerful search
     functionality, and an intuitive editor.
-  keywords: Flatnotes, self-hosted note-taking, markdown notes, privacy-focused app,
+  keywords:
+    Flatnotes, self-hosted note-taking, markdown notes, privacy-focused app,
     database-less note-taking, note organization, 2FA authentication, markdown editor,
     REST API, search functionality
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Flatnotes
-    url: /fully-managed-open-source-services/applications/note-taking/flatnotes
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Flatnotes
+      url: /fully-managed-open-source-services/applications/note-taking/flatnotes
 content:
   id: flatnotes
   name: Flatnotes
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/note-taking/flatnotes
   direct_link: true
   screenshots:
-  - /images/applications/note-taking/flatnotes/screenshot-1.png
-  - /images/applications/note-taking/flatnotes/screenshot-2.png
+    - /images/applications/note-taking/flatnotes/screenshot-1.png
+    - /images/applications/note-taking/flatnotes/screenshot-2.png
 ---
 
 ## Overview

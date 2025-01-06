@@ -3,23 +3,25 @@ draft: false
 title: Baserow fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/baserow/screenshot-1.png
-  description: "Create custom online databases with ease using Baserow\u2019s intuitive\
+  description:
+    "Create custom online databases with ease using Baserow\u2019s intuitive\
     \ no-code platform. Perfect for managing projects, ideas, and business processes\
     \ without the need for technical expertise."
-  keywords: Baserow, no-code database, online database, no-code platform, database
+  keywords:
+    Baserow, no-code database, online database, no-code platform, database
     management, custom databases, project management, real-time collaboration, scalable
     software, open-source database, API-first platform, flexible software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Baserow
-    url: /fully-managed-open-source-services/development/nocode-lowcode/baserow
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Baserow
+      url: /fully-managed-open-source-services/development/nocode-lowcode/baserow
 content:
   id: baserow
   name: Baserow
@@ -28,8 +30,8 @@ content:
   website: https://baserow.io/
   iframe_website: /website/development/nocode-lowcode/baserow
   screenshots:
-  - /images/development/nocode-lowcode/baserow/screenshot-1.png
-  - /images/development/nocode-lowcode/baserow/screenshot-2.png
+    - /images/development/nocode-lowcode/baserow/screenshot-1.png
+    - /images/development/nocode-lowcode/baserow/screenshot-2.png
 ---
 
 ## Overview

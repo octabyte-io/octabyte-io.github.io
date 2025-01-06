@@ -3,23 +3,25 @@ draft: false
 title: Langflow fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/langflow/screenshot-1.jpg
-  description: Langflow is an open-source, Python-powered visual framework for creating
+  description:
+    Langflow is an open-source, Python-powered visual framework for creating
     multi-agent and RAG applications. Fully customizable and model-agnostic, it empowers
     developers to experiment with AI in new and innovative ways.
-  keywords: Langflow, multi-agent framework, RAG applications, AI development, open-source
+  keywords:
+    Langflow, multi-agent framework, RAG applications, AI development, open-source
     AI, customizable AI framework, Python-powered AI, fine-tuning, prompt variables,
     AI components, visual framework, model-agnostic, vector store
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: Langflow
-    url: /fully-managed-open-source-services/development/nocode-lowcode/langflow
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: Langflow
+      url: /fully-managed-open-source-services/development/nocode-lowcode/langflow
 content:
   id: langflow
   name: Langflow
@@ -28,8 +30,8 @@ content:
   website: https://www.langflow.org/
   iframe_website: /website/development/others/langflow
   screenshots:
-  - /images/development/others/langflow/screenshot-1.jpg
-  - /images/development/others/langflow/screenshot-2.png
+    - /images/development/others/langflow/screenshot-1.jpg
+    - /images/development/others/langflow/screenshot-2.png
 ---
 
 ## Overview

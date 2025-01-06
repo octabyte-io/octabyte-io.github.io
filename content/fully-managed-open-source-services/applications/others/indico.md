@@ -3,34 +3,37 @@ draft: false
 title: Indico fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/indico/screenshot-1.png
-  description: Indico is an open-source, feature-rich event management platform developed
+  description:
+    Indico is an open-source, feature-rich event management platform developed
     at CERN, designed to simplify the organization, archival, and collaboration of
     events of all sizes.
-  keywords: Indico, event management, open-source event system, conference management,
+  keywords:
+    Indico, event management, open-source event system, conference management,
     seminar organizer, event registration, workshop management, CERN, event collaboration,
     event archival, room booking software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Indico
-    url: /fully-managed-open-source-services/applications/others/indico
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Indico
+      url: /fully-managed-open-source-services/applications/others/indico
 content:
   id: indico
   name: Indico
-  title: 'Organize, Manage, and Collaborate with Indico: The Open-Source Event Management
-    System'
+  title:
+    "Organize, Manage, and Collaborate with Indico: The Open-Source Event Management
+    System"
   logo: /images/applications/others/indico/logo.png
   website: https://getindico.io/
   iframe_website: /website/applications/others/indico
   screenshots:
-  - /images/applications/others/indico/screenshot-1.png
-  - /images/applications/others/indico/screenshot-2.png
+    - /images/applications/others/indico/screenshot-1.png
+    - /images/applications/others/indico/screenshot-2.png
 ---
 
 ## Overview

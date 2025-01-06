@@ -3,23 +3,25 @@ draft: false
 title: OpnForm fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/opnform/screenshot-1.png
-  description: OpnForm is a fast, open-source form builder that lets you create, share,
+  description:
+    OpnForm is a fast, open-source form builder that lets you create, share,
     and analyze forms easily, with no coding required. Ideal for surveys, feedback,
     and registrations.
-  keywords: OpnForm, open-source form builder, form creation, no-code forms, survey
+  keywords:
+    OpnForm, open-source form builder, form creation, no-code forms, survey
     builder, feedback forms, create forms, embed forms, form analytics, data collection,
     form builder alternative, Typeform alternative, JotForm alternative
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: OpnForm
-    url: /fully-managed-open-source-services/development/dev-tools/opnform
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: OpnForm
+      url: /fully-managed-open-source-services/development/dev-tools/opnform
 content:
   id: opnform
   name: OpnForm
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/development/dev-tools/opnform
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/opnform/screenshot-1.png
-  - /images/development/dev-tools/opnform/screenshot-2.jpg
+    - /images/development/dev-tools/opnform/screenshot-1.png
+    - /images/development/dev-tools/opnform/screenshot-2.jpg
 ---
 
 ## Overview

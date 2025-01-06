@@ -3,23 +3,25 @@ draft: false
 title: Hydra fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/hydra/screenshot-1.webp
-  description: Hydra is a high-performance open-source data warehouse built on PostgreSQL,
+  description:
+    Hydra is a high-performance open-source data warehouse built on PostgreSQL,
     offering advanced OLAP and HTAP capabilities with seamless data integration and
     real-time insights.
-  keywords: Hydra database, open-source data warehouse, PostgreSQL, OLAP, HTAP, columnar
+  keywords:
+    Hydra database, open-source data warehouse, PostgreSQL, OLAP, HTAP, columnar
     storage, parallel query processing, vectorized execution, data silos, real-time
     analytics, modern data stack, ETL tools, Airbyte, Fivetran
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: Hydra
-    url: /fully-managed-open-source-services/databases/relational-databases/hydra
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: Hydra
+      url: /fully-managed-open-source-services/databases/relational-databases/hydra
 content:
   id: hydra
   name: Hydra
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/relational-databases/hydra
   direct_link: true
   screenshots:
-  - /images/databases/relational-databases/hydra/screenshot-1.webp
-  - /images/databases/relational-databases/hydra/screenshot-2.webp
+    - /images/databases/relational-databases/hydra/screenshot-1.webp
+    - /images/databases/relational-databases/hydra/screenshot-2.webp
 ---
 
 ## Overview

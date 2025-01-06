@@ -3,22 +3,24 @@ draft: false
 title: Docmost fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/docmost/screenshot-1.png
-  description: Create, collaborate, and share knowledge seamlessly with Docmost, the
+  description:
+    Create, collaborate, and share knowledge seamlessly with Docmost, the
     ideal open-source platform for managing wikis, knowledge bases, and documentation.
-  keywords: Docmost, open-source wiki, collaborative documentation, knowledge base,
+  keywords:
+    Docmost, open-source wiki, collaborative documentation, knowledge base,
     real-time editing, documentation software, permissions system, content collaboration,
     knowledge sharing, team collaboration.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Docmost
-    url: /fully-managed-open-source-services/applications/note-taking/docmost
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Docmost
+      url: /fully-managed-open-source-services/applications/note-taking/docmost
 content:
   id: docmost
   name: Docmost
@@ -27,8 +29,8 @@ content:
   website: https://docmost.com/
   iframe_website: /website/applications/note-taking/docmost
   screenshots:
-  - /images/applications/note-taking/docmost/screenshot-1.png
-  - /images/applications/note-taking/docmost/screenshot-2.png
+    - /images/applications/note-taking/docmost/screenshot-1.png
+    - /images/applications/note-taking/docmost/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Gerrit fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gerrit/screenshot-1.png
-  description: Gerrit is a code review and Git management tool that streamlines collaboration
+  description:
+    Gerrit is a code review and Git management tool that streamlines collaboration
     and simplifies project maintainership through a side-by-side change display, inline
     commenting, and easy Git repository management.
-  keywords: Gerrit, code review, Git management, project collaboration, Git repositories,
+  keywords:
+    Gerrit, code review, Git management, project collaboration, Git repositories,
     inline comments, open-source projects, scalable, Git-enabled SSH, plugins, extensible
     code review, software development
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gerrit
-    url: /fully-managed-open-source-services/development/dev-tools/gerrit
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gerrit
+      url: /fully-managed-open-source-services/development/dev-tools/gerrit
 content:
   id: gerrit
   name: Gerrit
@@ -28,8 +30,8 @@ content:
   website: https://www.gerritcodereview.com/
   iframe_website: /website/development/dev-tools/gerrit
   screenshots:
-  - /images/development/dev-tools/gerrit/screenshot-1.png
-  - /images/development/dev-tools/gerrit/screenshot-2.png
+    - /images/development/dev-tools/gerrit/screenshot-1.png
+    - /images/development/dev-tools/gerrit/screenshot-2.png
 ---
 
 ## Overview

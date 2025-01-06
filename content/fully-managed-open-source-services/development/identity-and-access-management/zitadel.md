@@ -3,22 +3,24 @@ draft: false
 title: Zitadel fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/zitadel/screenshot-1.png
-  description: Zitadel provides an open-source, serverless identity management platform
+  description:
+    Zitadel provides an open-source, serverless identity management platform
     that simplifies authentication setup while offering scalability and integration
     flexibility.
-  keywords: Zitadel, identity management, open-source, serverless, authentication,
+  keywords:
+    Zitadel, identity management, open-source, serverless, authentication,
     SaaS, multi-tenancy, B2B, APIs, SDKs, modern authentication
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: Zitadel
-    url: /fully-managed-open-source-services/development/identity-and-access-management/zitadel
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: Zitadel
+      url: /fully-managed-open-source-services/development/identity-and-access-management/zitadel
 content:
   id: zitadel
   name: Zitadel
@@ -27,8 +29,8 @@ content:
   website: https://zitadel.com/
   iframe_website: /website/development/identity-and-access-management/zitadel
   screenshots:
-  - /images/development/identity-and-access-management/zitadel/screenshot-1.png
-  - /images/development/identity-and-access-management/zitadel/screenshot-2.png
+    - /images/development/identity-and-access-management/zitadel/screenshot-1.png
+    - /images/development/identity-and-access-management/zitadel/screenshot-2.png
 ---
 
 ## Overview

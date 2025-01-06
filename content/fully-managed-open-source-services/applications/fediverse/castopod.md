@@ -3,23 +3,25 @@ draft: false
 title: Castopod fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/fediverse/castopod/screenshot-1.webp
-  description: Castopod is an open-source podcast hosting platform that connects your
+  description:
+    Castopod is an open-source podcast hosting platform that connects your
     podcast to the Fediverse, empowering you with direct audience interaction, promotion
     tools, and analytics, all while ensuring privacy and ease of use.
-  keywords: Castopod, open-source podcast hosting, podcast distribution, podcast analytics,
+  keywords:
+    Castopod, open-source podcast hosting, podcast distribution, podcast analytics,
     Fediverse, decentralized podcasting, podcast promotion, RSS podcast hosting, privacy-respecting
     podcasting
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Fediverse
-    url: /fully-managed-open-source-services/applications/fediverse
-  - name: Listmonk
-    url: /fully-managed-open-source-services/applications/fediverse/castopod
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Fediverse
+      url: /fully-managed-open-source-services/applications/fediverse
+    - name: Listmonk
+      url: /fully-managed-open-source-services/applications/fediverse/castopod
 content:
   id: castopod
   name: Castopod
@@ -28,8 +30,8 @@ content:
   website: https://castopod.org/
   iframe_website: /website/applications/fediverse/castopod
   screenshots:
-  - /images/applications/fediverse/castopod/screenshot-1.webp
-  - /images/applications/fediverse/castopod/screenshot-2.png
+    - /images/applications/fediverse/castopod/screenshot-1.webp
+    - /images/applications/fediverse/castopod/screenshot-2.png
 ---
 
 ## Overview

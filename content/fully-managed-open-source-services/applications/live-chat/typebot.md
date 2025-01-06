@@ -3,23 +3,25 @@ draft: false
 title: Typebot fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/typebot/screenshot-1.png
-  description: Typebot allows you to build dynamic chatbots effortlessly, with powerful
+  description:
+    Typebot allows you to build dynamic chatbots effortlessly, with powerful
     features like team collaboration, reusable sub bots, folder management, and custom
     coding. Enhance your web and mobile apps with seamless chat experiences today!
-  keywords: Typebot, chatbot builder, team collaboration, custom chatbots, web chat
+  keywords:
+    Typebot, chatbot builder, team collaboration, custom chatbots, web chat
     integration, mobile chatbots, sub-bots, folder management, JavaScript, CSS, interactive
     chat experiences, chatbot deployment, conversational flows
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Typebot
-    url: /fully-managed-open-source-services/applications/live-chat/typebot
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Typebot
+      url: /fully-managed-open-source-services/applications/live-chat/typebot
 content:
   id: typebot
   name: Typebot
@@ -28,8 +30,8 @@ content:
   website: https://www.typebot.io/
   iframe_website: /website/applications/live-chat/typebot
   screenshots:
-  - /images/applications/live-chat/typebot/screenshot-1.png
-  - /images/applications/live-chat/typebot/screenshot-2.webp
+    - /images/applications/live-chat/typebot/screenshot-1.png
+    - /images/applications/live-chat/typebot/screenshot-2.webp
 ---
 
 ## Overview

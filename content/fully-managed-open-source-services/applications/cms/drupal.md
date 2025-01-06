@@ -15,7 +15,7 @@ meta:
   breadcrumb:
     - name: Home
       url: /
-    - name: Fully managed Open-Source Services
+    - name: Software Catalog
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications

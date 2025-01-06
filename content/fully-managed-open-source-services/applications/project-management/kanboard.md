@@ -3,23 +3,25 @@ draft: false
 title: Kanboard fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/kanboard/screenshot-1.png
-  description: Kanboard is a flexible, easy-to-use project management tool that helps
+  description:
+    Kanboard is a flexible, easy-to-use project management tool that helps
     teams stay organized, prioritize tasks, and boost productivity. Manage your tasks
     with a customizable Kanban board and enjoy simple workflows.
-  keywords: Kanboard, project management, Kanban, task management, workflow, productivity,
+  keywords:
+    Kanboard, project management, Kanban, task management, workflow, productivity,
     team collaboration, project tracking, work in progress, task filters, project
     software, task board
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: Kanboard
-    url: /fully-managed-open-source-services/applications/project-management/kanboard
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Kanboard
+      url: /fully-managed-open-source-services/applications/project-management/kanboard
 content:
   id: kanboard
   name: Kanboard
@@ -28,8 +30,8 @@ content:
   website: https://kanboard.org/
   iframe_website: /website/applications/project-management/kanboard
   screenshots:
-  - /images/applications/project-management/kanboard/screenshot-1.png
-  - /images/applications/project-management/kanboard/screenshot-2.png
+    - /images/applications/project-management/kanboard/screenshot-1.png
+    - /images/applications/project-management/kanboard/screenshot-2.png
 ---
 
 ## Overview

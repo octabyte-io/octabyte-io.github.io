@@ -3,24 +3,26 @@ draft: false
 title: ClickHouseS3 fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/clickhouses3/screenshot-1.jpg
-  description: ClickHouseS3 combines the power of ClickHouse with the scalability
+  description:
+    ClickHouseS3 combines the power of ClickHouse with the scalability
     of S3 for high-performance, real-time analytics. It delivers exceptional query
     performance, seamless scalability, and enterprise-grade security for mission-critical
     data.
-  keywords: ClickHouseS3, OLAP database, real-time analytics, SQL analytics, columnar
+  keywords:
+    ClickHouseS3, OLAP database, real-time analytics, SQL analytics, columnar
     database, high-performance database, scalable database, data processing, big data,
     cloud database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: ClickHouseS3
-    url: /fully-managed-open-source-services/databases/relational-databases/clickhouses3
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: ClickHouseS3
+      url: /fully-managed-open-source-services/databases/relational-databases/clickhouses3
 content:
   id: clickhouses3
   name: ClickHouseS3
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/databases/relational-databases/clickhouses3
   direct_link: true
   screenshots:
-  - /images/databases/relational-databases/clickhouses3/screenshot-1.jpg
-  - /images/databases/relational-databases/clickhouses3/screenshot-2.jpg
+    - /images/databases/relational-databases/clickhouses3/screenshot-1.jpg
+    - /images/databases/relational-databases/clickhouses3/screenshot-2.jpg
 ---
 
 ## Overview

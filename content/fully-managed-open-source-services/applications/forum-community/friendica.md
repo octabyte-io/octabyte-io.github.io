@@ -3,23 +3,25 @@ draft: false
 title: Friendica fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/friendica/screenshot-1.png
-  description: Friendica is a decentralized social network that lets you host your
+  description:
+    Friendica is a decentralized social network that lets you host your
     own server, participate in the fediverse, and enjoy enhanced privacy and control
     over your interactions.
-  keywords: Friendica, decentralized social network, federated social media, fediverse,
+  keywords:
+    Friendica, decentralized social network, federated social media, fediverse,
     privacy, social media server, open-source social network, ActivityPub, OStatus,
     diaspora protocols, self-hosted social media
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Friendica
-    url: /fully-managed-open-source-services/applications/forum-community/friendica
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Friendica
+      url: /fully-managed-open-source-services/applications/forum-community/friendica
 content:
   id: friendica
   name: Friendica
@@ -28,8 +30,8 @@ content:
   website: https://friendi.ca/
   iframe_website: /website/applications/forum-community/friendica
   screenshots:
-  - /images/applications/forum-community/friendica/screenshot-1.png
-  - /images/applications/forum-community/friendica/screenshot-2.png
+    - /images/applications/forum-community/friendica/screenshot-1.png
+    - /images/applications/forum-community/friendica/screenshot-2.png
 ---
 
 ## Overview
@@ -44,7 +46,7 @@ Friendica is a powerful decentralized social network that allows you to host you
 
 - ### Interoperability
 
-  Friendica supports several open protocols, including ActivityPub, OStatus, and diaspora*. This allows seamless interaction with other platforms like Mastodon, Funkwhale, Pleroma, and Hubzilla. Additionally, it supports two-way communication via IMAP4rev1/ESMTP, enabling email integration.
+  Friendica supports several open protocols, including ActivityPub, OStatus, and diaspora\*. This allows seamless interaction with other platforms like Mastodon, Funkwhale, Pleroma, and Hubzilla. Additionally, it supports two-way communication via IMAP4rev1/ESMTP, enabling email integration.
 
 - ### Privacy & Group Control
 

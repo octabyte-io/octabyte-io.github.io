@@ -3,21 +3,23 @@ draft: false
 title: Mealie fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/mealie/screenshot-1.png
-  description: Mealie is a user-friendly, open-source recipe management app with meal
+  description:
+    Mealie is a user-friendly, open-source recipe management app with meal
     planning, recipe importing, and group sharing features for all your culinary needs.
-  keywords: recipe management, meal planning app, open-source recipe app, recipe organizer,
+  keywords:
+    recipe management, meal planning app, open-source recipe app, recipe organizer,
     family recipe sharing, meal planner, recipe scraper, intuitive recipe app
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Mealie
-    url: /fully-managed-open-source-services/applications/others/mealie
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Mealie
+      url: /fully-managed-open-source-services/applications/others/mealie
 content:
   id: mealie
   name: Mealie
@@ -26,8 +28,8 @@ content:
   website: https://mealie.io/
   iframe_website: /website/applications/others/mealie
   screenshots:
-  - /images/applications/others/mealie/screenshot-1.png
-  - /images/applications/others/mealie/screenshot-2.png
+    - /images/applications/others/mealie/screenshot-1.png
+    - /images/applications/others/mealie/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Papercups fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/papercups/screenshot-1.jpg
-  description: Papercups is a privacy-first, open-source customer support platform
+  description:
+    Papercups is a privacy-first, open-source customer support platform
     offering seamless integration with Slack, chat, email, and SMS. Customize your
     widget, save developers time, and enhance your support experience.
-  keywords: Papercups, open-source customer support, chat support, privacy-focused
+  keywords:
+    Papercups, open-source customer support, chat support, privacy-focused
     support, Zendesk alternative, Intercom alternative, Drift alternative, Slack integration,
     SMS support, email support, React integration, customer feedback, support widget
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Papercups
-    url: /fully-managed-open-source-services/applications/live-chat/papercups
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Papercups
+      url: /fully-managed-open-source-services/applications/live-chat/papercups
 content:
   id: papercups
   name: Papercups
@@ -28,8 +30,8 @@ content:
   website: https://papercups.io/
   iframe_website: /website/applications/live-chat/papercups
   screenshots:
-  - /images/applications/live-chat/papercups/screenshot-1.jpg
-  - /images/applications/live-chat/papercups/screenshot-2.jpg
+    - /images/applications/live-chat/papercups/screenshot-1.jpg
+    - /images/applications/live-chat/papercups/screenshot-2.jpg
 ---
 
 ## Overview

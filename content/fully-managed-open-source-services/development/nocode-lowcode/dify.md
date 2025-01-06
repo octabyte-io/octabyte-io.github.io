@@ -3,23 +3,25 @@ draft: false
 title: Dify fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/nocode-lowcode/dify/screenshot-1.webp
-  description: Dify is an open-source platform designed for LLM app development. It
+  description:
+    Dify is an open-source platform designed for LLM app development. It
     offers a range of features to streamline the development of AI-powered chatbots,
     document generation, agent creation, and more.
-  keywords: Dify, open-source LLM platform, AI app development, chatbot development,
+  keywords:
+    Dify, open-source LLM platform, AI app development, chatbot development,
     agent creation, AI assistants, document generation, RAG pipeline, model management,
     low-code AI, business AI solutions, AI integration, open-source AI tools
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: No-code / Low code
-    url: /fully-managed-open-source-services/development/nocode-lowcode
-  - name: Dify
-    url: /fully-managed-open-source-services/development/nocode-lowcode/dify
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
+    - name: Dify
+      url: /fully-managed-open-source-services/development/nocode-lowcode/dify
 content:
   id: dify
   name: Dify
@@ -28,8 +30,8 @@ content:
   website: https://dify.ai/
   iframe_website: /website/development/nocode-lowcode/dify
   screenshots:
-  - /images/development/nocode-lowcode/dify/screenshot-1.webp
-  - /images/development/nocode-lowcode/dify/screenshot-2.png
+    - /images/development/nocode-lowcode/dify/screenshot-1.webp
+    - /images/development/nocode-lowcode/dify/screenshot-2.png
 ---
 
 ## Overview

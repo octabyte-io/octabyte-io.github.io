@@ -3,34 +3,37 @@ draft: false
 title: Twenty fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/twenty/screenshot-1.webp
-  description: Twenty is an open-source CRM built by the community, offering modern
+  description:
+    Twenty is an open-source CRM built by the community, offering modern
     alternatives to Salesforce with advanced features like Kanban views, email sync,
     and customizable data models.
-  keywords: open-source CRM, alternative to Salesforce, customer relationship management,
+  keywords:
+    open-source CRM, alternative to Salesforce, customer relationship management,
     kanban views CRM, email integration CRM, customizable data model CRM, CRM for
     business, community-powered CRM
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: Twenty
-    url: /fully-managed-open-source-services/applications/crm-erp/twenty
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Twenty
+      url: /fully-managed-open-source-services/applications/crm-erp/twenty
 content:
   id: twenty
   name: Twenty
-  title: The Open-Source Salesforce Alternative for Effortless Customer Relationship
+  title:
+    The Open-Source Salesforce Alternative for Effortless Customer Relationship
     Management
   logo: /images/applications/crm-erp/twenty/logo.png
   website: https://twenty.com/
   iframe_website: /website/applications/crm-erp/twenty
   screenshots:
-  - /images/applications/crm-erp/twenty/screenshot-1.webp
-  - /images/applications/crm-erp/twenty/screenshot-2.png
+    - /images/applications/crm-erp/twenty/screenshot-1.webp
+    - /images/applications/crm-erp/twenty/screenshot-2.png
 ---
 
 ## Overview

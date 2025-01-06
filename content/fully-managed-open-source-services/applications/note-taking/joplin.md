@@ -3,23 +3,25 @@ draft: false
 title: Joplin fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/joplin/screenshot-1.png
-  description: Joplin is a free, open-source note-taking and to-do app with Markdown
+  description:
+    Joplin is a free, open-source note-taking and to-do app with Markdown
     support, multimedia capabilities, and customizable features for personal and collaborative
     use.
-  keywords: Joplin, open-source note-taking app, to-do application, Markdown notes,
+  keywords:
+    Joplin, open-source note-taking app, to-do application, Markdown notes,
     note organization, Joplin Cloud, customizable note app, web clipper, collaboration
     tools, multimedia notes
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Joplin
-    url: /fully-managed-open-source-services/applications/note-taking/joplin
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Joplin
+      url: /fully-managed-open-source-services/applications/note-taking/joplin
 content:
   id: joplin
   name: Joplin
@@ -28,8 +30,8 @@ content:
   website: https://joplinapp.org/
   iframe_website: /website/applications/note-taking/joplin
   screenshots:
-  - /images/applications/note-taking/joplin/screenshot-1.png
-  - /images/applications/note-taking/joplin/screenshot-2.png
+    - /images/applications/note-taking/joplin/screenshot-1.png
+    - /images/applications/note-taking/joplin/screenshot-2.png
 ---
 
 ## Overview

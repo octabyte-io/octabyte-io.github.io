@@ -3,23 +3,25 @@ draft: false
 title: Chatwoot fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/chatwoot/screenshot-1.jpg
-  description: Chatwoot is an open-source customer support platform that centralizes
+  description:
+    Chatwoot is an open-source customer support platform that centralizes
     communication across multiple channels, helping teams deliver fast, efficient,
     and personalized customer service.
-  keywords: Chatwoot, customer support, open-source customer service, live chat, helpdesk
+  keywords:
+    Chatwoot, customer support, open-source customer service, live chat, helpdesk
     software, multi-channel support, chatbot automation, WhatsApp support, Facebook
     integration, email support, customer experience, CRM alternative
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Chatwoot
-    url: /fully-managed-open-source-services/applications/live-chat/chatwoot
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Chatwoot
+      url: /fully-managed-open-source-services/applications/live-chat/chatwoot
 content:
   id: chatwoot
   name: Chatwoot
@@ -28,8 +30,8 @@ content:
   website: https://www.chatwoot.com/
   iframe_website: /website/applications/live-chat/chatwoot
   screenshots:
-  - /images/applications/live-chat/chatwoot/screenshot-1.jpg
-  - /images/applications/live-chat/chatwoot/screenshot-2.jpg
+    - /images/applications/live-chat/chatwoot/screenshot-1.jpg
+    - /images/applications/live-chat/chatwoot/screenshot-2.jpg
 ---
 
 ## Overview

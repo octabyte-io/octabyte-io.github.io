@@ -3,23 +3,25 @@ draft: false
 title: Typesense fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/typesense/screenshot-1.png
-  description: Typesense is a privacy-focused, open-source search engine that delivers
+  description:
+    Typesense is a privacy-focused, open-source search engine that delivers
     fast, typo-tolerant search results with an intuitive developer experience. Build
     scalable, lightning-fast search solutions effortlessly.
-  keywords: Typesense, open-source search engine, fast search engine, typo-tolerant
+  keywords:
+    Typesense, open-source search engine, fast search engine, typo-tolerant
     search, privacy-friendly search, instant search, developer-friendly search engine,
     search API, sub-50ms search, scalable search solutions
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: Typesense
-    url: /fully-managed-open-source-services/applications/search/typesense
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: Typesense
+      url: /fully-managed-open-source-services/applications/search/typesense
 content:
   id: typesense
   name: Typesense
@@ -28,8 +30,8 @@ content:
   website: https://typesense.org/
   iframe_website: /website/applications/search/typesense
   screenshots:
-  - /images/applications/search/typesense/screenshot-1.png
-  - /images/applications/search/typesense/screenshot-2.png
+    - /images/applications/search/typesense/screenshot-1.png
+    - /images/applications/search/typesense/screenshot-2.png
 ---
 
 ## Overview

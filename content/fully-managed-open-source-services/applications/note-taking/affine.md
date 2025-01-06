@@ -3,36 +3,39 @@ draft: false
 title: Affine fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/affine/screenshot-1.jpeg
-  description: Affine is a powerful, privacy-first collaborative knowledge base designed
+  description:
+    Affine is a powerful, privacy-first collaborative knowledge base designed
     for professionals. With versatile features like Markdown support, seamless transitions,
     and real-time collaboration, Affine is the perfect solution for managing your
     data securely and efficiently.
-  keywords: open-source knowledge base, collaborative workspace, privacy-first, alternative
+  keywords:
+    open-source knowledge base, collaborative workspace, privacy-first, alternative
     to Monday, alternative to Notion, alternative to Miro, data management, real-time
     collaboration, Markdown support, secure data storage
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Affine
-    url: /fully-managed-open-source-services/applications/note-taking/affine
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Affine
+      url: /fully-managed-open-source-services/applications/note-taking/affine
 content:
   id: affine
   name: Affine
-  title: The Ultimate Open-Source, Privacy-First Alternative to Monday, Notion, and
+  title:
+    The Ultimate Open-Source, Privacy-First Alternative to Monday, Notion, and
     Miro
   logo: /images/applications/note-taking/affine/logo.png
   website: https://affine.pro/
   iframe_website: /website/applications/note-taking/affine
   direct_link: true
   screenshots:
-  - /images/applications/note-taking/affine/screenshot-1.jpeg
-  - /images/applications/note-taking/affine/screenshot-2.png
+    - /images/applications/note-taking/affine/screenshot-1.jpeg
+    - /images/applications/note-taking/affine/screenshot-2.png
 ---
 
 ## Overview

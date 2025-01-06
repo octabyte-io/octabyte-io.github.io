@@ -3,23 +3,25 @@ draft: false
 title: Wikijs fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/wikijs/screenshot-1.jpg
-  description: Wiki.js is a free, open-source Node.js-based wiki engine for creating
+  description:
+    Wiki.js is a free, open-source Node.js-based wiki engine for creating
     and managing knowledge bases with ease. It offers seamless authentication options
     and integrates with cloud platforms for easy deployment.
-  keywords: Wiki.js, open-source wiki engine, Node.js wiki, knowledge base, documentation
+  keywords:
+    Wiki.js, open-source wiki engine, Node.js wiki, knowledge base, documentation
     platform, self-hosted wiki, DigitalOcean, AWS, authentication, LDAP, SAML, OAuth2,
     2FA security
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Wikijs
-    url: /fully-managed-open-source-services/applications/documentation/wikijs
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Wikijs
+      url: /fully-managed-open-source-services/applications/documentation/wikijs
 content:
   id: wikijs
   name: Wikijs
@@ -28,8 +30,8 @@ content:
   website: https://js.wiki/
   iframe_website: /website/applications/documentation/wikijs
   screenshots:
-  - /images/applications/documentation/wikijs/screenshot-1.jpg
-  - /images/applications/documentation/wikijs/screenshot-2.jpg
+    - /images/applications/documentation/wikijs/screenshot-1.jpg
+    - /images/applications/documentation/wikijs/screenshot-2.jpg
 ---
 
 ## Overview

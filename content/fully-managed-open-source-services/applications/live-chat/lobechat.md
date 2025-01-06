@@ -3,25 +3,27 @@ draft: false
 title: LobeChat fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/lobechat/screenshot-1.webp
-  description: LobeChat is an open-source, high-performance chatbot framework that
+  description:
+    LobeChat is an open-source, high-performance chatbot framework that
     supports multimodal interactions, including text-to-speech, visual recognition,
     and text-to-image generation, offering easy deployment of private ChatGPT and
     LLM applications.
-  keywords: open-source chatbot, chatbot framework, high-performance chatbot, ChatGPT,
+  keywords:
+    open-source chatbot, chatbot framework, high-performance chatbot, ChatGPT,
     visual recognition, multimodal AI, text-to-speech, speech-to-text, text-to-image,
     AI assistant, LobeChat, private chatbot deployment, GPT-4-vision, AI plugins,
     conversational AI, open-source LLM
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: LobeChat
-    url: /fully-managed-open-source-services/applications/live-chat/lobechat
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: LobeChat
+      url: /fully-managed-open-source-services/applications/live-chat/lobechat
 content:
   id: lobechat
   name: LobeChat
@@ -31,8 +33,8 @@ content:
   iframe_website: /website/applications/live-chat/lobechat
   direct_link: true
   screenshots:
-  - /images/applications/live-chat/lobechat/screenshot-1.webp
-  - /images/applications/live-chat/lobechat/screenshot-2.png
+    - /images/applications/live-chat/lobechat/screenshot-1.webp
+    - /images/applications/live-chat/lobechat/screenshot-2.png
 ---
 
 ## Overview

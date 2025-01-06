@@ -3,23 +3,25 @@ draft: false
 title: DocuSeal fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/docuseal/screenshot-1.jpg
-  description: DocuSeal is an open-source tool designed to simplify document filling
+  description:
+    DocuSeal is an open-source tool designed to simplify document filling
     and signing. Easily create custom PDF forms, collect signatures, and automate
     email notifications.
-  keywords: DocuSeal, open source document signing, PDF form creator, digital signature
+  keywords:
+    DocuSeal, open source document signing, PDF form creator, digital signature
     tool, fillable PDF, document management, automated email notifications, sign documents
     online, form builder, document collaboration
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: DocuSeal
-    url: /fully-managed-open-source-services/applications/documentation/docuseal
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: DocuSeal
+      url: /fully-managed-open-source-services/applications/documentation/docuseal
 content:
   id: docuseal
   name: DocuSeal
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/documentation/docuseal
   direct_link: true
   screenshots:
-  - /images/applications/documentation/docuseal/screenshot-1.jpg
-  - /images/applications/documentation/docuseal/screenshot-2.jpg
+    - /images/applications/documentation/docuseal/screenshot-1.jpg
+    - /images/applications/documentation/docuseal/screenshot-2.jpg
 ---
 
 ## Overview

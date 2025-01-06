@@ -3,33 +3,35 @@ draft: false
 title: Huly fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/huly/screenshot-1.webp
-  description: Huly is an all-in-one project management platform that combines tools
+  description:
+    Huly is an all-in-one project management platform that combines tools
     for task management, communication, and team collaboration. Simplify workflows
     and boost productivity with Huly.
-  keywords: Huly, project management platform, CRM system, task management, communication
+  keywords:
+    Huly, project management platform, CRM system, task management, communication
     hub, team collaboration, HRM, ATS, agile project management, business applications,
     productivity tools, Slack alternative, Jira alternative
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Huly
-    url: /fully-managed-open-source-services/applications/note-taking/huly
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Huly
+      url: /fully-managed-open-source-services/applications/note-taking/huly
 content:
   id: huly
   name: Huly
-  title: 'Streamline Your Workflow with Huly: The All-in-One Project Management Platform'
+  title: "Streamline Your Workflow with Huly: The All-in-One Project Management Platform"
   logo: /images/applications/note-taking/huly/logo.png
   website: https://huly.io/
   iframe_website: /website/applications/note-taking/huly
   screenshots:
-  - /images/applications/note-taking/huly/screenshot-1.webp
-  - /images/applications/note-taking/huly/screenshot-2.webp
+    - /images/applications/note-taking/huly/screenshot-1.webp
+    - /images/applications/note-taking/huly/screenshot-2.webp
 ---
 
 ## Overview

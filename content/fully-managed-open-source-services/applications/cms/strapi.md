@@ -3,22 +3,24 @@ draft: false
 title: Strapi fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/cms/strapi/screenshot-1.jpg
-  description: Strapi is a fully customizable, developer-first headless CMS built
+  description:
+    Strapi is a fully customizable, developer-first headless CMS built
     with JavaScript, enabling efficient content management and seamless integrations.
-  keywords: Strapi CMS, open-source CMS, headless CMS, developer-first CMS, customizable
+  keywords:
+    Strapi CMS, open-source CMS, headless CMS, developer-first CMS, customizable
     CMS, content management, content modeling, JavaScript CMS, Strapi features, dynamic
     zones, content components, reusable content, SEO-friendly CMS, flexible CMS
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CMS
-    url: /fully-managed-open-source-services/applications/cms
-  - name: Strapi
-    url: /fully-managed-open-source-services/applications/cms/strapi
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CMS
+      url: /fully-managed-open-source-services/applications/cms
+    - name: Strapi
+      url: /fully-managed-open-source-services/applications/cms/strapi
 content:
   id: strapi
   name: Strapi
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/applications/cms/strapi
   direct_link: true
   screenshots:
-  - /images/applications/cms/strapi/screenshot-1.jpg
-  - /images/applications/cms/strapi/screenshot-2.jpg
+    - /images/applications/cms/strapi/screenshot-1.jpg
+    - /images/applications/cms/strapi/screenshot-2.jpg
 ---
 
 ## Overview

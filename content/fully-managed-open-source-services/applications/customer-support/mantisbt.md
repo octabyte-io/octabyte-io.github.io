@@ -3,24 +3,26 @@ draft: false
 title: MantisBT fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/mantisbt/screenshot-1.png
-  description: MantisBT is a flexible open-source issue tracker that simplifies project
+  description:
+    MantisBT is a flexible open-source issue tracker that simplifies project
     management, enhances team collaboration, and provides robust tracking and reporting
     features.
-  keywords: MantisBT, open-source issue tracker, project management tool, issue tracking
+  keywords:
+    MantisBT, open-source issue tracker, project management tool, issue tracking
     software, task management, team collaboration, customizable workflows, project
     communication, access control, email notifications, issue resolution, agile project
     management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: MantisBT
-    url: /fully-managed-open-source-services/applications/customer-support/mantisbt
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: MantisBT
+      url: /fully-managed-open-source-services/applications/customer-support/mantisbt
 content:
   id: mantisbt
   name: MantisBT
@@ -29,8 +31,8 @@ content:
   website: https://www.mantisbt.org/
   iframe_website: /website/applications/customer-support/mantisbt
   screenshots:
-  - /images/applications/customer-support/mantisbt/screenshot-1.png
-  - /images/applications/customer-support/mantisbt/screenshot-2.png
+    - /images/applications/customer-support/mantisbt/screenshot-1.png
+    - /images/applications/customer-support/mantisbt/screenshot-2.png
 ---
 
 ## Overview

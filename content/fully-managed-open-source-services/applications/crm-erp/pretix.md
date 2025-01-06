@@ -3,37 +3,40 @@ draft: false
 title: Pretix fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/pretix/screenshot-1.png
-  description: Pretix is a powerful and customizable ticket shop application designed
+  description:
+    Pretix is a powerful and customizable ticket shop application designed
     for conferences, festivals, concerts, tech events, and more. With advanced features
     like automated waiting lists, marketing tools, and integrated payment options,
     Pretix offers a seamless experience for both organizers and attendees.
-  keywords: Pretix, ticket shop application, event ticketing, conference ticketing,
+  keywords:
+    Pretix, ticket shop application, event ticketing, conference ticketing,
     festival ticketing, concert ticketing, tech event tickets, ticket sales, event
     management, payment integration, ticket marketing, Stripe integration, PayPal
     integration, event reports, customer accounts, automated waiting list, customizable
     ticketing solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: Pretix
-    url: /fully-managed-open-source-services/applications/crm-erp/pretix
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Pretix
+      url: /fully-managed-open-source-services/applications/crm-erp/pretix
 content:
   id: pretix
   name: Pretix
-  title: The Ultimate Ticket Shop Application for Events, Conferences, Festivals,
+  title:
+    The Ultimate Ticket Shop Application for Events, Conferences, Festivals,
     and More
   logo: /images/applications/crm-erp/pretix/logo.png
   website: https://pretix.eu/about/en/
   iframe_website: /website/applications/crm-erp/pretix
   screenshots:
-  - /images/applications/crm-erp/pretix/screenshot-1.png
-  - /images/applications/crm-erp/pretix/screenshot-2.png
+    - /images/applications/crm-erp/pretix/screenshot-1.png
+    - /images/applications/crm-erp/pretix/screenshot-2.png
 ---
 
 ## Overview

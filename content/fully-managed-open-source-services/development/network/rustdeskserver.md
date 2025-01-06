@@ -3,23 +3,25 @@ draft: false
 title: RustdeskServer fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/rustdeskserver/screenshot-1.png
-  description: RustdeskServer is an open-source, secure remote desktop software, providing
+  description:
+    RustdeskServer is an open-source, secure remote desktop software, providing
     full control of your data with no configuration required. A simple, fast, and
     privacy-focused alternative to TeamViewer.
-  keywords: RustdeskServer, remote desktop, open-source remote access, TeamViewer
+  keywords:
+    RustdeskServer, remote desktop, open-source remote access, TeamViewer
     alternative, secure remote desktop, self-hosted solution, end-to-end encryption,
     privacy-focused software, cross-platform remote desktop, remote desktop access.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: RustdeskServer
-    url: /fully-managed-open-source-services/development/network/rustdeskserver
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: RustdeskServer
+      url: /fully-managed-open-source-services/development/network/rustdeskserver
 content:
   id: rustdeskserver
   name: RustdeskServer
@@ -28,8 +30,8 @@ content:
   website: https://rustdesk.com/
   iframe_website: /website/development/network/rustdeskserver
   screenshots:
-  - /images/development/network/rustdeskserver/screenshot-1.png
-  - /images/development/network/rustdeskserver/screenshot-2.png
+    - /images/development/network/rustdeskserver/screenshot-1.png
+    - /images/development/network/rustdeskserver/screenshot-2.png
 ---
 
 ## Overview

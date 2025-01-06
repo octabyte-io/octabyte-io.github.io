@@ -3,23 +3,25 @@ draft: false
 title: Taiga fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/project-management/taiga/screenshot-1.jpg
-  description: Taiga is a powerful, intuitive project management tool designed for
+  description:
+    Taiga is a powerful, intuitive project management tool designed for
     multi-functional agile teams. Organize, collaborate, and deliver with ease, no
     complex setup required.
-  keywords: Taiga, project management, agile teams, team collaboration, project tracker,
+  keywords:
+    Taiga, project management, agile teams, team collaboration, project tracker,
     task management, sprint management, agile tool, productivity tool, project management
     software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Project management
-    url: /fully-managed-open-source-services/applications/project-management
-  - name: Taiga
-    url: /fully-managed-open-source-services/applications/project-management/taiga
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
+    - name: Taiga
+      url: /fully-managed-open-source-services/applications/project-management/taiga
 content:
   id: taiga
   name: Taiga
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/project-management/taiga
   direct_link: true
   screenshots:
-  - /images/applications/project-management/taiga/screenshot-1.jpg
-  - /images/applications/project-management/taiga/screenshot-2.jpeg
+    - /images/applications/project-management/taiga/screenshot-1.jpg
+    - /images/applications/project-management/taiga/screenshot-2.jpeg
 ---
 
 ## Overview

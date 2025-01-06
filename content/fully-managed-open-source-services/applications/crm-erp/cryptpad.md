@@ -3,22 +3,24 @@ draft: false
 title: CryptPad fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/cryptpad/screenshot-1.jpg
-  description: CryptPad is an encrypted, open-source collaboration suite offering
+  description:
+    CryptPad is an encrypted, open-source collaboration suite offering
     real-time document editing, organizational tools, and unmatched privacy.
-  keywords: CryptPad, secure collaboration, encrypted documents, real-time editing,
+  keywords:
+    CryptPad, secure collaboration, encrypted documents, real-time editing,
     open-source productivity, private collaboration, CryptDrive, privacy-first tools,
     team collaboration software, encrypted office suite
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: CryptPad
-    url: /fully-managed-open-source-services/applications/crm-erp/cryptpad
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: CryptPad
+      url: /fully-managed-open-source-services/applications/crm-erp/cryptpad
 content:
   id: cryptpad
   name: CryptPad
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/applications/crm-erp/cryptpad
   direct_link: true
   screenshots:
-  - /images/applications/crm-erp/cryptpad/screenshot-1.jpg
-  - /images/applications/crm-erp/cryptpad/screenshot-2.jpg
+    - /images/applications/crm-erp/cryptpad/screenshot-1.jpg
+    - /images/applications/crm-erp/cryptpad/screenshot-2.jpg
 ---
 
 ## Overview

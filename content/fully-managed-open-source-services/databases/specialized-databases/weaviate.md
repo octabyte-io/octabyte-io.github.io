@@ -3,23 +3,25 @@ draft: false
 title: Weaviate fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/weaviate/screenshot-1.png
-  description: Weaviate is an open-source vector database that enables fast, scalable
+  description:
+    Weaviate is an open-source vector database that enables fast, scalable
     storage for machine learning models and data objects. It supports vector searches,
     recommendations, summarization, and more.
-  keywords: Weaviate database, open-source vector database, machine learning database,
+  keywords:
+    Weaviate database, open-source vector database, machine learning database,
     vector search, scalable database, neural search, data storage, ML model embeddings,
     recommendation systems, summarization
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: Weaviate
-    url: /fully-managed-open-source-services/databases/specialized-databases/weaviate
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: Weaviate
+      url: /fully-managed-open-source-services/databases/specialized-databases/weaviate
 content:
   id: weaviate
   name: Weaviate
@@ -28,8 +30,8 @@ content:
   website: https://weaviate.io/
   iframe_website: /website/databases/specialized-databases/weaviate
   screenshots:
-  - /images/databases/specialized-databases/weaviate/screenshot-1.png
-  - /images/databases/specialized-databases/weaviate/screenshot-2.png
+    - /images/databases/specialized-databases/weaviate/screenshot-1.png
+    - /images/databases/specialized-databases/weaviate/screenshot-2.png
 ---
 
 ## Overview

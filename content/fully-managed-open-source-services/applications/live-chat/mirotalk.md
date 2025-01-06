@@ -3,24 +3,26 @@ draft: false
 title: MiroTalk fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/mirotalk/screenshot-1.png
-  description: MiroTalk is a secure, high-quality WebRTC-based video conferencing
+  description:
+    MiroTalk is a secure, high-quality WebRTC-based video conferencing
     solution offering 4K video, real-time collaboration, and end-to-end encryption,
     ensuring privacy and seamless communication across all platforms.
-  keywords: MiroTalk, WebRTC video conferencing, secure video calls, 4K video conferencing,
+  keywords:
+    MiroTalk, WebRTC video conferencing, secure video calls, 4K video conferencing,
     real-time collaboration, P2P video conferencing, screen sharing, interactive whiteboard,
     meeting recording, file sharing, end-to-end encryption, online meetings, video
     chat
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: MiroTalk
-    url: /fully-managed-open-source-services/applications/live-chat/mirotalk
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: MiroTalk
+      url: /fully-managed-open-source-services/applications/live-chat/mirotalk
 content:
   id: mirotalk
   name: MiroTalk
@@ -29,8 +31,8 @@ content:
   website: https://p2p.mirotalk.com/
   iframe_website: /website/applications/live-chat/mirotalk
   screenshots:
-  - /images/applications/live-chat/mirotalk/screenshot-1.png
-  - /images/applications/live-chat/mirotalk/screenshot-2.png
+    - /images/applications/live-chat/mirotalk/screenshot-1.png
+    - /images/applications/live-chat/mirotalk/screenshot-2.png
 ---
 
 ## Overview

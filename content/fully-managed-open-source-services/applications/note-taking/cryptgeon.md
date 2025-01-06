@@ -3,33 +3,36 @@ draft: false
 title: Cryptgeon fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/cryptgeon/screenshot-1.png
-  description: Cryptgeon is a secure, open-source note and file-sharing service built
+  description:
+    Cryptgeon is a secure, open-source note and file-sharing service built
     with Rust and Svelte, offering client-side encryption for ultimate privacy.
-  keywords: Cryptgeon, secure file sharing, secure note sharing, open-source file
+  keywords:
+    Cryptgeon, secure file sharing, secure note sharing, open-source file
     sharing, client-side encryption, PrivNote alternative, secure text sharing, encrypted
     file sharing, Rust, Svelte
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Cryptgeon
-    url: /fully-managed-open-source-services/applications/note-taking/cryptgeon
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Cryptgeon
+      url: /fully-managed-open-source-services/applications/note-taking/cryptgeon
 content:
   id: cryptgeon
   name: Cryptgeon
-  title: Secure File and Note Sharing with Cryptgeon - Open-Source, Client-Side Encrypted
+  title:
+    Secure File and Note Sharing with Cryptgeon - Open-Source, Client-Side Encrypted
     Service
   logo: /images/applications/note-taking/cryptgeon/logo.png
   website: https://cryptgeon.org/
   iframe_website: /website/applications/note-taking/cryptgeon
   screenshots:
-  - /images/applications/note-taking/cryptgeon/screenshot-1.png
-  - /images/applications/note-taking/cryptgeon/screenshot-2.png
+    - /images/applications/note-taking/cryptgeon/screenshot-1.png
+    - /images/applications/note-taking/cryptgeon/screenshot-2.png
 ---
 
 ## Overview

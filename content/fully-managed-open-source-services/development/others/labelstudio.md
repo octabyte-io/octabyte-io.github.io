@@ -3,23 +3,25 @@ draft: false
 title: LabelStudio fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/labelstudio/screenshot-1.png
-  description: Label Studio is a flexible data labeling tool for machine learning,
+  description:
+    Label Studio is a flexible data labeling tool for machine learning,
     supporting multiple data types and providing features like ML-assisted labeling,
     project management, and seamless integration with your ML pipeline.
-  keywords: Label Studio, data labeling, annotation tool, machine learning data preparation,
+  keywords:
+    Label Studio, data labeling, annotation tool, machine learning data preparation,
     AI model validation, LLMs, multi-type data labeling, ML-assisted labeling, Python
     SDK, data manager, annotation automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: LabelStudio
-    url: /fully-managed-open-source-services/development/nocode-lowcode/labelstudio
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: LabelStudio
+      url: /fully-managed-open-source-services/development/nocode-lowcode/labelstudio
 content:
   id: labelstudio
   name: LabelStudio
@@ -28,8 +30,8 @@ content:
   website: https://labelstud.io/
   iframe_website: /website/development/others/labelstudio
   screenshots:
-  - /images/development/others/labelstudio/screenshot-1.png
-  - /images/development/others/labelstudio/screenshot-2.png
+    - /images/development/others/labelstudio/screenshot-1.png
+    - /images/development/others/labelstudio/screenshot-2.png
 ---
 
 ## Overview

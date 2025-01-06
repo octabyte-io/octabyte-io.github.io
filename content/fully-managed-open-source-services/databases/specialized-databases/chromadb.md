@@ -3,24 +3,26 @@ draft: false
 title: Chromadb fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/chromadb/screenshot-1.png
-  description: Chroma is an open-source AI database that provides vector search, full-text
+  description:
+    Chroma is an open-source AI database that provides vector search, full-text
     search, document storage, metadata filtering, and multi-modal retrieval all in
     one place. It's designed for developers and data scientists looking for powerful,
     scalable, and easy-to-integrate solutions.
-  keywords: Chromadb, open-source database, AI database, vector search, full-text
+  keywords:
+    Chromadb, open-source database, AI database, vector search, full-text
     search, document storage, metadata filtering, multi-modal retrieval, embedding
     models, AI applications, retrieval system
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: Chromadb
-    url: /fully-managed-open-source-services/databases/specialized-databases/chromadb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: Chromadb
+      url: /fully-managed-open-source-services/databases/specialized-databases/chromadb
 content:
   id: chromadb
   name: Chromadb
@@ -29,8 +31,8 @@ content:
   website: www.trychroma.com/
   iframe_website: /website/databases/specialized-databases/chromadb
   screenshots:
-  - /images/databases/specialized-databases/chromadb/screenshot-1.png
-  - /images/databases/specialized-databases/chromadb/screenshot-2.png
+    - /images/databases/specialized-databases/chromadb/screenshot-1.png
+    - /images/databases/specialized-databases/chromadb/screenshot-2.png
 ---
 
 ## Overview

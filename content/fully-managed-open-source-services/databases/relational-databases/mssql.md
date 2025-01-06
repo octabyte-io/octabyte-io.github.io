@@ -3,22 +3,24 @@ draft: false
 title: MSSQL fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/relational-databases/mssql/screenshot-1.jpg
-  description: "Effortlessly deploy and manage MSSQL databases with OctaByte.io\u2019\
+  description:
+    "Effortlessly deploy and manage MSSQL databases with OctaByte.io\u2019\
     s fully managed hosting, offering high availability, built-in analytics, and robust\
     \ security."
-  keywords: MSSQL hosting, MSSQL database management, managed SQL Server, MSSQL on
+  keywords:
+    MSSQL hosting, MSSQL database management, managed SQL Server, MSSQL on
     Linux, SQL Server 2019, MSSQL cloud hosting, secure database hosting
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Relational Databases
-    url: /fully-managed-open-source-services/databases/relational-databases
-  - name: MSSQL
-    url: /fully-managed-open-source-services/databases/relational-databases/mssql
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Relational Databases
+      url: /fully-managed-open-source-services/databases/relational-databases
+    - name: MSSQL
+      url: /fully-managed-open-source-services/databases/relational-databases/mssql
 content:
   id: mssql
   name: MSSQL
@@ -27,8 +29,8 @@ content:
   website: https://www.microsoft.com/en-us/sql-server/sql-server-2019
   iframe_website: /website/databases/relational-databases/mssql
   screenshots:
-  - /images/databases/relational-databases/mssql/screenshot-1.jpg
-  - /images/databases/relational-databases/mssql/screenshot-2.png
+    - /images/databases/relational-databases/mssql/screenshot-1.jpg
+    - /images/databases/relational-databases/mssql/screenshot-2.png
 ---
 
 ## Overview

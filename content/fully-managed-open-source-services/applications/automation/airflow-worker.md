@@ -3,24 +3,26 @@ draft: false
 title: Airflow-worker fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/automation/airflow-worker/screenshot-1.jpg
-  description: Airflow Worker is a powerful and flexible instance for Apache Airflow,
+  description:
+    Airflow Worker is a powerful and flexible instance for Apache Airflow,
     enabling efficient task execution and seamless integration with Airflow's master
     instance. Leverage Python-driven workflows with a modern UI, robust integrations,
     and intuitive scheduling features.
-  keywords: Apache Airflow, Airflow Worker, workflow automation, task execution, Python
+  keywords:
+    Apache Airflow, Airflow Worker, workflow automation, task execution, Python
     workflows, Airflow UI, cloud integrations, AWS, Google Cloud, Azure, data pipeline,
     workflow scheduling, machine learning workflows, infrastructure management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: Airflow-worker
-    url: /fully-managed-open-source-services/applications/automation/airflow-worker
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: Airflow-worker
+      url: /fully-managed-open-source-services/applications/automation/airflow-worker
 content:
   id: airflow-worker
   name: Airflow-worker
@@ -29,8 +31,8 @@ content:
   website: https://airflow.apache.org/
   iframe_website: /website/applications/automation/airflow-worker
   screenshots:
-  - /images/applications/automation/airflow-worker/screenshot-1.jpg
-  - /images/applications/automation/airflow-worker/screenshot-2.png
+    - /images/applications/automation/airflow-worker/screenshot-1.jpg
+    - /images/applications/automation/airflow-worker/screenshot-2.png
 ---
 
 ## Overview

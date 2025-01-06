@@ -3,23 +3,25 @@ draft: false
 title: Matomo fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/matomo/screenshot-1.jpg
-  description: Matomo is a self-hosted, open-source web analytics platform that offers
+  description:
+    Matomo is a self-hosted, open-source web analytics platform that offers
     100% accurate data, unlimited tracking, and privacy compliance, allowing businesses
     to make informed decisions without compromising on security.
-  keywords: Matomo, open-source web analytics, self-hosted analytics, accurate data
+  keywords:
+    Matomo, open-source web analytics, self-hosted analytics, accurate data
     tracking, website analytics, privacy-compliant tracking, no data sampling, real-time
     analytics, PHP MySQL software, data privacy laws, unlimited website tracking
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Matomo
-    url: /fully-managed-open-source-services/applications/analytics/matomo
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Matomo
+      url: /fully-managed-open-source-services/applications/analytics/matomo
 content:
   id: matomo
   name: Matomo
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/analytics/matomo
   direct_link: true
   screenshots:
-  - /images/applications/analytics/matomo/screenshot-1.jpg
-  - /images/applications/analytics/matomo/screenshot-2.jpg
+    - /images/applications/analytics/matomo/screenshot-1.jpg
+    - /images/applications/analytics/matomo/screenshot-2.jpg
 ---
 
 ## Overview

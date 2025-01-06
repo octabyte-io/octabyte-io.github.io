@@ -3,23 +3,25 @@ draft: false
 title: ChiefOnboarding fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/chiefonboarding/screenshot-1.png
-  description: "ChiefOnboarding streamlines the onboarding process for IT, HR, managers,\
+  description:
+    "ChiefOnboarding streamlines the onboarding process for IT, HR, managers,\
     \ and new hires, ensuring a seamless and structured experience tailored to your\
     \ team\u2019s needs."
-  keywords: employee onboarding software, onboarding process, remote team onboarding,
+  keywords:
+    employee onboarding software, onboarding process, remote team onboarding,
     structured onboarding, onboarding platform, HR automation, preboarding tools,
     Slack integration onboarding, custom onboarding solutions, ChiefOnboarding features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: ChiefOnboarding
-    url: /fully-managed-open-source-services/applications/crm-erp/chiefonboarding
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: ChiefOnboarding
+      url: /fully-managed-open-source-services/applications/crm-erp/chiefonboarding
 content:
   id: chiefonboarding
   name: ChiefOnboarding
@@ -28,8 +30,8 @@ content:
   website: https://chiefonboarding.com/
   iframe_website: /website/applications/crm-erp/chiefonboarding
   screenshots:
-  - /images/applications/crm-erp/chiefonboarding/screenshot-1.png
-  - /images/applications/crm-erp/chiefonboarding/screenshot-2.png
+    - /images/applications/crm-erp/chiefonboarding/screenshot-1.png
+    - /images/applications/crm-erp/chiefonboarding/screenshot-2.png
 ---
 
 ## Overview

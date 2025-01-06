@@ -3,23 +3,25 @@ draft: false
 title: ScyllaDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/nosql/scylladb/screenshot-1.jpg
-  description: ScyllaDB is a high-performance NoSQL database that offers low-latency,
+  description:
+    ScyllaDB is a high-performance NoSQL database that offers low-latency,
     high-throughput, and scalable solutions for real-time big data applications, while
     minimizing DevOps overhead.
-  keywords: ScyllaDB, NoSQL database, real-time big data, high throughput, low latency,
+  keywords:
+    ScyllaDB, NoSQL database, real-time big data, high throughput, low latency,
     scalable database, big data solutions, database performance, multi-core server
     database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: NoSQL
-    url: /fully-managed-open-source-services/databases/nosql
-  - name: ScyllaDB
-    url: /fully-managed-open-source-services/databases/nosql/scylladb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: NoSQL
+      url: /fully-managed-open-source-services/databases/nosql
+    - name: ScyllaDB
+      url: /fully-managed-open-source-services/databases/nosql/scylladb
 content:
   id: scylladb
   name: ScyllaDB
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/databases/nosql/scylladb
   direct_link: true
   screenshots:
-  - /images/databases/nosql/scylladb/screenshot-1.jpg
-  - /images/databases/nosql/scylladb/screenshot-2.jpg
+    - /images/databases/nosql/scylladb/screenshot-1.jpg
+    - /images/databases/nosql/scylladb/screenshot-2.jpg
 ---
 
 ## Overview

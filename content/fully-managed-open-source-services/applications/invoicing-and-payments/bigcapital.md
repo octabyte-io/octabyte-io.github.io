@@ -3,23 +3,25 @@ draft: false
 title: Bigcapital fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/invoicing-and-payments/bigcapital/screenshot-1.png
-  description: Bigcapital is open-source online accounting software for automating
+  description:
+    Bigcapital is open-source online accounting software for automating
     financial processes with invoicing, expense tracking, inventory, and real-time
     reporting.
-  keywords: Bigcapital, open-source accounting software, online accounting, QuickBooks
+  keywords:
+    Bigcapital, open-source accounting software, online accounting, QuickBooks
     alternative, Xero alternative, financial reporting, invoicing software, expense
     tracking, inventory management, business accounting software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Invoicing and payments
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments
-  - name: Bigcapital
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments/bigcapital
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
+    - name: Bigcapital
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/bigcapital
 content:
   id: bigcapital
   name: Bigcapital
@@ -28,8 +30,8 @@ content:
   website: https://bigcapital.ly/
   iframe_website: /website/applications/invoicing-and-payments/bigcapital
   screenshots:
-  - /images/applications/invoicing-and-payments/bigcapital/screenshot-1.png
-  - /images/applications/invoicing-and-payments/bigcapital/screenshot-2.png
+    - /images/applications/invoicing-and-payments/bigcapital/screenshot-1.png
+    - /images/applications/invoicing-and-payments/bigcapital/screenshot-2.png
 ---
 
 ## Overview

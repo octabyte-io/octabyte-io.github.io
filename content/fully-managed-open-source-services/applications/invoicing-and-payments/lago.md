@@ -3,35 +3,38 @@ draft: false
 title: Lago fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/invoicing-and-payments/lago/screenshot-1.jpg
-  description: "Lago is an open-source, modular billing solution that provides flexible\
+  description:
+    "Lago is an open-source, modular billing solution that provides flexible\
     \ usage metering, automated invoicing, and advanced billing features to scale\
     \ your business. It\u2019s the perfect alternative to Stripe Billing and Chargebee."
-  keywords: Lago, open-source billing, usage-based billing, modular billing architecture,
+  keywords:
+    Lago, open-source billing, usage-based billing, modular billing architecture,
     Stripe alternative, Chargebee alternative, invoicing, pricing model, SaaS billing,
     coupons, add-ons, event-based billing, metered billing
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Invoicing and payments
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments
-  - name: Lago
-    url: /fully-managed-open-source-services/applications/invoicing-and-payments/lago
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
+    - name: Lago
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/lago
 content:
   id: lago
   name: Lago
-  title: The Open-Source Alternative to Stripe Billing and Chargebee for Usage-Based
+  title:
+    The Open-Source Alternative to Stripe Billing and Chargebee for Usage-Based
     Billing
   logo: /images/applications/invoicing-and-payments/lago/logo.png
   website: https://www.getlago.com/
   iframe_website: /website/applications/invoicing-and-payments/lago
   direct_link: true
   screenshots:
-  - /images/applications/invoicing-and-payments/lago/screenshot-1.jpg
-  - /images/applications/invoicing-and-payments/lago/screenshot-2.png
+    - /images/applications/invoicing-and-payments/lago/screenshot-1.jpg
+    - /images/applications/invoicing-and-payments/lago/screenshot-2.png
 ---
 
 ## Overview

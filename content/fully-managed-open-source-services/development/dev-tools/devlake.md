@@ -3,23 +3,25 @@ draft: false
 title: DevLake fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/devlake/screenshot-1.png
-  description: Apache DevLake unifies data from DevOps tools, offering actionable
+  description:
+    Apache DevLake unifies data from DevOps tools, offering actionable
     insights through prebuilt dashboards for improved engineering practices and developer
     experiences.
-  keywords: DevLake, Apache DevLake, DevOps data platform, engineering excellence,
+  keywords:
+    DevLake, Apache DevLake, DevOps data platform, engineering excellence,
     SDLC metrics, DORA metrics, scrum retros, open-source DevOps, development analytics,
     data-driven engineering
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: DevLake
-    url: /fully-managed-open-source-services/development/dev-tools/devlake
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: DevLake
+      url: /fully-managed-open-source-services/development/dev-tools/devlake
 content:
   id: devlake
   name: DevLake
@@ -28,8 +30,8 @@ content:
   website: https://devlake.apache.org/
   iframe_website: /website/development/dev-tools/devlake
   screenshots:
-  - /images/development/dev-tools/devlake/screenshot-1.png
-  - /images/development/dev-tools/devlake/screenshot-2.png
+    - /images/development/dev-tools/devlake/screenshot-1.png
+    - /images/development/dev-tools/devlake/screenshot-2.png
 ---
 
 ## Overview

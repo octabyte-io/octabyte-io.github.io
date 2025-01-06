@@ -3,23 +3,25 @@ draft: false
 title: SerpBear fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/search/serpbear/screenshot-1.png
-  description: Track your website's keyword positions on Google with SerpBear, an
+  description:
+    Track your website's keyword positions on Google with SerpBear, an
     open-source search engine position tracking app. Get notifications, Google Search
     Console integration, and more.
-  keywords: SerpBear, SEO tool, keyword position tracking, Google keyword ranking,
+  keywords:
+    SerpBear, SEO tool, keyword position tracking, Google keyword ranking,
     open-source SEO, search engine tracking, Google Search Console, keyword tracking
     app, mobile SEO tool, email notification, SERP tracking API
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Search
-    url: /fully-managed-open-source-services/applications/search
-  - name: SerpBear
-    url: /fully-managed-open-source-services/applications/search/serpbear
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
+    - name: SerpBear
+      url: /fully-managed-open-source-services/applications/search/serpbear
 content:
   id: serpbear
   name: SerpBear
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/search/serpbear
   direct_link: true
   screenshots:
-  - /images/applications/search/serpbear/screenshot-1.png
-  - /images/applications/search/serpbear/screenshot-2.png
+    - /images/applications/search/serpbear/screenshot-1.png
+    - /images/applications/search/serpbear/screenshot-2.png
 ---
 
 ## Overview

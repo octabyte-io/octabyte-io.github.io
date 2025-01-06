@@ -3,22 +3,24 @@ draft: false
 title: Imagor fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-ops/imagor/screenshot-1.jpg
-  description: Imagor is a high-performance image processing solution written in Go,
+  description:
+    Imagor is a high-performance image processing solution written in Go,
     offering optimized support for web applications, containerization, and scalable
     image transformations.
-  keywords: Imagor, image processing, Go, high-performance, web image processing,
+  keywords:
+    Imagor, image processing, Go, high-performance, web image processing,
     Thumbor, Docker, image transformation, image loader, concurrent requests
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: devOps
-    url: /fully-managed-open-source-services/development/dev-ops
-  - name: Imagor
-    url: /fully-managed-open-source-services/development/dev-ops/imagor
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: devOps
+      url: /fully-managed-open-source-services/development/dev-ops
+    - name: Imagor
+      url: /fully-managed-open-source-services/development/dev-ops/imagor
 content:
   id: imagor
   name: Imagor
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/development/dev-ops/imagor
   direct_link: true
   screenshots:
-  - /images/development/dev-ops/imagor/screenshot-1.jpg
-  - /images/development/dev-ops/imagor/screenshot-2.png
+    - /images/development/dev-ops/imagor/screenshot-1.jpg
+    - /images/development/dev-ops/imagor/screenshot-2.png
 ---
 
 ## Overview

@@ -3,35 +3,38 @@ draft: false
 title: Authelia fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/authelia/screenshot-1.png
-  description: Authelia is a robust authentication and authorization server offering
+  description:
+    Authelia is a robust authentication and authorization server offering
     secure multi-factor authentication and single sign-on (SSO) solutions for your
     web applications. Enhance security and streamline access management with this
     IAM solution.
-  keywords: Authelia, multi-factor authentication, SSO, identity and access management,
+  keywords:
+    Authelia, multi-factor authentication, SSO, identity and access management,
     IAM, single sign-on, reverse proxy, web security, OpenID Connect, web authentication,
     authorization server, secure login
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: Authelia
-    url: /fully-managed-open-source-services/development/identity-and-access-management/authelia
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: Authelia
+      url: /fully-managed-open-source-services/development/identity-and-access-management/authelia
 content:
   id: authelia
   name: Authelia
-  title: Secure Authentication and Authorization with Multi-Factor Authentication
+  title:
+    Secure Authentication and Authorization with Multi-Factor Authentication
     and Single Sign-On
   logo: /images/development/identity-and-access-management/authelia/logo.png
   website: https://www.authelia.com/
   iframe_website: /website/development/identity-and-access-management/authelia
   screenshots:
-  - /images/development/identity-and-access-management/authelia/screenshot-1.png
-  - /images/development/identity-and-access-management/authelia/screenshot-2.png
+    - /images/development/identity-and-access-management/authelia/screenshot-1.png
+    - /images/development/identity-and-access-management/authelia/screenshot-2.png
 ---
 
 ## Overview

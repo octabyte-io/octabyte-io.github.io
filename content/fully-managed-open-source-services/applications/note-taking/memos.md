@@ -3,22 +3,24 @@ draft: false
 title: Memos fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/memos/screenshot-1.webp
-  description: Memos is a self-hosted, open-source memo hub that ensures privacy and
+  description:
+    Memos is a self-hosted, open-source memo hub that ensures privacy and
     security while offering a lightweight yet powerful platform for organizing ideas.
-  keywords: self-hosted memo, open-source memo app, privacy-focused note-taking, markdown
+  keywords:
+    self-hosted memo, open-source memo app, privacy-focused note-taking, markdown
     memo hub, customizable memo software, lightweight note organizer, secure note
     hub
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Memos
-    url: /fully-managed-open-source-services/applications/note-taking/memos
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Memos
+      url: /fully-managed-open-source-services/applications/note-taking/memos
 content:
   id: memos
   name: Memos
@@ -27,8 +29,8 @@ content:
   website: https://usememos.com/
   iframe_website: /website/applications/note-taking/memos
   screenshots:
-  - /images/applications/note-taking/memos/screenshot-1.webp
-  - /images/applications/note-taking/memos/screenshot-2.png
+    - /images/applications/note-taking/memos/screenshot-1.webp
+    - /images/applications/note-taking/memos/screenshot-2.png
 ---
 
 ## Overview

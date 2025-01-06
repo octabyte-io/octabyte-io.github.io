@@ -3,23 +3,25 @@ draft: false
 title: ImmuDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/immudb/screenshot-1.png
-  description: ImmuDB is an immutable ledger database that ensures data integrity,
+  description:
+    ImmuDB is an immutable ledger database that ensures data integrity,
     auditability, and high performance. Perfect for applications requiring tamper-proof
     storage and high throughput.
-  keywords: ImmuDB, immutable database, ledger database, data integrity, tamper-proof
+  keywords:
+    ImmuDB, immutable database, ledger database, data integrity, tamper-proof
     database, blockchain alternative, secure database, high-performance database,
     data audit, supply-chain security, key-value database, SQL database
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: ImmuDB
-    url: /fully-managed-open-source-services/databases/specialized-databases/immudb
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: ImmuDB
+      url: /fully-managed-open-source-services/databases/specialized-databases/immudb
 content:
   id: immudb
   name: ImmuDB
@@ -28,8 +30,8 @@ content:
   website: https://codenotary.com/technologies/immudb/
   iframe_website: /website/databases/specialized-databases/immudb
   screenshots:
-  - /images/databases/specialized-databases/immudb/screenshot-1.png
-  - /images/databases/specialized-databases/immudb/screenshot-2.jpeg
+    - /images/databases/specialized-databases/immudb/screenshot-1.png
+    - /images/databases/specialized-databases/immudb/screenshot-2.jpeg
 ---
 
 ## Overview

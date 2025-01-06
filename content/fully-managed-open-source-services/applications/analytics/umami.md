@@ -3,23 +3,25 @@ draft: false
 title: Umami fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/analytics/umami/screenshot-1.jpg
-  description: Umami is an easy-to-use, self-hosted web analytics solution that prioritizes
+  description:
+    Umami is an easy-to-use, self-hosted web analytics solution that prioritizes
     privacy, offering a free alternative to Google Analytics and paid services. Track
     the metrics that matter to you with an intuitive, lightweight interface.
-  keywords: Umami analytics, self-hosted analytics, privacy-first analytics, free
+  keywords:
+    Umami analytics, self-hosted analytics, privacy-first analytics, free
     web analytics, Google Analytics alternative, open-source analytics, lightweight
     analytics tool, track website visitors, ad-blocker bypass, simple website analytics
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Analytics
-    url: /fully-managed-open-source-services/applications/analytics
-  - name: Umami
-    url: /fully-managed-open-source-services/applications/analytics/umami
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
+    - name: Umami
+      url: /fully-managed-open-source-services/applications/analytics/umami
 content:
   id: umami
   name: Umami
@@ -28,8 +30,8 @@ content:
   website: https://umami.is/
   iframe_website: /website/applications/analytics/umami
   screenshots:
-  - /images/applications/analytics/umami/screenshot-1.jpg
-  - /images/applications/analytics/umami/screenshot-2.jpg
+    - /images/applications/analytics/umami/screenshot-1.jpg
+    - /images/applications/analytics/umami/screenshot-2.jpg
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: N8N fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/automation/n8n/screenshot-1.jpg
-  description: N8N is a no-code automation platform that connects over 200 apps, allowing
+  description:
+    N8N is a no-code automation platform that connects over 200 apps, allowing
     seamless data transfer and workflow creation without writing a single line of
     code. Host it on your server for complete control and security.
-  keywords: N8N, workflow automation, no-code automation, app integration, data synchronization,
+  keywords:
+    N8N, workflow automation, no-code automation, app integration, data synchronization,
     open-source automation, API integration, task automation, custom workflows, data
     privacy, cloud automation, no-code platform, extendable automation
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Automation
-    url: /fully-managed-open-source-services/applications/automation
-  - name: N8N
-    url: /fully-managed-open-source-services/applications/automation/n8n
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
+    - name: N8N
+      url: /fully-managed-open-source-services/applications/automation/n8n
 content:
   id: n8n
   name: N8N
@@ -29,8 +31,8 @@ content:
   iframe_website: /website/applications/automation/n8n
   direct_link: true
   screenshots:
-  - /images/applications/automation/n8n/screenshot-1.jpg
-  - /images/applications/automation/n8n/screenshot-2.jpg
+    - /images/applications/automation/n8n/screenshot-1.jpg
+    - /images/applications/automation/n8n/screenshot-2.jpg
 ---
 
 ## Overview

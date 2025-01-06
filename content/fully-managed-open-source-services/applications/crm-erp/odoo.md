@@ -3,34 +3,37 @@ draft: false
 title: Odoo ERP & CRM fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/crm-erp/odoo/screenshot-1.jpg
-  description: Odoo ERP & CRM is an open-source business suite offering integrated
+  description:
+    Odoo ERP & CRM is an open-source business suite offering integrated
     apps for CRM, e-commerce, accounting, inventory, and more, making business management
     easier and more efficient.
-  keywords: Odoo ERP, Odoo CRM, open-source business software, business management
+  keywords:
+    Odoo ERP, Odoo CRM, open-source business software, business management
     solution, ERP system, integrated business apps, business efficiency, Odoo features,
     business automation, CRM solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: CRM / ERP
-    url: /fully-managed-open-source-services/applications/crm-erp
-  - name: Odoo ERP & CRM
-    url: /fully-managed-open-source-services/applications/crm-erp/odoo
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
+    - name: Odoo ERP & CRM
+      url: /fully-managed-open-source-services/applications/crm-erp/odoo
 content:
   id: odoo
   name: Odoo ERP & CRM
-  title: 'Boost Your Business with Odoo ERP & CRM: Seamlessly Integrated Solutions
-    for Efficiency and Growth'
+  title:
+    "Boost Your Business with Odoo ERP & CRM: Seamlessly Integrated Solutions
+    for Efficiency and Growth"
   logo: /images/applications/crm-erp/odoo/logo.png
   website: https://www.odoo.com/
   iframe_website: /website/applications/crm-erp/odoo
   screenshots:
-  - /images/applications/crm-erp/odoo/screenshot-1.jpg
-  - /images/applications/crm-erp/odoo/screenshot-2.jpg
+    - /images/applications/crm-erp/odoo/screenshot-1.jpg
+    - /images/applications/crm-erp/odoo/screenshot-2.jpg
 ---
 
 ## Overview

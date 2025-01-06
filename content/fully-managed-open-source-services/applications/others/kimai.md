@@ -3,34 +3,37 @@ draft: false
 title: Kimai fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/kimai/screenshot-1.jpg
-  description: Kimai is a free, open-source, web-based time-tracking application for
+  description:
+    Kimai is a free, open-source, web-based time-tracking application for
     freelancers, agencies, and organizations. Track time, generate invoices, and manage
     projects effortlessly with its multi-user, multi-team features.
-  keywords: Kimai, time tracking, invoicing, multi-user time tracking, open-source
+  keywords:
+    Kimai, time tracking, invoicing, multi-user time tracking, open-source
     time tracking, freelancers, agency time tracking, project management, SSO integration,
     invoicing tool, time tracking software
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Kimai
-    url: /fully-managed-open-source-services/applications/others/kimai
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Kimai
+      url: /fully-managed-open-source-services/applications/others/kimai
 content:
   id: kimai
   name: Kimai
-  title: 'Track Time Efficiently with Kimai: The Ultimate Multi-User Time-Tracking
-    Solution'
+  title:
+    "Track Time Efficiently with Kimai: The Ultimate Multi-User Time-Tracking
+    Solution"
   logo: /images/applications/others/kimai/logo.png
   website: https://www.kimai.org/
   iframe_website: /website/applications/others/kimai
   screenshots:
-  - /images/applications/others/kimai/screenshot-1.jpg
-  - /images/applications/others/kimai/screenshot-2.jpg
+    - /images/applications/others/kimai/screenshot-1.jpg
+    - /images/applications/others/kimai/screenshot-2.jpg
 ---
 
 ## Overview

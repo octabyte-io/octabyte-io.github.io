@@ -3,23 +3,25 @@ draft: false
 title: Parse fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/backend-as-a-service/parse/screenshot-1.png
-  description: Parse Server is an open-source backend platform that streamlines app
+  description:
+    Parse Server is an open-source backend platform that streamlines app
     development with features like user authentication, file storage, and push notifications,
     supporting MongoDB and PostgreSQL databases.
-  keywords: Parse Server, open-source backend, Node.js backend, MongoDB backend, PostgreSQL
+  keywords:
+    Parse Server, open-source backend, Node.js backend, MongoDB backend, PostgreSQL
     backend, app development, user authentication, file storage, push notifications,
     scalable backend solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Backend-as-a-Service
-    url: /fully-managed-open-source-services/development/backend-as-a-service
-  - name: Parse
-    url: /fully-managed-open-source-services/development/backend-as-a-service/parse
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Backend-as-a-Service
+      url: /fully-managed-open-source-services/development/backend-as-a-service
+    - name: Parse
+      url: /fully-managed-open-source-services/development/backend-as-a-service/parse
 content:
   id: parse
   name: Parse
@@ -28,8 +30,8 @@ content:
   website: https://parseplatform.org/
   iframe_website: /website/development/backend-as-a-service/parse
   screenshots:
-  - /images/development/backend-as-a-service/parse/screenshot-1.png
-  - /images/development/backend-as-a-service/parse/screenshot-2.png
+    - /images/development/backend-as-a-service/parse/screenshot-1.png
+    - /images/development/backend-as-a-service/parse/screenshot-2.png
 ---
 
 ## Overview

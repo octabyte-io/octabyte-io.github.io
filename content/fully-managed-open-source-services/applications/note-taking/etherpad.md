@@ -3,34 +3,37 @@ draft: false
 title: Etherpad fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/etherpad/screenshot-1.png
-  description: Etherpad is a powerful open-source tool that enables real-time, collaborative
+  description:
+    Etherpad is a powerful open-source tool that enables real-time, collaborative
     document editing in your browser. Ideal for teams, students, and colleagues working
     together on the same document simultaneously.
-  keywords: Etherpad, real-time document editing, collaborative editing, online document
+  keywords:
+    Etherpad, real-time document editing, collaborative editing, online document
     collaboration, team document editing, collaborative writing, open-source editing
     tool, real-time collaboration, team productivity, Etherpad features
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Etherpad
-    url: /fully-managed-open-source-services/applications/note-taking/etherpad
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Etherpad
+      url: /fully-managed-open-source-services/applications/note-taking/etherpad
 content:
   id: etherpad
   name: Etherpad
-  title: 'Collaborative Real-Time Document Editing with Etherpad: Perfect for Teams
-    and Groups'
+  title:
+    "Collaborative Real-Time Document Editing with Etherpad: Perfect for Teams
+    and Groups"
   logo: /images/applications/note-taking/etherpad/logo.png
   website: https://etherpad.org/
   iframe_website: /website/applications/note-taking/etherpad
   screenshots:
-  - /images/applications/note-taking/etherpad/screenshot-1.png
-  - /images/applications/note-taking/etherpad/screenshot-2.png
+    - /images/applications/note-taking/etherpad/screenshot-1.png
+    - /images/applications/note-taking/etherpad/screenshot-2.png
 ---
 
 ## Overview

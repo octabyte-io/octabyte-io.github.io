@@ -3,24 +3,26 @@ draft: false
 title: HedgeDoc fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/hedgedoc/screenshot-1.png
-  description: HedgeDoc is an open-source, real-time collaborative markdown editor
+  description:
+    HedgeDoc is an open-source, real-time collaborative markdown editor
     that enables easy collaboration on documents, notes, and presentations, all while
     being self-hosted for data security and control.
-  keywords: HedgeDoc, collaborative markdown editor, open-source markdown editor,
+  keywords:
+    HedgeDoc, collaborative markdown editor, open-source markdown editor,
     real-time collaboration, self-hosted editor, markdown presentations, web-based
     editor, HackMD alternative, team collaboration tool, document sharing, markdown
     graphs, self-hosted notes editor
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: HedgeDoc
-    url: /fully-managed-open-source-services/applications/note-taking/hedgedoc
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: HedgeDoc
+      url: /fully-managed-open-source-services/applications/note-taking/hedgedoc
 content:
   id: hedgedoc
   name: HedgeDoc
@@ -29,8 +31,8 @@ content:
   website: https://hedgedoc.org/
   iframe_website: /website/applications/note-taking/hedgedoc
   screenshots:
-  - /images/applications/note-taking/hedgedoc/screenshot-1.png
-  - /images/applications/note-taking/hedgedoc/screenshot-2.png
+    - /images/applications/note-taking/hedgedoc/screenshot-1.png
+    - /images/applications/note-taking/hedgedoc/screenshot-2.png
 ---
 
 ## Overview

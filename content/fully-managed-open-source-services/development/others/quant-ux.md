@@ -3,34 +3,37 @@ draft: false
 title: Quant-UX fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/quant-ux/screenshot-1.webp
-  description: Quant-UX simplifies prototype creation and usability testing. Design
+  description:
+    Quant-UX simplifies prototype creation and usability testing. Design
     interactive prototypes in minutes and gather user feedback with ease to validate
     your ideas.
-  keywords: Quant-UX, prototyping tool, usability testing, user feedback, UX design,
+  keywords:
+    Quant-UX, prototyping tool, usability testing, user feedback, UX design,
     interactive prototypes, design system, app prototyping, UI design, app animations,
     visual designer, user experience
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: Quant-UX
-    url: /fully-managed-open-source-services/development/nocode-lowcode/quant-ux
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: Quant-UX
+      url: /fully-managed-open-source-services/development/nocode-lowcode/quant-ux
 content:
   id: quant-ux
   name: Quant-UX
-  title: 'Streamline User Experience Design with Quant-UX: Effortless Prototyping
-    & Usability Testing'
+  title:
+    "Streamline User Experience Design with Quant-UX: Effortless Prototyping
+    & Usability Testing"
   logo: /images/development/others/quant-ux/logo.png
   website: https://quant-ux.com/
   iframe_website: /website/development/others/quant-ux
   screenshots:
-  - /images/development/others/quant-ux/screenshot-1.webp
-  - /images/development/others/quant-ux/screenshot-2.webp
+    - /images/development/others/quant-ux/screenshot-1.webp
+    - /images/development/others/quant-ux/screenshot-2.webp
 ---
 
 ## Overview

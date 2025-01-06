@@ -3,24 +3,26 @@ draft: false
 title: Kafka fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/kafka/screenshot-1.jpg
-  description: Apache Kafka is a powerful, high-throughput event streaming platform
+  description:
+    Apache Kafka is a powerful, high-throughput event streaming platform
     used to build real-time data pipelines and applications for businesses, with support
     for data storage, processing, and analysis.
-  keywords: Apache Kafka, Kafka database, real-time data streaming, data pipeline,
+  keywords:
+    Apache Kafka, Kafka database, real-time data streaming, data pipeline,
     event streaming, distributed platform, real-time processing, high throughput,
     Kafka features, low-latency data, fault tolerance, scalable architecture, event
     processing, big data, Kafka messaging.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: Kafka
-    url: /fully-managed-open-source-services/databases/specialized-databases/kafka
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: Kafka
+      url: /fully-managed-open-source-services/databases/specialized-databases/kafka
 content:
   id: kafka
   name: Kafka
@@ -29,8 +31,8 @@ content:
   website: https://kafka.apache.org/
   iframe_website: /website/databases/specialized-databases/kafka
   screenshots:
-  - /images/databases/specialized-databases/kafka/screenshot-1.jpg
-  - /images/databases/specialized-databases/kafka/screenshot-2.jpg
+    - /images/databases/specialized-databases/kafka/screenshot-1.jpg
+    - /images/databases/specialized-databases/kafka/screenshot-2.jpg
 ---
 
 ## Overview

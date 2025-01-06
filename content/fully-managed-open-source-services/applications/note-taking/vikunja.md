@@ -3,33 +3,35 @@ draft: false
 title: Vikunja fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/note-taking/vikunja/screenshot-1.webp
-  description: "Vikunja is an open-source to-do app that helps you organize tasks,\
+  description:
+    "Vikunja is an open-source to-do app that helps you organize tasks,\
     \ manage projects, and collaborate with teams effortlessly. With versatile views,\
     \ task reminders, and cross-platform accessibility, it\u2019s the ultimate tool\
     \ for staying productive and on track."
-  keywords: Vikunja, open-source to-do app, task management software, project organization
+  keywords:
+    Vikunja, open-source to-do app, task management software, project organization
     tool, team collaboration, Gantt chart to-do app, Kanban board app, task reminders
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Note-taking
-    url: /fully-managed-open-source-services/applications/note-taking
-  - name: Vikunja
-    url: /fully-managed-open-source-services/applications/note-taking/vikunja
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Note-taking
+      url: /fully-managed-open-source-services/applications/note-taking
+    - name: Vikunja
+      url: /fully-managed-open-source-services/applications/note-taking/vikunja
 content:
   id: vikunja
   name: Vikunja
-  title: 'Effortless Task Management with Vikunja: The Open-Source To-Do App'
+  title: "Effortless Task Management with Vikunja: The Open-Source To-Do App"
   logo: /images/applications/note-taking/vikunja/logo.png
   website: https://vikunja.io/
   iframe_website: /website/applications/note-taking/vikunja
   screenshots:
-  - /images/applications/note-taking/vikunja/screenshot-1.webp
-  - /images/applications/note-taking/vikunja/screenshot-2.webp
+    - /images/applications/note-taking/vikunja/screenshot-1.webp
+    - /images/applications/note-taking/vikunja/screenshot-2.webp
 ---
 
 ## Overview

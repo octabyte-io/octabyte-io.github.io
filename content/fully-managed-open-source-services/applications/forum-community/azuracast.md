@@ -3,25 +3,27 @@ draft: false
 title: AzuraCast fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/azuracast/screenshot-1.jpg
-  description: "AzuraCast is a self-hosted, all-in-one web radio management suite\
+  description:
+    "AzuraCast is a self-hosted, all-in-one web radio management suite\
     \ that enables users to easily manage their radio stations through an intuitive\
     \ web interface. It\u2019s perfect for all types and sizes of stations, offering\
     \ quick setup, powerful features, and easy customization."
-  keywords: AzuraCast, self-hosted radio station, web radio management, radio station
+  keywords:
+    AzuraCast, self-hosted radio station, web radio management, radio station
     software, broadcast software, radio station automation, VPS hosting for radio,
     radio station analytics, radio station management tool, multi-station support,
     radio automation platform
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: AzuraCast
-    url: /fully-managed-open-source-services/applications/forum-community/azuracast
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: AzuraCast
+      url: /fully-managed-open-source-services/applications/forum-community/azuracast
 content:
   id: azuracast
   name: AzuraCast
@@ -30,8 +32,8 @@ content:
   website: https://www.azuracast.com/
   iframe_website: /website/applications/forum-community/azuracast
   screenshots:
-  - /images/applications/forum-community/azuracast/screenshot-1.jpg
-  - /images/applications/forum-community/azuracast/screenshot-2.jpg
+    - /images/applications/forum-community/azuracast/screenshot-1.jpg
+    - /images/applications/forum-community/azuracast/screenshot-2.jpg
 ---
 
 ## Overview

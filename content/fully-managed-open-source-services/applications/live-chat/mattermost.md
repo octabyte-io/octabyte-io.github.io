@@ -3,24 +3,26 @@ draft: false
 title: Mattermost Team Edition fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/live-chat/mattermost/screenshot-1.jpg
-  description: Mattermost Team Edition is an open-source team collaboration platform
+  description:
+    Mattermost Team Edition is an open-source team collaboration platform
     that enables efficient communication, task management, and workflow automation.
     Customizable and secure, it is the perfect tool for teams looking to enhance productivity
     and streamline operations.
-  keywords: Mattermost, Team Collaboration, Open Source, Task Management, Project
+  keywords:
+    Mattermost, Team Collaboration, Open Source, Task Management, Project
     Management, Workflow Automation, Communication, Customizable, Secure Deployment,
     Self-Managed Deployment, Team Productivity
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Live chat
-    url: /fully-managed-open-source-services/applications/live-chat
-  - name: Mattermost Team Edition
-    url: /fully-managed-open-source-services/applications/live-chat/mattermost
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
+    - name: Mattermost Team Edition
+      url: /fully-managed-open-source-services/applications/live-chat/mattermost
 content:
   id: mattermost
   name: Mattermost Team Edition
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/applications/live-chat/mattermost
   direct_link: true
   screenshots:
-  - /images/applications/live-chat/mattermost/screenshot-1.jpg
-  - /images/applications/live-chat/mattermost/screenshot-2.jpg
+    - /images/applications/live-chat/mattermost/screenshot-1.jpg
+    - /images/applications/live-chat/mattermost/screenshot-2.jpg
 ---
 
 ## Overview

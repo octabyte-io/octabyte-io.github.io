@@ -3,22 +3,24 @@ draft: false
 title: Stirling-PDF fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/stirling-pdf/screenshot-1.png
-  description: Stirling-PDF is a locally hosted web-based PDF tool that lets you split,
+  description:
+    Stirling-PDF is a locally hosted web-based PDF tool that lets you split,
     merge, convert, and edit PDFs, all within a secure Docker environment.
-  keywords: Stirling-PDF, PDF tool, locally hosted PDF tool, PDF manipulation, PDF
+  keywords:
+    Stirling-PDF, PDF tool, locally hosted PDF tool, PDF manipulation, PDF
     splitting, PDF merging, PDF conversion, PDF editing, PDF security, Docker PDF
     tool, PDF compression, OCR PDF, PDF watermark, PDF password protection
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Stirling-PDF
-    url: /fully-managed-open-source-services/development/dev-tools/stirling-pdf
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Stirling-PDF
+      url: /fully-managed-open-source-services/development/dev-tools/stirling-pdf
 content:
   id: stirling-pdf
   name: Stirling-PDF
@@ -28,8 +30,8 @@ content:
   iframe_website: /website/development/dev-tools/stirling-pdf
   direct_link: true
   screenshots:
-  - /images/development/dev-tools/stirling-pdf/screenshot-1.png
-  - /images/development/dev-tools/stirling-pdf/screenshot-2.png
+    - /images/development/dev-tools/stirling-pdf/screenshot-1.png
+    - /images/development/dev-tools/stirling-pdf/screenshot-2.png
 ---
 
 ## Overview

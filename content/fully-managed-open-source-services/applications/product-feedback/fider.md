@@ -3,34 +3,37 @@ draft: false
 title: Fider fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/product-feedback/fider/screenshot-1.png
-  description: Fider is a user-friendly feedback portal for collecting, organizing,
+  description:
+    Fider is a user-friendly feedback portal for collecting, organizing,
     and prioritizing customer feedback through idea sharing, voting, and discussions,
     all in one place.
-  keywords: Fider, customer feedback portal, idea sharing, vote on suggestions, feedback
+  keywords:
+    Fider, customer feedback portal, idea sharing, vote on suggestions, feedback
     management, prioritize customer needs, team collaboration, feedback organization,
     product feedback, multi-language support
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Product Feedback
-    url: /fully-managed-open-source-services/applications/product-feedback
-  - name: Fider
-    url: /fully-managed-open-source-services/applications/product-feedback/fider
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Product Feedback
+      url: /fully-managed-open-source-services/applications/product-feedback
+    - name: Fider
+      url: /fully-managed-open-source-services/applications/product-feedback/fider
 content:
   id: fider
   name: Fider
-  title: Streamline Customer Feedback with an Engaging Portal for Idea Sharing and
+  title:
+    Streamline Customer Feedback with an Engaging Portal for Idea Sharing and
     Voting
   logo: /images/applications/product-feedback/fider/logo.png
   website: https://fider.io/
   iframe_website: /website/applications/product-feedback/fider
   screenshots:
-  - /images/applications/product-feedback/fider/screenshot-1.png
-  - /images/applications/product-feedback/fider/screenshot-2.jpg
+    - /images/applications/product-feedback/fider/screenshot-1.png
+    - /images/applications/product-feedback/fider/screenshot-2.jpg
 ---
 
 ## Overview

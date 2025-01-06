@@ -3,24 +3,26 @@ draft: false
 title: Outline fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/documentation/outline/screenshot-1.png
-  description: Outline is a powerful knowledge base and wiki platform designed to
+  description:
+    Outline is a powerful knowledge base and wiki platform designed to
     streamline collaboration with features like markdown support, slash commands,
     rich embeds, and robust access control.
-  keywords: Outline, knowledge base software, wiki software, cloud knowledge base,
+  keywords:
+    Outline, knowledge base software, wiki software, cloud knowledge base,
     on-premise knowledge base, team collaboration, markdown editor, document management,
     search functionality, knowledge sharing, access control, rich embeds, team knowledge
     base
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Documentation
-    url: /fully-managed-open-source-services/applications/documentation
-  - name: Outline
-    url: /fully-managed-open-source-services/applications/documentation/outline
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
+    - name: Outline
+      url: /fully-managed-open-source-services/applications/documentation/outline
 content:
   id: outline
   name: Outline
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/applications/documentation/outline
   direct_link: true
   screenshots:
-  - /images/applications/documentation/outline/screenshot-1.png
-  - /images/applications/documentation/outline/screenshot-2.png
+    - /images/applications/documentation/outline/screenshot-1.png
+    - /images/applications/documentation/outline/screenshot-2.png
 ---
 
 ## Overview

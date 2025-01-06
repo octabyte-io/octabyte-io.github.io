@@ -8,7 +8,7 @@ meta:
   breadcrumb:
     - name: Home
       url: /
-    - name: Fully managed Open-Source Services
+    - name: Software Catalog
       url: /fully-managed-open-source-services
     - name: Hosting and Infrastructure
       url: /fully-managed-open-source-services/hosting-and-infrastructure

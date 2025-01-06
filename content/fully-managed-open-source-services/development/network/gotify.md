@@ -3,34 +3,37 @@ draft: false
 title: Gotify fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/network/gotify/screenshot-1.jpg
-  description: Gotify is an open-source, self-hosted server for real-time messaging
+  description:
+    Gotify is an open-source, self-hosted server for real-time messaging
     via web sockets, offering simple push notifications, API integrations, and full
     control over data.
-  keywords: Gotify, real-time messaging, push notifications, self-hosted server, web
+  keywords:
+    Gotify, real-time messaging, push notifications, self-hosted server, web
     socket messaging, API messaging, open-source communication, cross-platform messaging,
     Docker, REST API, message management, push notification server
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Network
-    url: /fully-managed-open-source-services/development/network
-  - name: Gotify
-    url: /fully-managed-open-source-services/development/network/gotify
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Network
+      url: /fully-managed-open-source-services/development/network
+    - name: Gotify
+      url: /fully-managed-open-source-services/development/network/gotify
 content:
   id: gotify
   name: Gotify
-  title: 'Efficient Real-Time Messaging with Gotify: A Simple, Self-Hosted Push Notification
-    Server'
+  title:
+    "Efficient Real-Time Messaging with Gotify: A Simple, Self-Hosted Push Notification
+    Server"
   logo: /images/development/network/gotify/logo.png
   website: https://gotify.net/
   iframe_website: /website/development/network/gotify
   screenshots:
-  - /images/development/network/gotify/screenshot-1.jpg
-  - /images/development/network/gotify/screenshot-2.jpg
+    - /images/development/network/gotify/screenshot-1.jpg
+    - /images/development/network/gotify/screenshot-2.jpg
 ---
 
 ## Overview

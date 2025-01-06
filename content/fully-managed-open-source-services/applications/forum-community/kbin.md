@@ -3,23 +3,25 @@ draft: false
 title: KBIN fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/kbin/screenshot-1.jpeg
-  description: KBIN is a decentralized content aggregator and microblogging platform
+  description:
+    KBIN is a decentralized content aggregator and microblogging platform
     within the Fediverse, allowing users to create, moderate communities, and engage
     in meaningful discussions with others who share similar interests.
-  keywords: KBIN, decentralized content aggregator, microblogging, Fediverse, ActivityPub,
+  keywords:
+    KBIN, decentralized content aggregator, microblogging, Fediverse, ActivityPub,
     Mastodon, Lemmy, Pleroma, Peertube, community moderation, live updates, nested
     comments, social platform, open-source social network, federated communication
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: KBIN
-    url: /fully-managed-open-source-services/applications/forum-community/kbin
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: KBIN
+      url: /fully-managed-open-source-services/applications/forum-community/kbin
 content:
   id: kbin
   name: KBIN
@@ -28,8 +30,8 @@ content:
   website: https://kbin.pub
   iframe_website: /website/applications/forum-community/kbin
   screenshots:
-  - /images/applications/forum-community/kbin/screenshot-1.jpeg
-  - /images/applications/forum-community/kbin/screenshot-2.png
+    - /images/applications/forum-community/kbin/screenshot-1.jpeg
+    - /images/applications/forum-community/kbin/screenshot-2.png
 ---
 
 ## Overview

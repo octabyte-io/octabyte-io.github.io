@@ -3,24 +3,26 @@ draft: false
 title: Magento fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/e-commerce/magento/screenshot-1.jpg
-  description: Magento is a robust open-source e-commerce platform that empowers businesses
+  description:
+    Magento is a robust open-source e-commerce platform that empowers businesses
     to create, manage, and scale their online stores. With flexible features, ease
     of integration, and customizable storefronts, it offers solutions for both B2B
     and B2C markets.
-  keywords: Magento, open-source e-commerce, PHP e-commerce platform, customizable
+  keywords:
+    Magento, open-source e-commerce, PHP e-commerce platform, customizable
     online store, B2B e-commerce, B2C e-commerce, online store management, scalable
     e-commerce, product management, storefront customization, e-commerce solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: E-commerce
-    url: /fully-managed-open-source-services/applications/e-commerce
-  - name: Magento
-    url: /fully-managed-open-source-services/applications/e-commerce/magento
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: E-commerce
+      url: /fully-managed-open-source-services/applications/e-commerce
+    - name: Magento
+      url: /fully-managed-open-source-services/applications/e-commerce/magento
 content:
   id: magento
   name: Magento
@@ -29,8 +31,8 @@ content:
   website: https://magento.com/
   iframe_website: /website/applications/e-commerce/magento
   screenshots:
-  - /images/applications/e-commerce/magento/screenshot-1.jpg
-  - /images/applications/e-commerce/magento/screenshot-2.jpg
+    - /images/applications/e-commerce/magento/screenshot-1.jpg
+    - /images/applications/e-commerce/magento/screenshot-2.jpg
 ---
 
 ## Overview

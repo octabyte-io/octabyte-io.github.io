@@ -3,32 +3,34 @@ draft: false
 title: Formbricks fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/customer-support/formbricks/screenshot-1.png
-  description: Formbricks enables you to create targeted, non-intrusive in-product
+  description:
+    Formbricks enables you to create targeted, non-intrusive in-product
     surveys to collect valuable user feedback and improve your product experience.
-  keywords: micro-surveys, in-product surveys, user feedback, no-code surveys, survey
+  keywords:
+    micro-surveys, in-product surveys, user feedback, no-code surveys, survey
     templates, user engagement, product experience, feedback collection, survey integration,
     product insights, user targeting, Formbricks
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Customer Support
-    url: /fully-managed-open-source-services/applications/customer-support
-  - name: Formbricks
-    url: /fully-managed-open-source-services/applications/customer-support/formbricks
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
+    - name: Formbricks
+      url: /fully-managed-open-source-services/applications/customer-support/formbricks
 content:
   id: formbricks
   name: Formbricks
-  title: 'Boost User Engagement with Formbricks: Powerful In-Product Micro-Surveys'
+  title: "Boost User Engagement with Formbricks: Powerful In-Product Micro-Surveys"
   logo: /images/applications/customer-support/formbricks/logo.png
   website: https://formbricks.com/
   iframe_website: /website/applications/customer-support/formbricks
   screenshots:
-  - /images/applications/customer-support/formbricks/screenshot-1.png
-  - /images/applications/customer-support/formbricks/screenshot-2.webp
+    - /images/applications/customer-support/formbricks/screenshot-1.png
+    - /images/applications/customer-support/formbricks/screenshot-2.webp
 ---
 
 ## Overview

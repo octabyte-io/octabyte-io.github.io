@@ -3,23 +3,25 @@ draft: false
 title: Mastodon fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/mastodon/screenshot-1.jpg
-  description: Mastodon is a free, open-source social network server with decentralized
+  description:
+    Mastodon is a free, open-source social network server with decentralized
     communities, offering a customizable, safer, and more interactive experience for
     users to share posts, images, and videos.
-  keywords: Mastodon, open-source social network, decentralized social media, Mastodon
+  keywords:
+    Mastodon, open-source social network, decentralized social media, Mastodon
     communities, secure social media, anti-abuse tools, social networking, federated
     platform, multimedia sharing, open-source server
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Mastodon
-    url: /fully-managed-open-source-services/applications/forum-community/mastodon
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Mastodon
+      url: /fully-managed-open-source-services/applications/forum-community/mastodon
 content:
   id: mastodon
   name: Mastodon
@@ -28,8 +30,8 @@ content:
   website: https://mastodon.social
   iframe_website: /website/applications/forum-community/mastodon
   screenshots:
-  - /images/applications/forum-community/mastodon/screenshot-1.jpg
-  - /images/applications/forum-community/mastodon/screenshot-2.jpg
+    - /images/applications/forum-community/mastodon/screenshot-1.jpg
+    - /images/applications/forum-community/mastodon/screenshot-2.jpg
 ---
 
 ## Overview

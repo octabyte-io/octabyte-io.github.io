@@ -3,24 +3,26 @@ draft: false
 title: LightLDAP fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/identity-and-access-management/lightldap/screenshot-1.png
-  description: LightLDAP is a lightweight and simplified LDAP authentication server
+  description:
+    LightLDAP is a lightweight and simplified LDAP authentication server
     designed for seamless integration with a wide range of backend systems. It provides
     an easy-to-use interface for authentication and user management, offering features
     like self-service user details editing and password reset by email.
-  keywords: LightLDAP, lightweight LDAP server, LDAP authentication, user management,
+  keywords:
+    LightLDAP, lightweight LDAP server, LDAP authentication, user management,
     LDAP integration, self-service authentication, password reset, KeyCloak integration,
     Authelia, Nextcloud, flexible LDAP configuration, secure authentication solution
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Identity and access management
-    url: /fully-managed-open-source-services/development/identity-and-access-management
-  - name: LightLDAP
-    url: /fully-managed-open-source-services/development/identity-and-access-management/lightldap
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Identity and access management
+      url: /fully-managed-open-source-services/development/identity-and-access-management
+    - name: LightLDAP
+      url: /fully-managed-open-source-services/development/identity-and-access-management/lightldap
 content:
   id: lightldap
   name: LightLDAP
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/development/identity-and-access-management/lightldap
   direct_link: true
   screenshots:
-  - /images/development/identity-and-access-management/lightldap/screenshot-1.png
-  - /images/development/identity-and-access-management/lightldap/screenshot-2.png
+    - /images/development/identity-and-access-management/lightldap/screenshot-1.png
+    - /images/development/identity-and-access-management/lightldap/screenshot-2.png
 ---
 
 ## Overview

@@ -3,23 +3,25 @@ draft: false
 title: Lobsters fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/forum-community/lobsters/screenshot-1.png
-  description: Lobsters is a vibrant community for computing enthusiasts, offering
+  description:
+    Lobsters is a vibrant community for computing enthusiasts, offering
     a space to share stories, links, and engage in meaningful discussions on a range
     of tech topics.
-  keywords: Lobsters community, computing discussions, tech community, programming,
+  keywords:
+    Lobsters community, computing discussions, tech community, programming,
     links sharing, user engagement, tech news, invite network, user rankings, computing
     enthusiasts, Lobsters platform.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Forum / Community
-    url: /fully-managed-open-source-services/applications/forum-community
-  - name: Lobsters
-    url: /fully-managed-open-source-services/applications/forum-community/lobsters
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Forum / Community
+      url: /fully-managed-open-source-services/applications/forum-community
+    - name: Lobsters
+      url: /fully-managed-open-source-services/applications/forum-community/lobsters
 content:
   id: lobsters
   name: Lobsters
@@ -28,8 +30,8 @@ content:
   website: https://lobste.rs/
   iframe_website: /website/applications/forum-community/lobsters
   screenshots:
-  - /images/applications/forum-community/lobsters/screenshot-1.png
-  - /images/applications/forum-community/lobsters/screenshot-2.png
+    - /images/applications/forum-community/lobsters/screenshot-1.png
+    - /images/applications/forum-community/lobsters/screenshot-2.png
 ---
 
 ## Overview

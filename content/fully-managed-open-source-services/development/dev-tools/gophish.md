@@ -3,24 +3,26 @@ draft: false
 title: Gophish fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gophish/screenshot-1.png
-  description: Gophish is an open-source phishing framework that helps organizations
+  description:
+    Gophish is an open-source phishing framework that helps organizations
     test and improve their defense against phishing attacks. Its powerful features
     include a beautiful web interface, real-time results, and a REST API for seamless
     integration.
-  keywords: Gophish, open-source phishing framework, phishing testing, security testing,
+  keywords:
+    Gophish, open-source phishing framework, phishing testing, security testing,
     cybersecurity, email phishing simulation, phishing defense, phishing awareness,
     phishing attack prevention, REST API, phishing campaign management
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Dev tools
-    url: /fully-managed-open-source-services/development/dev-tools
-  - name: Gophish
-    url: /fully-managed-open-source-services/development/dev-tools/gophish
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
+    - name: Gophish
+      url: /fully-managed-open-source-services/development/dev-tools/gophish
 content:
   id: gophish
   name: Gophish
@@ -29,8 +31,8 @@ content:
   website: https://getgophish.com/
   iframe_website: /website/development/dev-tools/gophish
   screenshots:
-  - /images/development/dev-tools/gophish/screenshot-1.png
-  - /images/development/dev-tools/gophish/screenshot-2.png
+    - /images/development/dev-tools/gophish/screenshot-1.png
+    - /images/development/dev-tools/gophish/screenshot-2.png
 ---
 
 ## Overview

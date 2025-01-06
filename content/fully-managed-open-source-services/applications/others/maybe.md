@@ -3,25 +3,27 @@ draft: false
 title: Maybe fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/others/maybe/screenshot-1.jpg
-  description: Take control of your financial future with Maybe, the open-source personal
+  description:
+    Take control of your financial future with Maybe, the open-source personal
     finance and wealth management app offering net worth tracking, financial account
     syncing, investment benchmarking, and more.
-  keywords: personal finance, wealth management, net worth tracking, financial account
+  keywords:
+    personal finance, wealth management, net worth tracking, financial account
     syncing, investment benchmarking, retirement planning, debt insights, financial
     advice, open-source finance app, multi-currency finance, wealth management software,
     investment tracking, portfolio allocation, self-hosted finance app, financial
     forecasting
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Applications
-    url: /fully-managed-open-source-services/applications
-  - name: Others
-    url: /fully-managed-open-source-services/applications/others
-  - name: Maybe
-    url: /fully-managed-open-source-services/applications/others/maybe
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: Others
+      url: /fully-managed-open-source-services/applications/others
+    - name: Maybe
+      url: /fully-managed-open-source-services/applications/others/maybe
 content:
   id: maybe
   name: Maybe
@@ -31,8 +33,8 @@ content:
   iframe_website: /website/applications/others/maybe
   direct_link: true
   screenshots:
-  - /images/applications/others/maybe/screenshot-1.jpg
-  - /images/applications/others/maybe/screenshot-2.png
+    - /images/applications/others/maybe/screenshot-1.jpg
+    - /images/applications/others/maybe/screenshot-2.png
 ---
 
 ## Overview

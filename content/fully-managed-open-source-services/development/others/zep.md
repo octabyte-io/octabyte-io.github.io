@@ -3,24 +3,26 @@ draft: false
 title: Zep fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/others/zep/screenshot-1.png
-  description: Zep empowers AI assistants with long-term memory, enabling them to
+  description:
+    Zep empowers AI assistants with long-term memory, enabling them to
     recall, understand, and extract data from chat histories for personalized, smarter
     user interactions.
-  keywords: AI long-term memory, AI assistant, memory for assistants, personalized
+  keywords:
+    AI long-term memory, AI assistant, memory for assistants, personalized
     AI, AI conversation history, smart AI features, AI data extraction, AI user experience,
     intelligent conversation routing, RAG, business data integration, AI segmentation,
     AI recall
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Development
-    url: /fully-managed-open-source-services/development
-  - name: Others
-    url: /fully-managed-open-source-services/development/others
-  - name: Zep
-    url: /fully-managed-open-source-services/development/nocode-lowcode/zep
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Others
+      url: /fully-managed-open-source-services/development/others
+    - name: Zep
+      url: /fully-managed-open-source-services/development/nocode-lowcode/zep
 content:
   id: zep
   name: Zep
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/development/others/zep
   direct_link: true
   screenshots:
-  - /images/development/others/zep/screenshot-1.png
-  - /images/development/others/zep/screenshot-2.png
+    - /images/development/others/zep/screenshot-1.png
+    - /images/development/others/zep/screenshot-2.png
 ---
 
 ## Overview

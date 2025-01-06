@@ -3,24 +3,26 @@ draft: false
 title: Neo4j fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/neo4j/screenshot-1.jpg
-  description: Neo4j is a high-performance graph database that excels in relationship-based
+  description:
+    Neo4j is a high-performance graph database that excels in relationship-based
     queries, offering unmatched speed, security, and scalability for complex data
     challenges.
-  keywords: Neo4j, graph database, ACID-compliant database, relationship-based queries,
+  keywords:
+    Neo4j, graph database, ACID-compliant database, relationship-based queries,
     graph technology, machine learning, enterprise database, scalable architecture,
     data insights, high-performance database, native graph storage, data science,
     advanced security.
   breadcrumb:
-  - name: Home
-    url: /
-  - name: Fully managed Open-Source Services
-    url: /fully-managed-open-source-services
-  - name: Databases
-    url: /fully-managed-open-source-services/databases
-  - name: Specialized Databases
-    url: /fully-managed-open-source-services/databases/specialized-databases
-  - name: Neo4j
-    url: /fully-managed-open-source-services/databases/specialized-databases/neo4j
+    - name: Home
+      url: /
+    - name: Software Catalog
+      url: /fully-managed-open-source-services
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
+    - name: Neo4j
+      url: /fully-managed-open-source-services/databases/specialized-databases/neo4j
 content:
   id: neo4j
   name: Neo4j
@@ -30,8 +32,8 @@ content:
   iframe_website: /website/databases/specialized-databases/neo4j
   direct_link: true
   screenshots:
-  - /images/databases/specialized-databases/neo4j/screenshot-1.jpg
-  - /images/databases/specialized-databases/neo4j/screenshot-2.jpg
+    - /images/databases/specialized-databases/neo4j/screenshot-1.jpg
+    - /images/databases/specialized-databases/neo4j/screenshot-2.jpg
 ---
 
 ## Overview
