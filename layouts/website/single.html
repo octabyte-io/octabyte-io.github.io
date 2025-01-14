@@ -47,7 +47,7 @@
   </div>
   {{ $url := .Params.content.website }}
   {{ if .Params.content.proxy }}
-    {{ $url = printf "https://%s.inbzar.com" .Params.content.id }}
+    {{ $url = printf "https://%s.reverse-proxy.octabyte.app" .Params.content.id }}
   {{ end }}
   <iframe
     class="md:h-[calc(100vh-52px)] h-[calc(100vh-144px)] w-full"
