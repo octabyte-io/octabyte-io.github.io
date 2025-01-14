@@ -2,7 +2,7 @@
 draft: false
 title: Matomo fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/analytics/matomo/screenshot-1.jpg
+  cover: /images/applications/analytics/matomo2/screenshot-1.jpg
   description:
     Matomo is a self-hosted, open-source web analytics platform that offers
     100% accurate data, unlimited tracking, and privacy compliance, allowing businesses
@@ -26,13 +26,13 @@ content:
   id: matomo
   name: Matomo
   title: Open-Source Web Analytics for Accurate, Privacy-Compliant Data Tracking
-  logo: /images/applications/analytics/matomo/logo.png
+  logo: /images/applications/analytics/matomo2/logo.png
   website: https://matomo.org/
   iframe_website: /website/applications/analytics/matomo
   direct_link: true
   screenshots:
-    - /images/applications/analytics/matomo/screenshot-1.jpg
-    - /images/applications/analytics/matomo/screenshot-2.jpg
+    - /images/applications/analytics/matomo2/screenshot-1.jpg
+    - /images/applications/analytics/matomo2/screenshot-2.jpg
 ---
 
 ## Overview
