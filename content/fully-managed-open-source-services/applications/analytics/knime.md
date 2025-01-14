@@ -29,7 +29,7 @@ content:
     Unlock the Power of Data with KNIME Analytics Platform - Open Source Data
     Science Software
   logo: /images/applications/analytics/knime/logo.png
-  website: https://github.com/OctaByte/docker-desktop-vnc-knime
+  website: https://github.com/elestio/docker-desktop-vnc-knime
   iframe_website: /website/applications/analytics/knime
   direct_link: true
   screenshots:

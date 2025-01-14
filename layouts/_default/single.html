@@ -1,8 +1,5 @@
 {{ define "main" }}
   {{ $url := .Params.content.iframe_website }}
-  {{ if .Params.content.direct_link }}
-    {{ $url = .Params.content.website }}
-  {{ end }}
 
 
   <div class="px-8 mt-12 sm:px-20 sm:mt-24">
