@@ -842,7 +842,7 @@ catalog_list:
         description: Umami is an easy-to-use, self-hosted web analytics solution that prioritizes privacy, offering a free alternative to Google Analytics and paid services. Track the metrics that matter to you with an intuitive, lightweight interface.
       - id: matomo
         title: Matomo
-        image: /images/applications/analytics/matomo/logo.png
+        image: /images/applications/analytics/matomo2/logo.png
         url: /applications/analytics/matomo
         category: analytics
         description: Matomo is a self-hosted, open-source web analytics platform that offers 100% accurate data, unlimited tracking, and privacy compliance, allowing businesses to make informed decisions without compromising on security.
