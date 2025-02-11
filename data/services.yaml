@@ -1368,6 +1368,12 @@ catalog_list:
         url: /applications/others/postiz
         category: others
         description: Postiz is an AI-powered social media scheduling tool that helps you create, schedule, and manage posts effortlessly while boosting engagement and growth.
+      - id: kener
+        title: Kener
+        image: /images/applications/others/kener/logo.png
+        url: /applications/others/kener
+        category: others
+        description: Kener is a modern, open-source status page system with real-time monitoring, incident management, and customization options for a seamless user experience.
       - id: comfyui
         title: ComfyUi
         image: /images/applications/others/comfyui/logo.avif
