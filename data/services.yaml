@@ -390,6 +390,12 @@ catalog_list:
         url: /applications/note-taking/huly
         category: note-taking project-management
         description: Huly is an all-in-one project management platform that combines tools for task management, communication, and team collaboration. Simplify workflows and boost productivity with Huly.
+      - id: appflowy
+        title: AppFlowy
+        image: /images/applications/note-taking/appflowy/logo.png
+        url: /applications/note-taking/appflowy
+        category: note-taking project-management
+        description: AppFlowy is an open-source Notion alternative with AI-powered collaboration, customizable views, and full data control for teams and individuals.
       - id: plane
         title: Plane
         image: /images/applications/project-management/plane/logo.png
@@ -1026,6 +1032,12 @@ catalog_list:
         url: /applications/customer-support/tracardi
         category: customer-support
         description: Tracardi is an API-first, low-code/no-code platform designed for e-commerce businesses to manage and utilize customer data for marketing automation, engagement, and multi-channel integration.
+      - id: uvdesk
+        title: UVdesk
+        image: /images/applications/customer-support/uvdesk/logo.png
+        url: /applications/customer-support/uvdesk
+        category: customer-support
+        description: UVdesk is a powerful open-source helpdesk solution designed to streamline customer support with ticketing, branding, email management, and knowledge base features.
       - id: pixelfed
         title: Pixelfed
         image: /images/applications/fediverse/pixelfed/logo.png
@@ -1332,6 +1344,18 @@ catalog_list:
         url: /applications/others/anythingllm
         category: others
         description: AnythingLLM transforms documents and content into chat-ready contexts for LLMs, offering multi-user support, model flexibility, and deep customization.
+      - id: grist
+        title: Grist
+        image: /images/applications/others/grist/logo.png
+        url: /applications/others/grist
+        category: others
+        description: Grist is a next-gen relational spreadsheet combining the flexibility of a spreadsheet with the power of a database. It offers secure collaboration, customizable dashboards, and seamless scalability for teams.
+      - id: iris
+        title: IRIS
+        image: /images/applications/others/iris/logo.png
+        url: /applications/others/iris
+        category: others
+        description: IRIS is a powerful, open-source incident response platform that enables seamless collaboration, alert management, and automation for cybersecurity teams.
       - id: comfyui
         title: ComfyUi
         image: /images/applications/others/comfyui/logo.avif
@@ -2052,6 +2076,12 @@ catalog_list:
         url: /hosting-and-infrastructure/monitoring/canopsis
         category: monitoring
         description: Canopsis streamlines event management by centralizing multisource events, automating actions, and providing customizable real-time dashboards for enhanced monitoring and service optimization.
+      - id: hortusfox
+        title: HortusFox
+        image: /images/hosting-and-infrastructure/monitoring/hortusfox/logo.png
+        url: /hosting-and-infrastructure/monitoring/hortusfox
+        category: monitoring
+        description: HortusFox is a self-hosted, collaborative plant management system that helps plant enthusiasts track, organize, and care for their plants efficiently.
       - id: mailcow
         title: MailCow
         image: /images/hosting-and-infrastructure/email/mailcow/logo.png
