@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: LibreTranslate
-      url: /fully-managed-open-source-services/development/nocode-lowcode/libretranslate
+      url: /fully-managed-open-source-services/development/others/libretranslate
 content:
   id: libretranslate
   name: LibreTranslate

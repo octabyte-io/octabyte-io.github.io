@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: KrakenD
-      url: /fully-managed-open-source-services/development/nocode-lowcode/krakend
+      url: /fully-managed-open-source-services/development/others/krakend
 content:
   id: krakend
   name: KrakenD

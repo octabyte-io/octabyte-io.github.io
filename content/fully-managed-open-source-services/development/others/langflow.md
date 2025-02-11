@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Langflow
-      url: /fully-managed-open-source-services/development/nocode-lowcode/langflow
+      url: /fully-managed-open-source-services/development/others/langflow
 content:
   id: langflow
   name: Langflow

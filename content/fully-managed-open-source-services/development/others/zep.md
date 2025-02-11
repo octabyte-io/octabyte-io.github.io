@@ -22,7 +22,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Zep
-      url: /fully-managed-open-source-services/development/nocode-lowcode/zep
+      url: /fully-managed-open-source-services/development/others/zep
 content:
   id: zep
   name: Zep

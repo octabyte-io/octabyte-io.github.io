@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Teable
-      url: /fully-managed-open-source-services/development/nocode-lowcode/teable
+      url: /fully-managed-open-source-services/development/others/teable
 content:
   id: teable
   name: Teable

@@ -20,7 +20,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Hoppscotch
-      url: /fully-managed-open-source-services/development/nocode-lowcode/hoppscotch
+      url: /fully-managed-open-source-services/development/others/hoppscotch
 content:
   id: hoppscotch
   name: Hoppscotch

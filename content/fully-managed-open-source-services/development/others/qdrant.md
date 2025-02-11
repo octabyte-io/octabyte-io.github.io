@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Qdrant
-      url: /fully-managed-open-source-services/development/nocode-lowcode/qdrant
+      url: /fully-managed-open-source-services/development/others/qdrant
 content:
   id: qdrant
   name: Qdrant

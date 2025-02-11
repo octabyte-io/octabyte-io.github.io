@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Llana
-      url: /fully-managed-open-source-services/development/nocode-lowcode/llana
+      url: /fully-managed-open-source-services/development/others/llana
 content:
   id: llana
   name: Llana

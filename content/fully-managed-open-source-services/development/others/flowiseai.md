@@ -22,7 +22,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: FlowiseAI
-      url: /fully-managed-open-source-services/development/nocode-lowcode/flowiseai
+      url: /fully-managed-open-source-services/development/others/flowiseai
 content:
   id: flowiseai
   name: FlowiseAI

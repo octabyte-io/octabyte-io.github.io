@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Daptin
-      url: /fully-managed-open-source-services/development/nocode-lowcode/daptin
+      url: /fully-managed-open-source-services/development/others/daptin
 content:
   id: daptin
   name: Daptin

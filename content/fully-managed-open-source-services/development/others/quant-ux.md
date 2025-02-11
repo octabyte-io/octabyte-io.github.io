@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: Quant-UX
-      url: /fully-managed-open-source-services/development/nocode-lowcode/quant-ux
+      url: /fully-managed-open-source-services/development/others/quant-ux
 content:
   id: quant-ux
   name: Quant-UX

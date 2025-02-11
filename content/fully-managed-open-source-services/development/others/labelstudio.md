@@ -21,7 +21,7 @@ meta:
     - name: Others
       url: /fully-managed-open-source-services/development/others
     - name: LabelStudio
-      url: /fully-managed-open-source-services/development/nocode-lowcode/labelstudio
+      url: /fully-managed-open-source-services/development/others/labelstudio
 content:
   id: labelstudio
   name: LabelStudio
