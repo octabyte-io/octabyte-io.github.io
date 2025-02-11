@@ -1833,6 +1833,12 @@ catalog_list:
         url: /development/dev-ops/nexus3
         category: dev-ops
         description: Nexus3 is the leading repository manager, supporting a wide range of build tools and enabling efficient distribution of components, binaries, and containers to developers worldwide.
+      - id: gorules
+        title: GoRules
+        image: /images/development/dev-ops/gorules/logo.png
+        url: /development/dev-ops/gorules
+        category: dev-ops
+        description: GoRules is a powerful open-source Business Rules Engine (BRE) that simplifies rule management for Rust, NodeJS, Python, and Go applications. Automate decision-making, enhance efficiency, and accelerate your time to market.
       - id: hop
         title: Hop
         image: /images/development/nocode-lowcode/hop/logo.png
