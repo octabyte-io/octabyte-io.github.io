@@ -1362,6 +1362,12 @@ catalog_list:
         url: /applications/others/langfuse
         category: others
         description: Langfuse is an open-source LLM engineering platform offering observability, prompt management, metrics, and evaluations with seamless integrations and enterprise-ready deployment options.
+      - id: postiz
+        title: Postiz
+        image: /images/applications/others/postiz/logo.png
+        url: /applications/others/postiz
+        category: others
+        description: Postiz is an AI-powered social media scheduling tool that helps you create, schedule, and manage posts effortlessly while boosting engagement and growth.
       - id: comfyui
         title: ComfyUi
         image: /images/applications/others/comfyui/logo.avif
