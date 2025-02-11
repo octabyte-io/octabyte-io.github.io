@@ -1356,6 +1356,12 @@ catalog_list:
         url: /applications/others/iris
         category: others
         description: IRIS is a powerful, open-source incident response platform that enables seamless collaboration, alert management, and automation for cybersecurity teams.
+      - id: langfuse
+        title: Langfuse
+        image: /images/applications/others/langfuse/logo.png
+        url: /applications/others/langfuse
+        category: others
+        description: Langfuse is an open-source LLM engineering platform offering observability, prompt management, metrics, and evaluations with seamless integrations and enterprise-ready deployment options.
       - id: comfyui
         title: ComfyUi
         image: /images/applications/others/comfyui/logo.avif
