@@ -1,4 +1,7 @@
 {{ define "main" }}
+  <script>
+    let __plan_name = "Professional";
+  </script>
   <div class="isolate px-6 py-24 sm:py-32 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
       <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
@@ -10,6 +13,7 @@
     </div>
 
     <script>
+      let start_trial_form_submitted = false;
       window.onload = function () {
         let referralCode = localStorage.getItem("referral-code");
 
@@ -21,68 +25,55 @@
           document.getElementById("referral-code").value = referralCode;
         }
 
-        const serviceId = getQueryParam("service_id");
-        const serviceName = getQueryParam("service_name");
+        const serviceName = getQueryParam("service");
 
-        if (serviceId && serviceName) {
-          document.getElementById("service-id").value = serviceId;
+        if (serviceName) {
           document.getElementById("service-name").value = serviceName;
         } else {
           window.location = "/";
         }
       };
 
-      async function submitForm(form) {
-        event.preventDefault();
-
-        alert("Currently not accepting new accounts, Try after few minutes");
-        return;
-
+      function loading() {
         const btn = document.getElementById("submit-btn");
 
         btn.disabled = true;
         btn.textContent = "Submitting...";
+      }
 
-        const formData = new FormData(form);
-        const requestData = Object.fromEntries(formData.entries());
+      function onFormSubmit() {
+        if (start_trial_form_submitted) {
+          const plans = {
+            startup: "https://buy.stripe.com/4gwaF0bWd3nh2AwaEF",
+            professional: "https://buy.stripe.com/00gaF0gct9LF6QM6oq",
+            business: "https://buy.stripe.com/cN29AW4tL9LFeje7sv",
+            enterprise: "https://buy.stripe.com/dR614q2lD9LF0so6os",
+          };
 
-        delete requestData.terms_and_conditions;
+          __plan_name = __plan_name.toLowerCase();
 
-        requestData.plan = requestData.plan.toLowerCase();
-
-        try {
-          const response = await fetch(
-            "https://admin.octabyte.app/items/customer_services",
-            {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-              },
-              body: JSON.stringify(requestData),
-            },
-          );
-
-          if (!response.ok) {
-            throw new Error("There was an error submitting the form.");
-          }
+          const paymentLink = plans[__plan_name] || plans.professional;
 
           localStorage.removeItem("referral-code");
-
-          const data = await response.json();
-          const session_url = data.data.session_url;
-          window.location = session_url;
-        } catch (error) {
-          alert("There was an error submitting the form.");
+          window.location = paymentLink;
         }
       }
     </script>
 
+    <iframe
+      name="hidden_iframe"
+      id="hidden_iframe"
+      style="display:none;"
+      onload="onFormSubmit()"></iframe>
+
     <form
+      action="https://docs.google.com/forms/d/e/1FAIpQLSeaxk4nWWZZw6LvQPPS80PuSOfEC3rmAWPtzOYapioaYguzqQ/formResponse"
       method="post"
-      onsubmit="submitForm(this)"
+      target="hidden_iframe"
+      onsubmit="start_trial_form_submitted = true; loading()"
       class="mx-auto mt-16 max-w-xl sm:mt-20">
       <!-- Referral Code -->
-      <input id="referral-code" type="hidden" name="referral_code" />
+      <input id="referral-code" type="hidden" name="entry.1415040235" />
 
       <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
         <div>
@@ -94,7 +85,7 @@
           <div class="mt-2.5">
             <input
               type="text"
-              name="first_name"
+              name="entry.973173615"
               id="first-name"
               autocomplete="given-name"
               placeholder="John"
@@ -111,7 +102,7 @@
           <div class="mt-2.5">
             <input
               type="text"
-              name="last_name"
+              name="entry.876595051"
               id="last-name"
               autocomplete="family-name"
               placeholder="Smith"
@@ -129,7 +120,7 @@
           <div class="mt-2.5">
             <input
               type="email"
-              name="admin_email"
+              name="entry.943957029"
               id="email"
               autocomplete="email"
               placeholder="Please provide valid email address to receive credentials"
@@ -146,7 +137,7 @@
           <div class="mt-2.5">
             <input
               type="tel"
-              name="phone_number"
+              name="entry.621899747"
               id="phone-number"
               autocomplete="tel"
               placeholder="+1 (555) 987-6543"
@@ -160,10 +151,9 @@
             Service Name
           </label>
           <div class="mt-2.5">
-            <input type="hidden" id="service-id" name="service_id" />
             <input
               type="text"
-              name="service_name"
+              name="entry.2107164949"
               id="service-name"
               required
               readonly
@@ -194,7 +184,7 @@
             <div class="flex h-5 items-center">
               <input
                 id="terms-and-conditions"
-                name="terms_and_conditions"
+                name="terms-and-conditions"
                 type="checkbox"
                 required
                 class="h-4 w-4 cursor-pointer rounded border-gray-300 text-indigo-600 focus:ring-indigo-500" />
