@@ -35,6 +35,9 @@
       async function submitForm(form) {
         event.preventDefault();
 
+        alert("Currently not accepting new accounts, Try after few minutes");
+        return;
+
         const btn = document.getElementById("submit-btn");
 
         btn.disabled = true;
