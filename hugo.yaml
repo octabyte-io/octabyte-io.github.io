@@ -1,5 +1,6 @@
 baseURL: "https://octabyte.io/"
 languageCode: "en-us"
+enableGitInfo: true
 
 title: "OctaByte"
 
