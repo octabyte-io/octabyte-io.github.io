@@ -1,3 +1,6 @@
+{{ define "head" }}
+  <meta name="robots" content="noindex, follow" />
+{{ end }}
 {{ define "main" }}
   <div class="isolate px-6 py-24 sm:py-32 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
@@ -35,9 +38,6 @@
       async function submitForm(form) {
         event.preventDefault();
 
-        alert("Currently not accepting new accounts, Try after few minutes");
-        return;
-
         const btn = document.getElementById("submit-btn");
 
         btn.disabled = true;
@@ -49,6 +49,8 @@
         delete requestData.terms_and_conditions;
 
         requestData.plan = requestData.plan.toLowerCase();
+
+
 
         try {
           const response = await fetch(
@@ -62,16 +64,21 @@
             },
           );
 
+          const data = await response.json();
+
+          console.log(data)
+
           if (!response.ok) {
             throw new Error("There was an error submitting the form.");
           }
 
           localStorage.removeItem("referral-code");
 
-          const data = await response.json();
+          {{/*  const data = await response.json();  */}}
           const session_url = data.data.session_url;
           window.location = session_url;
         } catch (error) {
+          console.log(error)
           alert("There was an error submitting the form.");
         }
       }
