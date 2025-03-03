@@ -63,14 +63,14 @@ menus:
       url: "/fully-managed-open-source-services/development"
       weight: 4
 
-    - name: "Hosting and Infrastructure"
-      url: "/fully-managed-open-source-services/hosting-and-infrastructure"
-      weight: 5
+    - name: "OctaByte Blog"
+      url: "https://blog.octabyte.io"
+      weight: 7
 
     - name: "How it works"
       url: "/how-it-works"
-      weight: 6
+      weight: 8
 
     - name: "Terms and Conditions"
       url: "/terms-and-conditions"
-      weight: 7
+      weight: 9
