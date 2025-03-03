@@ -65,12 +65,12 @@ menus:
 
     - name: "OctaByte Blog"
       url: "https://blog.octabyte.io"
-      weight: 7
+      weight: 5
 
     - name: "How it works"
       url: "/how-it-works"
-      weight: 8
+      weight: 6
 
     - name: "Terms and Conditions"
       url: "/terms-and-conditions"
-      weight: 9
+      weight: 7
