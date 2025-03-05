@@ -327,9 +327,6 @@ faq:
   - question: Is my server dedicated only to my app?
     answer: Yes, your server is dedicated to your app. However, in the Startup plan, the server is shared, meaning its resources are also used by neighboring apps.
 
-  - question: Can I install more than one app on a single server?
-    answer: Yes, you can install up to 4 apps on the Business plan and up to 10 apps on the Enterprise plan. In the Startup and Professional plans, only one app can be installed per server.
-
   - question: Can I upgrade my server later?
     answer: Yes, you can upgrade your server at any time without any data loss.
 
