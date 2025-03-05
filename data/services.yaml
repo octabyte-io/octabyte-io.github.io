@@ -612,6 +612,12 @@ catalog_list:
         url: /applications/documentation/answer
         category: documentation forum-community
         description: Answer is an open-source Q&A platform for building engaged communities, offering features like tagging, gamification, integrations, and more.
+      - id: openwebui
+        title: OpenWebUI
+        image: /images/applications/search/openwebui/logo.png
+        url: /applications/search/openwebui
+        category: search
+        description: OpenWebUI is a self-hosted, offline-friendly WebUI for LLMs, supporting Markdown, LaTeX, Local RAG, and RLHF Annotation for enhanced AI interactions.
       - id: ollama
         title: Ollama
         image: /images/applications/search/ollama/logo.png
