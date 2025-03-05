@@ -1394,6 +1394,12 @@ catalog_list:
         url: /applications/others/comfyui
         category: others
         description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs.
+      - id: jupyter-notebook
+        title: Jupyter-Notebook
+        image: /images/applications/ai-gpu/jupyter-notebook/logo.png
+        url: /applications/ai-gpu/jupyter-notebook
+        category: ai-gpu
+        description: Jupyter Notebook is a web-based interactive environment for coding, data analysis, and visualization. It supports multiple programming languages and integrates with big-data tools like Apache Spark and TensorFlow.
       - id: jupyterhub
         title: JupyterHub
         image: /images/applications/ai-gpu/jupyterhub/logo.png
