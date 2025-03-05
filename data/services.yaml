@@ -56,6 +56,8 @@ catalog_categories:
         name: HCM
       - id: hrms
         name: HRMS
+      - id: ai-gpu
+        name: AI / GPU
       - id: others
         name: Other Applications
   - name: Development
@@ -1392,6 +1394,12 @@ catalog_list:
         url: /applications/others/comfyui
         category: others
         description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs.
+      - id: jupyterhub
+        title: JupyterHub
+        image: /images/applications/ai-gpu/jupyterhub/logo.png
+        url: /applications/ai-gpu/jupyterhub
+        category: ai-gpu
+        description: JupyterHub is an open-source platform that enables multi-user access to Jupyter Notebooks, making it ideal for classrooms, research teams, and enterprise data science groups.
   - name: Development
     id: development
     services:

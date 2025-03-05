@@ -23,7 +23,6 @@ content:
   logo: /images/applications/search/openwebui/logo.png
   website: https://openwebui.com/
   iframe_website: /website/applications/search/openwebui
-  direct_link: true
   screenshots:
     - /images/applications/search/openwebui/screenshot-1.webp
     - /images/applications/search/openwebui/screenshot-2.png
