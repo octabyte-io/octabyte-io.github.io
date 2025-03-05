@@ -248,8 +248,6 @@ pricing:
           value: Shared
         - name: Custom Domain
           value: no
-        - name: Number of Apps
-          value: 1
 
     - name: Professional
       price: 15
@@ -271,8 +269,6 @@ pricing:
           value: yes
         - name: Custom Domain
           value: yes
-        - name: Number of Apps
-          value: 1
 
     - name: Business
       price: 28
@@ -294,8 +290,6 @@ pricing:
           value: yes
         - name: Custom Domain
           value: yes
-        - name: Number of Apps
-          value: up to 4
 
     - name: Enterprise
       price: 65
@@ -317,8 +311,6 @@ pricing:
           value: yes
         - name: Custom Domain
           value: yes
-        - name: Number of Apps
-          value: up to 10
 
 cta:
   title: "Start using your favorite 'open-source' app today"
