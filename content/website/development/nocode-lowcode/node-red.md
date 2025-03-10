@@ -1,6 +1,10 @@
 ---
 draft: false
 title: Node-red
+
+meta:
+  canonical: /website/applications/automation/node-red/
+
 content:
   id: node-red
   name: Node-red

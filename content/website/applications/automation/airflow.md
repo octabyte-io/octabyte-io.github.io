@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Airflow - Automate and Manage Complex Workflows with Ease"
+
+meta:
+  canonical: /website/development/dev-ops/airflow
+
 content:
   id: airflow
   name: Airflow
