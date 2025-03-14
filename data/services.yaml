@@ -2270,6 +2270,12 @@ catalog_list:
         url: /hosting-and-infrastructure/containers/nexus3
         category: containers
         description: Nexus3 is the leading repository manager, supporting a wide range of build tools and enabling efficient distribution of components, binaries, and containers to developers worldwide.
+      - id: rke2
+        title: RKE2
+        image: /images/hosting-and-infrastructure/containers/rke2/logo.png
+        url: /hosting-and-infrastructure/containers/rke2
+        category: containers
+        description: RKE2 is a security-focused Kubernetes distribution by Rancher, designed for enterprise and government use. It ensures compliance with FIPS 140-2 standards and supports air-gapped deployments.
       - id: itop
         title: iTop
         image: /images/hosting-and-infrastructure/infrastructure/itop/logo.png
