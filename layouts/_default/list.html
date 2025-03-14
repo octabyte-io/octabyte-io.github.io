@@ -56,28 +56,27 @@
 
             searchInput.addEventListener("input", (e) => {
               const query = e.target.value.toLowerCase().trim();
-              const results = [];
+              let titleMatches = [];
+              let descriptionMatches = [];
 
               if (query) {
                 allSoftwares.forEach(category => {
                   category.services.forEach(service => {
-                    if (
-                      service.title.toLowerCase().includes(query) ||
-                      service.description.toLowerCase().includes(query)
-                    ) {
-                      const alreadyExists = results.find(
-                        (result) => result.id === service.id
-                      );
+                    const titleMatch = service.title.toLowerCase().includes(query);
+                    const descriptionMatch = service.description.toLowerCase().includes(query);
 
-                      if (!alreadyExists) {
-                        results.push(service);
-                      }
+                    if (titleMatch) {
+                      titleMatches.push(service);
+                    } else if (descriptionMatch) {
+                      descriptionMatches.push(service);
                     }
                   });
                 });
               }
 
-              renderResults(results);
+              const sortedResults = [...titleMatches, ...descriptionMatches].slice(0, 10);
+
+              renderResults(sortedResults);
             });
 
             const renderResults = (results) => {
