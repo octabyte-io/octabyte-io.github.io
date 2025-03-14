@@ -1,6 +1,6 @@
 ---
 draft: false
-title: rke2 fully managed open source service | OctaByte.io
+title: RKE2 fully managed open source service | OctaByte.io
 meta:
   cover: /images/hosting-and-infrastructure/containers/rke2/screenshot-1.png
   description: RKE2 is a security-focused Kubernetes distribution by Rancher, designed for enterprise and government use. It ensures compliance with FIPS 140-2 standards and supports air-gapped deployments.
