@@ -326,6 +326,12 @@ catalog_list:
         url: /applications/crm-erp/frappehr
         category: crm-erp hrms
         description: FrappeHR is an open-source HRMS that simplifies HR and payroll management with automation, customization, and an intuitive UI for a seamless experience.
+      - id: civicrm
+        title: CiviCRM
+        image: /images/applications/crm-erp/civicrm/logo.png
+        url: /applications/crm-erp/civicrm
+        category: crm-erp
+        description: CiviCRM is a flexible, open-source CRM designed for nonprofits and civic organizations. It offers powerful tools for donor management, bulk messaging, event planning, and case management to enhance community engagement.
       - id: joplin
         title: Joplin
         image: /images/applications/note-taking/joplin/logo.png
