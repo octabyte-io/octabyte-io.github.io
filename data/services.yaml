@@ -506,6 +506,12 @@ catalog_list:
         url: /applications/live-chat/jitsi
         category: live-chat
         description: Jitsi is an open-source, multiplatform video conferencing and messaging solution that enables secure, high-quality communication without the need for accounts. It supports voice, video, and instant messaging on web, Windows, Linux, macOS, iOS, and Android devices.
+      - id: jibri
+        title: Jibri
+        image: /images/applications/live-chat/jibri/logo.png
+        url: /applications/live-chat/jibri
+        category: live-chat
+        description: Jibri is the essential tool for recording and live streaming Jitsi Meet video conferences. Seamlessly capture meetings and broadcast them to platforms like YouTube and Facebook Live.
       - id: zulip
         title: Zulip
         image: /images/applications/live-chat/zulip/logo.png
