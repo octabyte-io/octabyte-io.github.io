@@ -1637,6 +1637,12 @@ catalog_list:
         url: /development/dev-tools/flagsmith
         category: dev-tools
         description: Flagsmith is a powerful feature flag tool that enables real-time changes to apps without requiring code updates or app store approvals. Easily manage flags across multiple platforms and drive precise A/B/n testing with advanced segmentation.
+      - id: repman
+        title: Repman
+        image: /images/development/dev-tools/repman/logo.png
+        url: /development/dev-tools/repman
+        category: dev-tools
+        description: Repman is a powerful Packagist proxy and private package host for PHP Composer, enabling seamless dependency management with GitHub, GitLab, and Bitbucket integration.
       - id: pritunl
         title: Pritunl
         image: /images/development/network/pritunl/logo.png
