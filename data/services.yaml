@@ -1004,6 +1004,12 @@ catalog_list:
         url: /applications/cms/strapi
         category: cms
         description: Strapi is a fully customizable, developer-first headless CMS built with JavaScript, enabling efficient content management and seamless integrations.
+      - id: omeka
+        title: Omeka
+        image: /images/applications/cms/omeka/logo.png
+        url: /applications/cms/omeka
+        category: cms
+        description: Omeka is an open-source web publishing platform that empowers museums, libraries, and scholars to create and manage digital collections with ease.
       - id: freescout
         title: FreeScout
         image: /images/applications/customer-support/freescout/logo.png
