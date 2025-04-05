@@ -2,7 +2,7 @@
 draft: false
 title: Penpot fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/penpot/screenshot-1.jpg
+  cover: /images/applications/project-management/penpot/screenshot-1.jpg
   description:
     Penpot is an open-source, web-based design and prototyping platform
     that supports real-time collaboration, SVG compatibility, and interactive prototyping
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Project management
+      url: /fully-managed-open-source-services/applications/project-management
     - name: Penpot
-      url: /fully-managed-open-source-services/applications/others/penpot
+      url: /fully-managed-open-source-services/applications/project-management/penpot
 content:
   id: penpot
   name: Penpot
   title: The Ultimate Open-Source Design and Prototyping Platform
-  logo: /images/applications/others/penpot/logo.png
+  logo: /images/applications/project-management/penpot/logo.png
   website: https://penpot.app/
-  iframe_website: /website/applications/others/penpot
+  iframe_website: /website/applications/project-management/penpot
   screenshots:
-    - /images/applications/others/penpot/screenshot-1.jpg
-    - /images/applications/others/penpot/screenshot-2.jpg
+    - /images/applications/project-management/penpot/screenshot-1.jpg
+    - /images/applications/project-management/penpot/screenshot-2.jpg
 ---
 
 ## Overview
