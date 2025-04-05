@@ -2,7 +2,7 @@
 draft: false
 title: Tolgee fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/tolgee/screenshot-1.jpg
+  cover: /images/applications/documentation/tolgee/screenshot-1.jpg
   description:
     Tolgee is a developer-centric localization platform that simplifies
     translating applications into any language, supporting web, mobile, and desktop
@@ -21,20 +21,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
     - name: Tolgee
-      url: /fully-managed-open-source-services/applications/others/tolgee
+      url: /fully-managed-open-source-services/applications/documentation/tolgee
 content:
   id: tolgee
   name: Tolgee
   title: The Ultimate Localization Platform for Effortless Translation Management
-  logo: /images/applications/others/tolgee/logo.png
+  logo: /images/applications/documentation/tolgee/logo.png
   website: https://tolgee.io/
-  iframe_website: /website/applications/others/tolgee
+  iframe_website: /website/applications/documentation/tolgee
   screenshots:
-    - /images/applications/others/tolgee/screenshot-1.jpg
-    - /images/applications/others/tolgee/screenshot-2.jpg
+    - /images/applications/documentation/tolgee/screenshot-1.jpg
+    - /images/applications/documentation/tolgee/screenshot-2.jpg
 ---
 
 ## Overview
