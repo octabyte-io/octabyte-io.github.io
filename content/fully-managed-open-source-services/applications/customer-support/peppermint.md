@@ -2,7 +2,7 @@
 draft: false
 title: Peppermint fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/peppermint/screenshot-1.jpeg
+  cover: /images/applications/customer-support/peppermint/screenshot-1.jpeg
   description:
     Peppermint is an open-source helpdesk platform offering cost-effective,
     feature-rich solutions for customer support teams.
@@ -17,20 +17,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Customer support
+      url: /fully-managed-open-source-services/applications/customer-support
     - name: Peppermint
-      url: /fully-managed-open-source-services/applications/others/peppermint
+      url: /fully-managed-open-source-services/applications/customer-support/peppermint
 content:
   id: peppermint
   name: Peppermint
   title: The Open-Source Helpdesk Solution Redefining Customer Support
-  logo: /images/applications/others/peppermint/logo.png
+  logo: /images/applications/customer-support/peppermint/logo.png
   website: https://peppermint.sh/
-  iframe_website: /website/applications/others/peppermint
+  iframe_website: /website/applications/customer-support/peppermint
   screenshots:
-    - /images/applications/others/peppermint/screenshot-1.jpeg
-    - /images/applications/others/peppermint/screenshot-2.png
+    - /images/applications/customer-support/peppermint/screenshot-1.jpeg
+    - /images/applications/customer-support/peppermint/screenshot-2.png
 ---
 
 ## Overview
