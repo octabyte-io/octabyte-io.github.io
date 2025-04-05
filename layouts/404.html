@@ -1,8 +1,27 @@
 {{ define "main" }}
-  <div class="bg-white">
+  <script>
+    function redirectPage() {
+      const pageRedirects = {};
+
+      const path = window.location.pathname;
+
+      if (pageRedirects[path]) {
+        document.getElementById("404-content").style.display = "none";
+        document.getElementById("redirect-content").style.display = "block";
+        const newUrl = pageRedirects[path];
+        document.getElementById("redirect-link").href = newUrl;
+        window.location.replace(newUrl);
+      }
+    }
+
+    window.onload = function () {
+      redirectPage();
+    };
+  </script>
+  <div class="isolate">
     <main class="mx-auto w-full max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-xl py-16 sm:py-24">
-        <div class="text-center">
+        <div id="404-content" class="text-center">
           <p class="text-base font-semibold text-indigo-600">404</p>
           <h1
             class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
@@ -10,6 +29,21 @@
           </h1>
           <p class="mt-2 text-lg text-gray-500">
             The page you are looking for could not be found.
+          </p>
+        </div>
+        <div id="redirect-content" style="display: none;" class="text-center">
+          <h1
+            class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            Redirecting...
+          </h1>
+          <p class="mt-2 text-lg text-gray-500">
+            If you're not redirected automatically,
+            <a
+              id="redirect-link"
+              class="text-base font-semibold text-indigo-600"
+              href="#">
+              click here
+            </a>
           </p>
         </div>
       </div>
