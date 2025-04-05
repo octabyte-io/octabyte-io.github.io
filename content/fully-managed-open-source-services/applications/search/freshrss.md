@@ -2,7 +2,7 @@
 draft: false
 title: FreshRSS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/freshrss/screenshot-1.webp
+  cover: /images/applications/search/freshrss/screenshot-1.webp
   description:
     FreshRSS is a customizable, self-hosted RSS and Atom feed aggregator
     with support for web scraping and JSON, designed for managing large volumes of
@@ -19,20 +19,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Search
+      url: /fully-managed-open-source-services/applications/search
     - name: FreshRSS
-      url: /fully-managed-open-source-services/applications/others/freshrss
+      url: /fully-managed-open-source-services/applications/search/freshrss
 content:
   id: freshrss
   name: FreshRSS
   title: The Ultimate Self-Hosted RSS & Atom Feed Aggregator
-  logo: /images/applications/others/freshrss/logo.png
+  logo: /images/applications/search/freshrss/logo.png
   website: https://freshrss.org/
-  iframe_website: /website/applications/others/freshrss
+  iframe_website: /website/applications/search/freshrss
   screenshots:
-    - /images/applications/others/freshrss/screenshot-1.webp
-    - /images/applications/others/freshrss/screenshot-2.webp
+    - /images/applications/search/freshrss/screenshot-1.webp
+    - /images/applications/search/freshrss/screenshot-2.webp
 ---
 
 ## Overview
