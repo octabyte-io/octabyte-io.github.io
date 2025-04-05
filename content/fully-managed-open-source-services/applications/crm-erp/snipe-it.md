@@ -2,7 +2,7 @@
 draft: false
 title: Snipe-it fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/snipe-it/screenshot-1.webp
+  cover: /images/applications/crm-erp/snipe-it/screenshot-1.webp
   description:
     Snipe-IT simplifies IT asset management, offering secure tracking of
     hardware, software, and accessories with powerful features like automated security,
@@ -18,21 +18,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: CRM / ERP
+      url: /fully-managed-open-source-services/applications/crm-erp
     - name: Snipe-it
-      url: /fully-managed-open-source-services/applications/others/snipe-it
+      url: /fully-managed-open-source-services/applications/crm-erp/snipe-it
 content:
   id: snipe-it
   name: Snipe-it
   title: Streamlined IT Asset Management Solution for Enhanced Efficiency
-  logo: /images/applications/others/snipe-it/logo.png
+  logo: /images/applications/crm-erp/snipe-it/logo.png
   website: https://snipeitapp.com/support
-  iframe_website: /website/applications/others/snipe-it
+  iframe_website: /website/applications/crm-erp/snipe-it
   direct_link: true
   screenshots:
-    - /images/applications/others/snipe-it/screenshot-1.webp
-    - /images/applications/others/snipe-it/screenshot-2.png
+    - /images/applications/crm-erp/snipe-it/screenshot-1.webp
+    - /images/applications/crm-erp/snipe-it/screenshot-2.png
 ---
 
 ## Overview
