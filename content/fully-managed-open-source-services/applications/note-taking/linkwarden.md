@@ -2,7 +2,7 @@
 draft: false
 title: Linkwarden fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/linkwarden/screenshot-1.png
+  cover: /images/applications/note-taking/linkwarden/screenshot-1.png
   description:
     Linkwarden is a collaborative bookmark manager that helps individuals
     and teams collect, organize, and preserve web pages. Safeguard your resources
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Note taking
+      url: /fully-managed-open-source-services/applications/note-taking
     - name: Linkwarden
-      url: /fully-managed-open-source-services/applications/others/linkwarden
+      url: /fully-managed-open-source-services/applications/note-taking/linkwarden
 content:
   id: linkwarden
   name: Linkwarden
   title: Collaborative Bookmark Manager for Teams and Individuals
-  logo: /images/applications/others/linkwarden/logo.png
+  logo: /images/applications/note-taking/linkwarden/logo.png
   website: https://linkwarden.app/
-  iframe_website: /website/applications/others/linkwarden
+  iframe_website: /website/applications/note-taking/linkwarden
   screenshots:
-    - /images/applications/others/linkwarden/screenshot-1.png
-    - /images/applications/others/linkwarden/screenshot-2.png
+    - /images/applications/note-taking/linkwarden/screenshot-1.png
+    - /images/applications/note-taking/linkwarden/screenshot-2.png
 ---
 
 ## Overview
