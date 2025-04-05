@@ -2,7 +2,7 @@
 draft: false
 title: Wazuh fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/wazuh/screenshot-1.png
+  cover: /images/hosting-and-infrastructure/monitoring/wazuh/screenshot-1.png
   description:
     Wazuh is an open-source security platform that delivers unified XDR
     and SIEM protection for endpoints, cloud workloads, and containers, offering powerful
@@ -16,23 +16,23 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
     - name: Wazuh
-      url: /fully-managed-open-source-services/applications/others/wazuh
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/wazuh
 content:
   id: wazuh
   name: Wazuh
   title: Open-Source Security Platform for Unified XDR and SIEM Protection
-  logo: /images/applications/others/wazuh/logo.png
+  logo: /images/hosting-and-infrastructure/monitoring/wazuh/logo.png
   website: https://wazuh.com/
-  iframe_website: /website/applications/others/wazuh
+  iframe_website: /website/hosting-and-infrastructure/monitoring/wazuh
   direct_link: true
   screenshots:
-    - /images/applications/others/wazuh/screenshot-1.png
-    - /images/applications/others/wazuh/screenshot-2.png
+    - /images/hosting-and-infrastructure/monitoring/wazuh/screenshot-1.png
+    - /images/hosting-and-infrastructure/monitoring/wazuh/screenshot-2.png
 ---
 
 ## Overview
