@@ -2,7 +2,7 @@
 draft: false
 title: Kener fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/kener/screenshot-1.webp
+  cover: /images/hosting-and-infrastructure/monitoring/kener/screenshot-1.webp
   description: Kener is a modern, open-source status page system with real-time monitoring, incident management, and customization options for a seamless user experience.
   keywords: status page, uptime monitoring, incident management, self-hosted status page, SvelteKit status page, NodeJS monitoring, custom status page, real-time network monitoring, website uptime checker, open-source status page
   breadcrumb:
@@ -10,23 +10,23 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
     - name: Kener
-      url: /fully-managed-open-source-services/applications/others/kener
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/kener
 content:
   id: kener
   name: Kener
   title: A Modern, Lightweight Status Page System
-  logo: /images/applications/others/kener/logo.png
+  logo: /images/hosting-and-infrastructure/monitoring/kener/logo.png
   website: https://kener.ing/
-  iframe_website: /website/applications/others/kener
+  iframe_website: /website/hosting-and-infrastructure/monitoring/kener
   direct_link: true
   screenshots:
-    - /images/applications/others/kener/screenshot-1.webp
-    - /images/applications/others/kener/screenshot-2.jpg
+    - /images/hosting-and-infrastructure/monitoring/kener/screenshot-1.webp
+    - /images/hosting-and-infrastructure/monitoring/kener/screenshot-2.jpg
 ---
 
 ## Overview
