@@ -2,7 +2,7 @@
 draft: false
 title: Akaunting fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/akaunting/screenshot-1.png
+  cover: /images/applications/invoicing-and-payments/akaunting/screenshot-1.png
   description:
     Akaunting is a free, open-source accounting software for small businesses,
     offering tools like invoicing, expense tracking, multi-currency support, and powerful
@@ -18,21 +18,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Invoicing and payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
     - name: Akaunting
-      url: /fully-managed-open-source-services/applications/others/akaunting
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/akaunting
 content:
   id: akaunting
   name: Akaunting
   title: Open-Source Accounting Software for Small Businesses
-  logo: /images/applications/others/akaunting/logo.png
+  logo: /images/applications/invoicing-and-payments/akaunting/logo.png
   website: https://akaunting.com/open-source-accounting-software
-  iframe_website: /website/applications/others/akaunting
+  iframe_website: /website/applications/invoicing-and-payments/akaunting
   direct_link: true
   screenshots:
-    - /images/applications/others/akaunting/screenshot-1.png
-    - /images/applications/others/akaunting/screenshot-2.png
+    - /images/applications/invoicing-and-payments/akaunting/screenshot-1.png
+    - /images/applications/invoicing-and-payments/akaunting/screenshot-2.png
 ---
 
 ## Overview

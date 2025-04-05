@@ -1,9 +1,13 @@
 {{ define "main" }}
   <script>
     function redirectPage() {
-      const pageRedirects = {};
+      const pageRedirects = {
+        "/fully-managed-open-source-services/applications/others/akaunting/":
+          "/fully-managed-open-source-services/applications/invoicing-and-payments/akaunting/",
+      };
 
-      const path = window.location.pathname;
+      const rawPath = window.location.pathname;
+      const path = rawPath.endsWith("/") ? rawPath : rawPath + "/";
 
       if (pageRedirects[path]) {
         document.getElementById("404-content").style.display = "none";

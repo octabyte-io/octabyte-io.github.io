@@ -1164,253 +1164,253 @@ catalog_list:
         title: OnlyOffice
         image: /images/applications/others/onlyoffice/logo.png
         url: /applications/others/onlyoffice
-        category: others
+        category: invoicing-and-payments
         description: OnlyOffice is an all-in-one open-source office suite offering advanced tools for document management, collaboration, and productivity.
       - id: openslides
         title: OpenSlides
         image: /images/applications/others/openslides/logo.png
         url: /applications/others/openslides
-        category: others
+        category: invoicing-and-payments
         description: OpenSlides is a modern web-based software for efficient meeting and committee management, offering powerful tools for agendas, motions, and seamless collaboration.
       - id: yourls
         title: YOURLS
         image: /images/applications/others/yourls/logo.png
         url: /applications/others/yourls
-        category: others
+        category: invoicing-and-payments
         description: YOURLS is a free, open-source, self-hosted URL shortener in PHP, giving you complete control over your links and data with powerful features like detailed stats and plugin extensibility.
       - id: wger
         title: Wger
         image: /images/applications/others/wger/logo.png
         url: /applications/others/wger
-        category: others
+        category: invoicing-and-payments
         description: Wger Workout Manager is an open-source web app that helps you track workouts, diet plans, and progress. Plan meals, set goals, and manage your fitness routine easily. Ideal for both personal use and gym management.
       - id: ojs
         title: OJS
         image: /images/applications/others/ojs/logo.png
         url: /applications/others/ojs
-        category: others
+        category: invoicing-and-payments
         description: Open Journal Systems (OJS) is open-source software for managing scholarly journals, offering submission, peer review, editorial workflows, and global indexing.
       - id: iomad
         title: IOMAD
         image: /images/applications/others/iomad/logo.png
         url: /applications/others/iomad
-        category: others
+        category: invoicing-and-payments
         description: IOMAD is an open-source multi-tenancy platform for Moodle, offering scalable solutions for businesses and educational institutions with features like enhanced reporting, course management, and administrative control.
       - id: freshrss
         title: FreshRSS
         image: /images/applications/others/freshrss/logo.png
         url: /applications/others/freshrss
-        category: others
+        category: invoicing-and-payments
         description: FreshRSS is a customizable, self-hosted RSS and Atom feed aggregator with support for web scraping and JSON, designed for managing large volumes of content with ease.
       - id: linkwarden
         title: Linkwarden
         image: /images/applications/others/linkwarden/logo.png
         url: /applications/others/linkwarden
-        category: others
+        category: invoicing-and-payments
         description: Linkwarden is a collaborative bookmark manager that helps individuals and teams collect, organize, and preserve web pages. Safeguard your resources from link rot and share collections with ease.
       - id: xwiki
         title: XWiki
         image: /images/applications/others/xwiki/logo.png
         url: /applications/others/xwiki
-        category: others
+        category: invoicing-and-payments
         description: XWiki is a robust wiki platform designed to enhance collaboration, organize knowledge, and support enterprise integration with unmatched flexibility and extensibility.
       - id: librechat
         title: LibreChat
         image: /images/applications/others/librechat/logo.png
         url: /applications/others/librechat
-        category: others
+        category: invoicing-and-payments
         description: LibreChat is an advanced, customizable AI chat platform that supports multiple AI models and services, offering dynamic conversation control and integrations to enhance your communication experience.
       - id: tolgee
         title: Tolgee
         image: /images/applications/others/tolgee/logo.png
         url: /applications/others/tolgee
-        category: others
+        category: invoicing-and-payments
         description: Tolgee is a developer-centric localization platform that simplifies translating applications into any language, supporting web, mobile, and desktop apps. Integrating seamlessly into your development workflow, Tolgee streamlines translation management and offers powerful features like in-context translation and machine translation.
       - id: snipe-it
         title: Snipe-it
         image: /images/applications/others/snipe-it/logo.png
         url: /applications/others/snipe-it
-        category: others
+        category: invoicing-and-payments
         description: Snipe-IT simplifies IT asset management, offering secure tracking of hardware, software, and accessories with powerful features like automated security, admin dashboards, and easy integration.
       - id: docassemble
         title: Docassemble
         image: /images/applications/others/docassemble/logo.png
         url: /applications/others/docassemble
-        category: others
+        category: invoicing-and-payments
         description: Docassemble is a free, open-source system that automates guided interviews and document assembly, providing customized workflows and generating documents in multiple formats.
       - id: dashy
         title: Dashy
         image: /images/applications/others/dashy/logo.png
         url: /applications/others/dashy
-        category: others
+        category: invoicing-and-payments
         description: Dashy is a fully customizable, self-hostable dashboard that provides a streamlined interface for monitoring your apps and services with widgets, themes, icons, and status indicators. Perfect for tech enthusiasts and developers looking to optimize their workflow.
       - id: ragflow
         title: Ragflow
         image: /images/applications/others/ragflow/logo.png
         url: /applications/others/ragflow
-        category: others
+        category: invoicing-and-payments
         description: RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation) engine designed for deep document understanding, delivering accurate, citation-backed question answering when integrated with LLMs.
       - id: saltcorn
         title: Saltcorn
         image: /images/applications/others/saltcorn/logo.png
         url: /applications/others/saltcorn
-        category: others
+        category: invoicing-and-payments
         description: Saltcorn is a no-code platform for building powerful database web applications with an intuitive drag-and-drop interface. Create and manage your apps effortlessly without writing a single line of code.
       - id: peppermint
         title: Peppermint
         image: /images/applications/others/peppermint/logo.png
         url: /applications/others/peppermint
-        category: others
+        category: invoicing-and-payments
         description: Peppermint is an open-source helpdesk platform offering cost-effective, feature-rich solutions for customer support teams.
       - id: hi-events
         title: Hi-events
         image: /images/applications/others/hi-events/logo.png
         url: /applications/others/hi-events
-        category: others
+        category: invoicing-and-payments
         description: Hi.Events is a powerful, self-hosted event management and ticketing solution that empowers you to create, manage, and sell tickets for events of all sizes. From conferences to club nights, streamline your event operations with ease.
       - id: maybe
         title: Maybe
         image: /images/applications/others/maybe/logo.png
         url: /applications/others/maybe
-        category: others
+        category: invoicing-and-payments
         description: Take control of your financial future with Maybe, the open-source personal finance and wealth management app offering net worth tracking, financial account syncing, investment benchmarking, and more.
       - id: indico
         title: Indico
         image: /images/applications/others/indico/logo.png
         url: /applications/others/indico
-        category: others
+        category: invoicing-and-payments
         description: Indico is an open-source, feature-rich event management platform developed at CERN, designed to simplify the organization, archival, and collaboration of events of all sizes.
       - id: wazuh
         title: Wazuh
         image: /images/applications/others/wazuh/logo.png
         url: /applications/others/wazuh
-        category: others
+        category: invoicing-and-payments
         description: Wazuh is an open-source security platform that delivers unified XDR and SIEM protection for endpoints, cloud workloads, and containers, offering powerful threat hunting, behavioral analysis, and automated response capabilities.
       - id: saleor
         title: Saleor
         image: /images/applications/others/saleor/logo.png
         url: /applications/others/saleor
-        category: others
+        category: invoicing-and-payments
         description: Saleor is a cutting-edge, headless e-commerce API designed to help brands build scalable and extensible online stores, providing unmatched flexibility and performance for the future of digital commerce.
       - id: neko
         title: Neko Rooms
         image: /images/applications/others/neko/logo.png
         url: /applications/others/neko
-        category: others
+        category: invoicing-and-payments
         description: Neko Rooms is a self-hosted collaborative browser and room management system, providing a seamless alternative to Rabb.it for secure and synchronized online experiences.
       - id: mapzy
         title: Mapzy
         image: /images/applications/others/mapzy/logo.png
         url: /applications/others/mapzy
-        category: others
+        category: invoicing-and-payments
         description: Mapzy lets you add a stunning, code-free store locator to your website. It's simple, mobile-friendly, and privacy-conscious, offering both a managed service and self-hosting option.
       - id: moodle
         title: Moodle
         image: /images/applications/others/moodle/logo.png
         url: /applications/others/moodle
-        category: others
+        category: invoicing-and-payments
         description: Moodle is a free, open-source LMS enabling educators to create dynamic courses and collaborative learning environments, trusted by 213M+ users worldwide.
       - id: penpot
         title: Penpot
         image: /images/applications/others/penpot/logo.png
         url: /applications/others/penpot
-        category: others
+        category: invoicing-and-payments
         description: Penpot is an open-source, web-based design and prototyping platform that supports real-time collaboration, SVG compatibility, and interactive prototyping for cross-domain teams.
       - id: kimai
         title: Kimai
         image: /images/applications/others/kimai/logo.png
         url: /applications/others/kimai
-        category: others
+        category: invoicing-and-payments
         description: Kimai is a free, open-source, web-based time-tracking application for freelancers, agencies, and organizations. Track time, generate invoices, and manage projects effortlessly with its multi-user, multi-team features.
       - id: shlink
         title: Shlink
         image: /images/applications/others/shlink/logo.png
         url: /applications/others/shlink
-        category: others
+        category: invoicing-and-payments
         description: Shlink is a self-hosted URL shortener that lets you manage your links under custom domains, track visitor stats, and use multi-domain support, all with an easy-to-use API.
       - id: metatrader5
         title: MetaTrader5
         image: /images/applications/others/metatrader5/logo.png
         url: /applications/others/metatrader5
-        category: others
+        category: invoicing-and-payments
         description: MetaTrader 5 is a modern trading platform offering advanced tools, broker compatibility, and 24/7 accessibility for seamless trading experiences.
       - id: languagetool
         title: LanguageTool
         image: /images/applications/others/languagetool/logo.png
         url: /applications/others/languagetool
-        category: others
+        category: invoicing-and-payments
         description: LanguageTool is a multilingual writing assistant that provides grammar, style, and spell checking in over 20 languages, enhancing your writing with real-time suggestions. Available as a browser add-on and desktop integration, it ensures error-free writing across any platform.
       - id: traduora
         title: Traduora
         image: /images/applications/others/traduora/logo.png
         url: /applications/others/traduora
-        category: others
+        category: invoicing-and-payments
         description: Traduora provides an efficient and streamlined translation management system for enterprises and language service providers to automate and manage their translation workflows.
       - id: mealie
         title: Mealie
         image: /images/applications/others/mealie/logo.png
         url: /applications/others/mealie
-        category: others
+        category: invoicing-and-payments
         description: Mealie is a user-friendly, open-source recipe management app with meal planning, recipe importing, and group sharing features for all your culinary needs.
       - id: traggo
         title: Traggo
         image: /images/applications/others/traggo/logo.png
         url: /applications/others/traggo
-        category: others
+        category: invoicing-and-payments
         description: Traggo is a customizable tag-based time tracking tool that allows users to track time based on projects, task types, and more, offering a sleek interface and powerful user management features.
       - id: akaunting
         title: Akaunting
-        image: /images/applications/others/akaunting/logo.png
-        url: /applications/others/akaunting
-        category: others
+        image: /images/applications/invoicing-and-payments/akaunting/logo.png
+        url: /applications/invoicing-and-payments/akaunting
+        category: invoicing-and-payments
         description: Akaunting is a free, open-source accounting software for small businesses, offering tools like invoicing, expense tracking, multi-currency support, and powerful reporting.
       - id: parseable
         title: Parseable
         image: /images/applications/others/parseable/logo.png
         url: /applications/others/parseable
-        category: others
+        category: invoicing-and-payments
         description: Parseable is a high-performance, cloud-native log analytics platform focused on data security, scalability, and efficient resource usage.
       - id: anythingllm
         title: AnythingLLM
         image: /images/applications/others/anythingllm/logo.png
         url: /applications/others/anythingllm
-        category: others
+        category: invoicing-and-payments
         description: AnythingLLM transforms documents and content into chat-ready contexts for LLMs, offering multi-user support, model flexibility, and deep customization.
       - id: grist
         title: Grist
         image: /images/applications/others/grist/logo.png
         url: /applications/others/grist
-        category: others
+        category: invoicing-and-payments
         description: Grist is a next-gen relational spreadsheet combining the flexibility of a spreadsheet with the power of a database. It offers secure collaboration, customizable dashboards, and seamless scalability for teams.
       - id: iris
         title: IRIS
         image: /images/applications/others/iris/logo.png
         url: /applications/others/iris
-        category: others
+        category: invoicing-and-payments
         description: IRIS is a powerful, open-source incident response platform that enables seamless collaboration, alert management, and automation for cybersecurity teams.
       - id: langfuse
         title: Langfuse
         image: /images/applications/others/langfuse/logo.png
         url: /applications/others/langfuse
-        category: others
+        category: invoicing-and-payments
         description: Langfuse is an open-source LLM engineering platform offering observability, prompt management, metrics, and evaluations with seamless integrations and enterprise-ready deployment options.
       - id: postiz
         title: Postiz
         image: /images/applications/others/postiz/logo.png
         url: /applications/others/postiz
-        category: others
+        category: invoicing-and-payments
         description: Postiz is an AI-powered social media scheduling tool that helps you create, schedule, and manage posts effortlessly while boosting engagement and growth.
       - id: kener
         title: Kener
         image: /images/applications/others/kener/logo.png
         url: /applications/others/kener
-        category: others
+        category: invoicing-and-payments
         description: Kener is a modern, open-source status page system with real-time monitoring, incident management, and customization options for a seamless user experience.
       - id: comfyui
         title: ComfyUi
         image: /images/applications/others/comfyui/logo.avif
         url: /applications/others/comfyui
-        category: others
+        category: invoicing-and-payments
         description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs.
       - id: jupyter-notebook
         title: Jupyter-Notebook
@@ -1989,79 +1989,79 @@ catalog_list:
         title: Hoppscotch
         image: /images/development/others/hoppscotch/logo.png
         url: /development/others/hoppscotch
-        category: others
+        category: invoicing-and-payments
         description: Hoppscotch is a free, open-source API development tool that offers a fast, lightweight, and user-friendly interface for building and testing APIs.
       - id: teable
         title: Teable
         image: /images/development/others/teable/logo.png
         url: /development/others/teable
-        category: others
+        category: invoicing-and-payments
         description: Teable is a no-code, PostgreSQL-based database platform that offers real-time, scalable solutions with a user-friendly, spreadsheet-like interface, enabling rapid, efficient app development.
       - id: zep
         title: Zep
         image: /images/development/others/zep/logo.png
         url: /development/others/zep
-        category: others
+        category: invoicing-and-payments
         description: Zep empowers AI assistants with long-term memory, enabling them to recall, understand, and extract data from chat histories for personalized, smarter user interactions.
       - id: langflow
         title: Langflow
         image: /images/development/others/langflow/logo.png
         url: /development/others/langflow
-        category: others
+        category: invoicing-and-payments
         description: Langflow is an open-source, Python-powered visual framework for creating multi-agent and RAG applications. Fully customizable and model-agnostic, it empowers developers to experiment with AI in new and innovative ways.
       - id: labelstudio
         title: LabelStudio
         image: /images/development/others/labelstudio/logo.png
         url: /development/others/labelstudio
-        category: others
+        category: invoicing-and-payments
         description: Label Studio is a flexible data labeling tool for machine learning, supporting multiple data types and providing features like ML-assisted labeling, project management, and seamless integration with your ML pipeline.
       - id: qdrant
         title: Qdrant
         image: /images/development/others/qdrant/logo.png
         url: /development/others/qdrant
-        category: others
+        category: invoicing-and-payments
         description: Qdrant is a high-performance vector database and similarity search engine, ideal for semantic matching, neural networks, and faceted search. It offers advanced filtering, high scalability, and a simple API for developers.
       - id: llana
         title: Llana
         image: /images/development/others/llana/logo.png
         url: /development/others/llana
-        category: others
+        category: invoicing-and-payments
         description: Llana is a no-code API wrapper that generates REST APIs for databases in minutes. Open-source and free, it eliminates the need for manual API development, saving you time and effort.
       - id: libretranslate
         title: LibreTranslate
         image: /images/development/others/libretranslate/logo.png
         url: /development/others/libretranslate
-        category: others
+        category: invoicing-and-payments
         description: LibreTranslate is a free, open-source, and self-hosted machine translation API that supports 29 languages and ensures full privacy without relying on proprietary services like Google or Azure.
       - id: daptin
         title: Daptin
         image: /images/development/others/daptin/logo.png
         url: /development/others/daptin
-        category: others
+        category: invoicing-and-payments
         description: Daptin is an open-source backend framework that simplifies building and deploying production-ready JSONAPI microservices with cloud storage integration and flexible API handling.
       - id: quant-ux
         title: Quant-UX
         image: /images/development/others/quant-ux/logo.png
         url: /development/others/quant-ux
-        category: others
+        category: invoicing-and-payments
         description: Quant-UX simplifies prototype creation and usability testing. Design interactive prototypes in minutes and gather user feedback with ease to validate your ideas.
       - id: flowiseai
         title: FlowiseAI
         image: /images/development/others/flowiseai/logo.png
         url: /development/others/flowiseai
-        category: others
+        category: invoicing-and-payments
         description: FlowiseAI is an open-source visual tool that allows you to create personalized LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS and TypeScript/JavaScript. Build intelligent AI-driven applications quickly and efficiently with FlowiseAI.
       - id: checkmate
         title: Checkmate
         image: /images/development/others/checkmate/logo.png
         url: /development/others/checkmate
-        category: others
+        category: invoicing-and-payments
         description: Checkmate is an open-source monitoring tool for tracking server performance, website uptime, and network latency in real-time.
       - id: krakend
         title: KrakenD
         image: /images/development/others/krakend/logo.png
         url: /development/others/krakend
-        category: others
+        category: invoicing-and-payments
         description: KrakenD is a distributed, stateless API Gateway designed to streamline microservices adoption with powerful features like content aggregation, format transformation, and advanced security measures.
   - name: Hosting and Infrastructure
     id: hosting-and-infrastructure
