@@ -2,7 +2,7 @@
 draft: false
 title: AnythingLLM fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/anythingllm/screenshot-1.png
+  cover: /images/applications/ai-gpu/anythingllm/screenshot-1.png
   description:
     AnythingLLM transforms documents and content into chat-ready contexts
     for LLMs, offering multi-user support, model flexibility, and deep customization.
@@ -17,20 +17,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: AI/GPU
+      url: /fully-managed-open-source-services/applications/ai-gpu
     - name: AnythingLLM
-      url: /fully-managed-open-source-services/applications/others/anythingllm
+      url: /fully-managed-open-source-services/applications/ai-gpu/anythingllm
 content:
   id: anythingllm
   name: AnythingLLM
   title: The Ultimate AI-Powered Document and Resource Chat Solution
-  logo: /images/applications/others/anythingllm/logo.png
+  logo: /images/applications/ai-gpu/anythingllm/logo.png
   website: https://useanything.com/
-  iframe_website: /website/applications/others/anythingllm
+  iframe_website: /website/applications/ai-gpu/anythingllm
   screenshots:
-    - /images/applications/others/anythingllm/screenshot-1.png
-    - /images/applications/others/anythingllm/screenshot-2.png
+    - /images/applications/ai-gpu/anythingllm/screenshot-1.png
+    - /images/applications/ai-gpu/anythingllm/screenshot-2.png
 ---
 
 ## Overview

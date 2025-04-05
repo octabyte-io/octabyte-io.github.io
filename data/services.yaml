@@ -1372,9 +1372,9 @@ catalog_list:
         description: Parseable is a high-performance, cloud-native log analytics platform focused on data security, scalability, and efficient resource usage.
       - id: anythingllm
         title: AnythingLLM
-        image: /images/applications/others/anythingllm/logo.png
-        url: /applications/others/anythingllm
-        category: invoicing-and-payments
+        image: /images/applications/ai-gpu/anythingllm/logo.png
+        url: /applications/ai-gpu/anythingllm
+        category: ai-gpu
         description: AnythingLLM transforms documents and content into chat-ready contexts for LLMs, offering multi-user support, model flexibility, and deep customization.
       - id: grist
         title: Grist
