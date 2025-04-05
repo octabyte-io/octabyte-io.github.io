@@ -1296,7 +1296,7 @@ catalog_list:
         title: Mapzy
         image: /images/applications/others/mapzy/logo.png
         url: /applications/others/mapzy
-        category: note-taking
+        category: others
         description: Mapzy lets you add a stunning, code-free store locator to your website. It's simple, mobile-friendly, and privacy-conscious, offering both a managed service and self-hosting option.
       - id: moodle
         title: Moodle
