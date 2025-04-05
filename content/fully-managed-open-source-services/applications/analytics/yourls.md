@@ -2,7 +2,7 @@
 draft: false
 title: YOURLS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/yourls/screenshot-1.png
+  cover: /images/applications/analytics/yourls/screenshot-1.png
   description:
     YOURLS is a free, open-source, self-hosted URL shortener in PHP, giving
     you complete control over your links and data with powerful features like detailed
@@ -17,21 +17,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Analytics
+      url: /fully-managed-open-source-services/applications/analytics
     - name: YOURLS
-      url: /fully-managed-open-source-services/applications/others/yourls
+      url: /fully-managed-open-source-services/applications/analytics/yourls
 content:
   id: yourls
   name: YOURLS
   title: The Best Self-Hosted URL Shortener for Full Control and Customization
-  logo: /images/applications/others/yourls/logo.png
+  logo: /images/applications/analytics/yourls/logo.png
   website: https://yourls.org/
-  iframe_website: /website/applications/others/yourls
+  iframe_website: /website/applications/analytics/yourls
   direct_link: true
   screenshots:
-    - /images/applications/others/yourls/screenshot-1.png
-    - /images/applications/others/yourls/screenshot-2.webp
+    - /images/applications/analytics/yourls/screenshot-1.png
+    - /images/applications/analytics/yourls/screenshot-2.webp
 ---
 
 ## Overview
