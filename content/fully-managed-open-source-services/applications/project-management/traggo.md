@@ -2,7 +2,7 @@
 draft: false
 title: Traggo fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/traggo/screenshot-1.png
+  cover: /images/applications/project-management/traggo/screenshot-1.png
   description:
     Traggo is a customizable tag-based time tracking tool that allows users
     to track time based on projects, task types, and more, offering a sleek interface
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Project Management
+      url: /fully-managed-open-source-services/applications/project-management
     - name: Traggo
-      url: /fully-managed-open-source-services/applications/others/traggo
+      url: /fully-managed-open-source-services/applications/project-management/traggo
 content:
   id: traggo
   name: Traggo
   title: Tag-Based Time Tracking Tool for Seamless Productivity
-  logo: /images/applications/others/traggo/logo.png
+  logo: /images/applications/project-management/traggo/logo.png
   website: https://traggo.net/
-  iframe_website: /website/applications/others/traggo
+  iframe_website: /website/applications/project-management/traggo
   screenshots:
-    - /images/applications/others/traggo/screenshot-1.png
-    - /images/applications/others/traggo/screenshot-2.png
+    - /images/applications/project-management/traggo/screenshot-1.png
+    - /images/applications/project-management/traggo/screenshot-2.png
 ---
 
 ## Overview
