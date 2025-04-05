@@ -1332,8 +1332,8 @@ catalog_list:
         description: LanguageTool is a multilingual writing assistant that provides grammar, style, and spell checking in over 20 languages, enhancing your writing with real-time suggestions. Available as a browser add-on and desktop integration, it ensures error-free writing across any platform.
       - id: traduora
         title: Traduora
-        image: /images/applications/others/traduora/logo.png
-        url: /applications/others/traduora
+        image: /images/applications/documentation/traduora/logo.png
+        url: /applications/documentation/traduora
         category: documentation
         description: Traduora provides an efficient and streamlined translation management system for enterprises and language service providers to automate and manage their translation workflows.
       - id: mealie

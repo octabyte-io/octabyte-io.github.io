@@ -2,7 +2,7 @@
 draft: false
 title: Traduora fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/traduora/screenshot-1.png
+  cover: /images/applications/documentation/traduora/screenshot-1.png
   description:
     Traduora provides an efficient and streamlined translation management
     system for enterprises and language service providers to automate and manage their
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
     - name: Traduora
-      url: /fully-managed-open-source-services/applications/others/traduora
+      url: /fully-managed-open-source-services/applications/documentation/traduora
 content:
   id: traduora
   name: Traduora
   title: A Modern Translation Management System for Enterprises
-  logo: /images/applications/others/traduora/logo.png
+  logo: /images/applications/documentation/traduora/logo.png
   website: https://traduora.co/
-  iframe_website: /website/applications/others/traduora
+  iframe_website: /website/applications/documentation/traduora
   screenshots:
-    - /images/applications/others/traduora/screenshot-1.png
-    - /images/applications/others/traduora/screenshot-2.png
+    - /images/applications/documentation/traduora/screenshot-1.png
+    - /images/applications/documentation/traduora/screenshot-2.png
 ---
 
 ## Overview
