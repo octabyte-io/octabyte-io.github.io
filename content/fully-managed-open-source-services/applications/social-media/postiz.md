@@ -2,7 +2,7 @@
 draft: false
 title: Postiz fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/postiz/screenshot-1.avif
+  cover: /images/applications/social-media/postiz/screenshot-1.avif
   description: Postiz is an AI-powered social media scheduling tool that helps you create, schedule, and manage posts effortlessly while boosting engagement and growth.
   keywords: Social media scheduling, AI content creation, social media management, post scheduling tool, AI social media assistant, content automation, social media marketing, lead generation, AI-powered visuals, team collaboration
   breadcrumb:
@@ -12,21 +12,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Social media
+      url: /fully-managed-open-source-services/applications/social-media
     - name: Postiz
-      url: /fully-managed-open-source-services/applications/others/postiz
+      url: /fully-managed-open-source-services/applications/social-media/postiz
 content:
   id: postiz
   name: Postiz
   title: Boost Your Social Media Growth with Postiz – AI-Powered Scheduling & Engagement
-  logo: /images/applications/others/postiz/logo.png
+  logo: /images/applications/social-media/postiz/logo.png
   website: https://postiz.com/
-  iframe_website: /website/applications/others/postiz
+  iframe_website: /website/applications/social-media/postiz
   direct_link: true
   screenshots:
-    - /images/applications/others/postiz/screenshot-1.avif
-    - /images/applications/others/postiz/screenshot-2.webp
+    - /images/applications/social-media/postiz/screenshot-1.avif
+    - /images/applications/social-media/postiz/screenshot-2.webp
 ---
 
 ## Overview
