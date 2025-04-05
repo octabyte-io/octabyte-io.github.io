@@ -2,7 +2,7 @@
 draft: false
 title: Dashy fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/dashy/screenshot-1.png
+  cover: /images/development/dev-tools/dashy/screenshot-1.png
   description:
     Dashy is a fully customizable, self-hostable dashboard that provides
     a streamlined interface for monitoring your apps and services with widgets, themes,
@@ -17,22 +17,22 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Development
+      url: /fully-managed-open-source-services/development
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
     - name: Dashy
-      url: /fully-managed-open-source-services/applications/others/dashy
+      url: /fully-managed-open-source-services/development/dev-tools/dashy
 content:
   id: dashy
   name: Dashy
   title: The Ultimate Self-Hostable Personal Dashboard for Monitoring and Customization
-  logo: /images/applications/others/dashy/logo.png
+  logo: /images/development/dev-tools/dashy/logo.png
   website: https://dashy.to/
-  iframe_website: /website/applications/others/dashy
+  iframe_website: /website/development/dev-tools/dashy
   screenshots:
-    - /images/applications/others/dashy/screenshot-1.png
-    - /images/applications/others/dashy/screenshot-2.png
+    - /images/development/dev-tools/dashy/screenshot-1.png
+    - /images/development/dev-tools/dashy/screenshot-2.png
 ---
 
 ## Overview

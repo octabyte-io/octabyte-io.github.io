@@ -1238,12 +1238,6 @@ catalog_list:
         url: /applications/others/docassemble
         category: invoicing-and-payments
         description: Docassemble is a free, open-source system that automates guided interviews and document assembly, providing customized workflows and generating documents in multiple formats.
-      - id: dashy
-        title: Dashy
-        image: /images/applications/others/dashy/logo.png
-        url: /applications/others/dashy
-        category: invoicing-and-payments
-        description: Dashy is a fully customizable, self-hostable dashboard that provides a streamlined interface for monitoring your apps and services with widgets, themes, icons, and status indicators. Perfect for tech enthusiasts and developers looking to optimize their workflow.
       - id: ragflow
         title: Ragflow
         image: /images/applications/others/ragflow/logo.png
@@ -1511,6 +1505,12 @@ catalog_list:
         url: /development/dev-tools/jellyfin
         category: dev-tools
         description: Jellyfin is a free, open-source media server that lets you manage and stream your personal collection of movies, music, and TV shows. It's a flexible alternative to Emby and Plex with powerful features and no subscription fees.
+      - id: dashy
+        title: Dashy
+        image: /images/development/dev-tools/dashy/logo.png
+        url: /development/dev-tools/dashy
+        category: dev-tools
+        description: Dashy is a fully customizable, self-hostable dashboard that provides a streamlined interface for monitoring your apps and services with widgets, themes, icons, and status indicators. Perfect for tech enthusiasts and developers looking to optimize their workflow.
       - id: opnform
         title: OpnForm
         image: /images/development/dev-tools/opnform/logo.png
