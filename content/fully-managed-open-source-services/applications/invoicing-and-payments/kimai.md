@@ -2,7 +2,7 @@
 draft: false
 title: Kimai fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/kimai/screenshot-1.jpg
+  cover: /images/applications/invoicing-and-payments/kimai/screenshot-1.jpg
   description:
     Kimai is a free, open-source, web-based time-tracking application for
     freelancers, agencies, and organizations. Track time, generate invoices, and manage
@@ -18,22 +18,22 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Invoicing and Payments
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments
     - name: Kimai
-      url: /fully-managed-open-source-services/applications/others/kimai
+      url: /fully-managed-open-source-services/applications/invoicing-and-payments/kimai
 content:
   id: kimai
   name: Kimai
   title:
     "Track Time Efficiently with Kimai: The Ultimate Multi-User Time-Tracking
     Solution"
-  logo: /images/applications/others/kimai/logo.png
+  logo: /images/applications/invoicing-and-payments/kimai/logo.png
   website: https://www.kimai.org/
-  iframe_website: /website/applications/others/kimai
+  iframe_website: /website/applications/invoicing-and-payments/kimai
   screenshots:
-    - /images/applications/others/kimai/screenshot-1.jpg
-    - /images/applications/others/kimai/screenshot-2.jpg
+    - /images/applications/invoicing-and-payments/kimai/screenshot-1.jpg
+    - /images/applications/invoicing-and-payments/kimai/screenshot-2.jpg
 ---
 
 ## Overview
