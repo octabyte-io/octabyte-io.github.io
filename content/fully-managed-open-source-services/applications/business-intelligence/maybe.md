@@ -2,7 +2,7 @@
 draft: false
 title: Maybe fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/maybe/screenshot-1.jpg
+  cover: /images/applications/business-intelligence/maybe/screenshot-1.jpg
   description:
     Take control of your financial future with Maybe, the open-source personal
     finance and wealth management app offering net worth tracking, financial account
@@ -20,21 +20,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
     - name: Maybe
-      url: /fully-managed-open-source-services/applications/others/maybe
+      url: /fully-managed-open-source-services/applications/business-intelligence/maybe
 content:
   id: maybe
   name: Maybe
   title: The Ultimate Personal Finance & Wealth Management App
-  logo: /images/applications/others/maybe/logo.png
+  logo: /images/applications/business-intelligence/maybe/logo.png
   website: https://maybe.co/
-  iframe_website: /website/applications/others/maybe
+  iframe_website: /website/applications/business-intelligence/maybe
   direct_link: true
   screenshots:
-    - /images/applications/others/maybe/screenshot-1.jpg
-    - /images/applications/others/maybe/screenshot-2.png
+    - /images/applications/business-intelligence/maybe/screenshot-1.jpg
+    - /images/applications/business-intelligence/maybe/screenshot-2.png
 ---
 
 ## Overview

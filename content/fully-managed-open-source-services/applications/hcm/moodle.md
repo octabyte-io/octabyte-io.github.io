@@ -2,7 +2,7 @@
 draft: false
 title: Moodle fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/moodle/screenshot-1.jpg
+  cover: /images/applications/hcm/moodle/screenshot-1.jpg
   description:
     Moodle is a free, open-source LMS enabling educators to create dynamic
     courses and collaborative learning environments, trusted by 213M+ users worldwide.
@@ -17,23 +17,23 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: HCM
+      url: /fully-managed-open-source-services/applications/hcm
     - name: Moodle
-      url: /fully-managed-open-source-services/applications/others/moodle
+      url: /fully-managed-open-source-services/applications/hcm/moodle
 content:
   id: moodle
   name: Moodle
   title:
     "Empower Education with Moodle: The World\u2019s Leading Learning Management\
     \ System"
-  logo: /images/applications/others/moodle/logo.png
+  logo: /images/applications/hcm/moodle/logo.png
   website: https://moodle.org/
-  iframe_website: /website/applications/others/moodle
+  iframe_website: /website/applications/hcm/moodle
   direct_link: true
   screenshots:
-    - /images/applications/others/moodle/screenshot-1.jpg
-    - /images/applications/others/moodle/screenshot-2.jpg
+    - /images/applications/hcm/moodle/screenshot-1.jpg
+    - /images/applications/hcm/moodle/screenshot-2.jpg
 ---
 
 ## Overview

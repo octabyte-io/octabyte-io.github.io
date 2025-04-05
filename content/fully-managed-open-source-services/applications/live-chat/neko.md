@@ -2,7 +2,7 @@
 draft: false
 title: Neko Rooms fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/neko/screenshot-1.jpg
+  cover: /images/applications/live-chat/neko/screenshot-1.jpg
   description:
     Neko Rooms is a self-hosted collaborative browser and room management
     system, providing a seamless alternative to Rabb.it for secure and synchronized
@@ -18,23 +18,23 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Live chat
+      url: /fully-managed-open-source-services/applications/live-chat
     - name: Neko Rooms
-      url: /fully-managed-open-source-services/applications/others/neko
+      url: /fully-managed-open-source-services/applications/live-chat/neko
 content:
   id: neko
   name: Neko Rooms
   title:
     Effortlessly Collaborate and Share with Neko Rooms - The Ultimate Self-Hosted
     Alternative to Rabb.it
-  logo: /images/applications/others/neko/logo.png
+  logo: /images/applications/live-chat/neko/logo.png
   website: https://github.com/m1k1o/neko-rooms
-  iframe_website: /website/applications/others/neko
+  iframe_website: /website/applications/live-chat/neko
   direct_link: true
   screenshots:
-    - /images/applications/others/neko/screenshot-1.jpg
-    - /images/applications/others/neko/screenshot-2.jpg
+    - /images/applications/live-chat/neko/screenshot-1.jpg
+    - /images/applications/live-chat/neko/screenshot-2.jpg
 ---
 
 ## Overview

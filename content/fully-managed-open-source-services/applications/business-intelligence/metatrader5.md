@@ -2,7 +2,7 @@
 draft: false
 title: MetaTrader5 fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/metatrader5/screenshot-1.jpg
+  cover: /images/applications/business-intelligence/metatrader5/screenshot-1.jpg
   description:
     MetaTrader 5 is a modern trading platform offering advanced tools,
     broker compatibility, and 24/7 accessibility for seamless trading experiences.
@@ -16,21 +16,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Business Intelligence
+      url: /fully-managed-open-source-services/applications/business-intelligence
     - name: MetaTrader5
-      url: /fully-managed-open-source-services/applications/others/metatrader5
+      url: /fully-managed-open-source-services/applications/business-intelligence/metatrader5
 content:
   id: metatrader5
   name: MetaTrader5
   title: Advanced Trading Platform for Modern Traders
-  logo: /images/applications/others/metatrader5/logo.png
+  logo: /images/applications/business-intelligence/metatrader5/logo.png
   website: https://www.metatrader5.com/
-  iframe_website: /website/applications/others/metatrader5
+  iframe_website: /website/applications/business-intelligence/metatrader5
   direct_link: true
   screenshots:
-    - /images/applications/others/metatrader5/screenshot-1.jpg
-    - /images/applications/others/metatrader5/screenshot-2.jpg
+    - /images/applications/business-intelligence/metatrader5/screenshot-1.jpg
+    - /images/applications/business-intelligence/metatrader5/screenshot-2.jpg
 ---
 
 ## Overview
