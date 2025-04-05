@@ -2,7 +2,7 @@
 draft: false
 title: LanguageTool fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/languagetool/screenshot-1.png
+  cover: /images/applications/note-taking/languagetool/screenshot-1.png
   description:
     LanguageTool is a multilingual writing assistant that provides grammar,
     style, and spell checking in over 20 languages, enhancing your writing with real-time
@@ -20,21 +20,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Note taking
+      url: /fully-managed-open-source-services/applications/note-taking
     - name: LanguageTool
-      url: /fully-managed-open-source-services/applications/others/languagetool
+      url: /fully-managed-open-source-services/applications/note-taking/languagetool
 content:
   id: languagetool
   name: LanguageTool
   title: Multilingual Grammar, Style, and Spell Checker for Effortless Writing
-  logo: /images/applications/others/languagetool/logo.png
+  logo: /images/applications/note-taking/languagetool/logo.png
   website: https://languagetool.org/
-  iframe_website: /website/applications/others/languagetool
+  iframe_website: /website/applications/note-taking/languagetool
   direct_link: true
   screenshots:
-    - /images/applications/others/languagetool/screenshot-1.png
-    - /images/applications/others/languagetool/screenshot-2.png
+    - /images/applications/note-taking/languagetool/screenshot-1.png
+    - /images/applications/note-taking/languagetool/screenshot-2.png
 ---
 
 ## Overview
