@@ -2,7 +2,7 @@
 draft: false
 title: Langfuse fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/langfuse/screenshot-1.png
+  cover: /images/applications/ai-gpu/langfuse/screenshot-1.png
   description: Langfuse is an open-source LLM engineering platform offering observability, prompt management, metrics, and evaluations with seamless integrations and enterprise-ready deployment options.
   keywords: LLM observability, open-source AI, Langfuse, prompt management, AI monitoring, machine learning observability, AI evaluations, LLM metrics, OpenAI SDK, Langchain integration
   breadcrumb:
@@ -12,21 +12,21 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: AI / GPU
+      url: /fully-managed-open-source-services/applications/ai-gpu
     - name: Langfuse
-      url: /fully-managed-open-source-services/applications/others/langfuse
+      url: /fully-managed-open-source-services/applications/ai-gpu/langfuse
 content:
   id: langfuse
   name: Langfuse
   title: Open-Source LLM Engineering Platform for Observability, Metrics & Prompt Management
-  logo: /images/applications/others/langfuse/logo.png
+  logo: /images/applications/ai-gpu/langfuse/logo.png
   website: https://langfuse.com/
-  iframe_website: /website/applications/others/langfuse
+  iframe_website: /website/applications/ai-gpu/langfuse
   direct_link: true
   screenshots:
-    - /images/applications/others/langfuse/screenshot-1.png
-    - /images/applications/others/langfuse/screenshot-2.png
+    - /images/applications/ai-gpu/langfuse/screenshot-1.png
+    - /images/applications/ai-gpu/langfuse/screenshot-2.png
 ---
 
 ## Overview
