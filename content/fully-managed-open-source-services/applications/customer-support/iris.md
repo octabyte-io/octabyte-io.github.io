@@ -2,7 +2,7 @@
 draft: false
 title: IRIS fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/iris/screenshot-1.png
+  cover: /images/applications/customer-support/iris/screenshot-1.png
   description: IRIS is a powerful, open-source incident response platform that enables seamless collaboration, alert management, and automation for cybersecurity teams.
   keywords: Incident response platform, open-source IR software, cybersecurity collaboration, IRIS security tool, SIEM integration, security incident management, threat intelligence, forensic investigation, security automation, case management software
   breadcrumb:
@@ -12,20 +12,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Customer Support
+      url: /fully-managed-open-source-services/applications/customer-support
     - name: IRIS
-      url: /fully-managed-open-source-services/applications/others/iris
+      url: /fully-managed-open-source-services/applications/customer-support/iris
 content:
   id: iris
   name: IRIS
   title: The Ultimate Open-Source Incident Response Collaboration Platform
-  logo: /images/applications/others/iris/logo.png
+  logo: /images/applications/customer-support/iris/logo.png
   website: https://dfir-iris.org/
-  iframe_website: /website/applications/others/iris
+  iframe_website: /website/applications/customer-support/iris
   screenshots:
-    - /images/applications/others/iris/screenshot-1.png
-    - /images/applications/others/iris/screenshot-2.png
+    - /images/applications/customer-support/iris/screenshot-1.png
+    - /images/applications/customer-support/iris/screenshot-2.png
 ---
 
 ## Overview
