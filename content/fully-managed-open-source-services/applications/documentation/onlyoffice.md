@@ -2,7 +2,7 @@
 draft: false
 title: OnlyOffice fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/onlyoffice/screenshot-1.jpg
+  cover: /images/applications/documentation/onlyoffice/screenshot-1.jpg
   description:
     OnlyOffice is an all-in-one open-source office suite offering advanced
     tools for document management, collaboration, and productivity.
@@ -17,20 +17,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Documentation
+      url: /fully-managed-open-source-services/applications/documentation
     - name: OnlyOffice
-      url: /fully-managed-open-source-services/applications/others/onlyoffice
+      url: /fully-managed-open-source-services/applications/documentation/onlyoffice
 content:
   id: onlyoffice
   name: OnlyOffice
   title: "Boost Productivity with OnlyOffice: The Ultimate Open-Source Office Suite"
-  logo: /images/applications/others/onlyoffice/logo.png
+  logo: /images/applications/documentation/onlyoffice/logo.png
   website: https://www.onlyoffice.com/
-  iframe_website: /website/applications/others/onlyoffice
+  iframe_website: /website/applications/documentation/onlyoffice
   screenshots:
-    - /images/applications/others/onlyoffice/screenshot-1.jpg
-    - /images/applications/others/onlyoffice/screenshot-2.jpg
+    - /images/applications/documentation/onlyoffice/screenshot-1.jpg
+    - /images/applications/documentation/onlyoffice/screenshot-2.jpg
 ---
 
 ## Overview
