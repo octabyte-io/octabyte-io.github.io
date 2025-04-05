@@ -2,7 +2,7 @@
 draft: false
 title: Docassemble fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/docassemble/screenshot-1.jpg
+  cover: /images/applications/automation/docassemble/screenshot-1.jpg
   description:
     Docassemble is a free, open-source system that automates guided interviews
     and document assembly, providing customized workflows and generating documents
@@ -19,20 +19,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Automation
+      url: /fully-managed-open-source-services/applications/automation
     - name: Docassemble
-      url: /fully-managed-open-source-services/applications/others/docassemble
+      url: /fully-managed-open-source-services/applications/automation/docassemble
 content:
   id: docassemble
   name: Docassemble
   title: A Powerful Open-Source Tool for Guided Interviews and Document Assembly
-  logo: /images/applications/others/docassemble/logo.png
+  logo: /images/applications/automation/docassemble/logo.png
   website: https://docassemble.org/
-  iframe_website: /website/applications/others/docassemble
+  iframe_website: /website/applications/automation/docassemble
   screenshots:
-    - /images/applications/others/docassemble/screenshot-1.jpg
-    - /images/applications/others/docassemble/screenshot-2.png
+    - /images/applications/automation/docassemble/screenshot-1.jpg
+    - /images/applications/automation/docassemble/screenshot-2.png
 ---
 
 ## Overview

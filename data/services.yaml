@@ -1234,9 +1234,9 @@ catalog_list:
         description: Snipe-IT simplifies IT asset management, offering secure tracking of hardware, software, and accessories with powerful features like automated security, admin dashboards, and easy integration.
       - id: docassemble
         title: Docassemble
-        image: /images/applications/others/docassemble/logo.png
-        url: /applications/others/docassemble
-        category: invoicing-and-payments
+        image: /images/applications/automation/docassemble/logo.png
+        url: /applications/automation/docassemble
+        category: automation
         description: Docassemble is a free, open-source system that automates guided interviews and document assembly, providing customized workflows and generating documents in multiple formats.
       - id: ragflow
         title: Ragflow
