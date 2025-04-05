@@ -2,7 +2,7 @@
 draft: false
 title: Parseable fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/parseable/screenshot-1.png
+  cover: /images/hosting-and-infrastructure/monitoring/parseable/screenshot-1.png
   description:
     Parseable is a high-performance, cloud-native log analytics platform
     focused on data security, scalability, and efficient resource usage.
@@ -15,22 +15,22 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
     - name: Parseable
-      url: /fully-managed-open-source-services/applications/others/parseable
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/parseable
 content:
   id: parseable
   name: Parseable
   title: A Cloud-Native, High-Performance Log Analytics Platform
-  logo: /images/applications/others/parseable/logo.png
+  logo: /images/hosting-and-infrastructure/monitoring/parseable/logo.png
   website: https://www.parseable.com/
-  iframe_website: /website/applications/others/parseable
+  iframe_website: /website/hosting-and-infrastructure/monitoring/parseable
   screenshots:
-    - /images/applications/others/parseable/screenshot-1.png
-    - /images/applications/others/parseable/screenshot-2.png
+    - /images/hosting-and-infrastructure/monitoring/parseable/screenshot-1.png
+    - /images/hosting-and-infrastructure/monitoring/parseable/screenshot-2.png
 ---
 
 ## Overview
