@@ -2,7 +2,7 @@
 draft: false
 title: Grist fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/grist/screenshot-1.png
+  cover: /images/development/nocode-lowcode/grist/screenshot-1.png
   description: Grist is a next-gen relational spreadsheet combining the flexibility of a spreadsheet with the power of a database. It offers secure collaboration, customizable dashboards, and seamless scalability for teams.
   keywords: relational spreadsheet, no-code database, spreadsheet database, data management, team collaboration, business intelligence, Excel alternative, secure data sharing, workflow automation, drag-and-drop dashboard
   breadcrumb:
@@ -12,20 +12,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
     - name: Grist
-      url: /fully-managed-open-source-services/applications/others/grist
+      url: /fully-managed-open-source-services/development/nocode-lowcode/grist
 content:
   id: grist
   name: Grist
   title: The Ultimate No-Code Relational Spreadsheet
-  logo: /images/applications/others/grist/logo.png
+  logo: /images/development/nocode-lowcode/grist/logo.png
   website: https://www.getgrist.com/
-  iframe_website: /website/applications/others/grist
+  iframe_website: /website/development/nocode-lowcode/grist
   screenshots:
-    - /images/applications/others/grist/screenshot-1.png
-    - /images/applications/others/grist/screenshot-2.png
+    - /images/development/nocode-lowcode/grist/screenshot-1.png
+    - /images/development/nocode-lowcode/grist/screenshot-2.png
 ---
 
 ## Overview
