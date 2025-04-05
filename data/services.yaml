@@ -1408,9 +1408,9 @@ catalog_list:
         description: Kener is a modern, open-source status page system with real-time monitoring, incident management, and customization options for a seamless user experience.
       - id: comfyui
         title: ComfyUi
-        image: /images/applications/others/comfyui/logo.avif
-        url: /applications/others/comfyui
-        category: invoicing-and-payments
+        image: /images/applications/ai-gpu/comfyui/logo.avif
+        url: /applications/ai-gpu/comfyui
+        category: ai-gpu
         description: ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes interface, API, and backend for creating high-quality, consistent outputs.
       - id: jupyter-notebook
         title: Jupyter-Notebook

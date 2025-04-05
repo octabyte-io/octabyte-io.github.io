@@ -2,7 +2,7 @@
 draft: false
 title: ComfyUi fully managed open source service | OctaByte.io
 meta:
-  cover: /images/applications/others/comfyui/screenshot-1.png
+  cover: /images/applications/ai-gpu/comfyui/screenshot-1.png
   description:
     ComfyUI is a powerful, modular Stable Diffusion GUI with a graph/nodes
     interface, API, and backend for creating high-quality, consistent outputs.
@@ -16,19 +16,19 @@ meta:
       url: /fully-managed-open-source-services
     - name: Applications
       url: /fully-managed-open-source-services/applications
-    - name: Others
-      url: /fully-managed-open-source-services/applications/others
+    - name: AI/GPU
+      url: /fully-managed-open-source-services/applications/ai-gpu
     - name: ComfyUi
-      url: /fully-managed-open-source-services/applications/others/comfyui
+      url: /fully-managed-open-source-services/applications/ai-gpu/comfyui
 content:
   id: comfyui
   name: ComfyUi
   title: Unlock the Power of Stable Diffusion with ComfyUI
-  logo: /images/applications/others/comfyui/logo.avif
+  logo: /images/applications/ai-gpu/comfyui/logo.avif
   website: https://useanything.com/
-  iframe_website: /website/applications/others/comfyui
+  iframe_website: /website/applications/ai-gpu/comfyui
   screenshots:
-    - /images/applications/others/comfyui/screenshot-1.png
+    - /images/applications/ai-gpu/comfyui/screenshot-1.png
 ---
 
 ## Overview
