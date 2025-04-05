@@ -1258,9 +1258,9 @@ catalog_list:
         description: Peppermint is an open-source helpdesk platform offering cost-effective, feature-rich solutions for customer support teams.
       - id: hi-events
         title: Hi-events
-        image: /images/applications/others/hi-events/logo.png
-        url: /applications/others/hi-events
-        category: nocode-lowcode
+        image: /images/applications/e-commerce/hi-events/logo.png
+        url: /applications/e-commerce/hi-events
+        category: e-commerce
         description: Hi.Events is a powerful, self-hosted event management and ticketing solution that empowers you to create, manage, and sell tickets for events of all sizes. From conferences to club nights, streamline your event operations with ease.
       - id: maybe
         title: Maybe
