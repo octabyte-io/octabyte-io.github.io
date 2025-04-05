@@ -10,8 +10,8 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Applications
-      url: /fully-managed-open-source-services/applications
+    - name: Development
+      url: /fully-managed-open-source-services/development
     - name: No-code / Low code
       url: /fully-managed-open-source-services/development/nocode-lowcode
     - name: Grist
