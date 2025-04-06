@@ -2019,9 +2019,9 @@ catalog_list:
         description: LibreTranslate is a free, open-source, and self-hosted machine translation API that supports 29 languages and ensures full privacy without relying on proprietary services like Google or Azure.
       - id: daptin
         title: Daptin
-        image: /images/development/others/daptin/logo.png
-        url: /development/others/daptin
-        category: others
+        image: /images/development/backend-as-a-service/daptin/logo.png
+        url: /development/backend-as-a-service/daptin
+        category: backend-as-a-service
         description: Daptin is an open-source backend framework that simplifies building and deploying production-ready JSONAPI microservices with cloud storage integration and flexible API handling.
       - id: quant-ux
         title: Quant-UX
