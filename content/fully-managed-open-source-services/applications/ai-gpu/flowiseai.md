@@ -2,7 +2,7 @@
 draft: false
 title: FlowiseAI fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/flowiseai/screenshot-1.png
+  cover: /images/applications/ai-gpu/flowiseai/screenshot-1.png
   description:
     FlowiseAI is an open-source visual tool that allows you to create personalized
     LLM (Large Language Model) flows effortlessly using LangchainJS, powered by NodeJS
@@ -17,22 +17,22 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Applications
+      url: /fully-managed-open-source-services/applications
+    - name: AI / GPU
+      url: /fully-managed-open-source-services/applications/ai-gpu
     - name: FlowiseAI
-      url: /fully-managed-open-source-services/development/others/flowiseai
+      url: /fully-managed-open-source-services/applications/ai-gpu/flowiseai
 content:
   id: flowiseai
   name: FlowiseAI
   title: Build Customizable AI Flows with LangchainJS in NodeJS
-  logo: /images/development/others/flowiseai/logo.png
+  logo: /images/applications/ai-gpu/flowiseai/logo.png
   website: https://flowiseai.com/
-  iframe_website: /website/development/others/flowiseai
+  iframe_website: /website/applications/ai-gpu/flowiseai
   screenshots:
-    - /images/development/others/flowiseai/screenshot-1.png
-    - /images/development/others/flowiseai/screenshot-2.png
+    - /images/applications/ai-gpu/flowiseai/screenshot-1.png
+    - /images/applications/ai-gpu/flowiseai/screenshot-2.png
 ---
 
 ## Overview
