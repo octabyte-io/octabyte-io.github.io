@@ -2019,9 +2019,9 @@ catalog_list:
         description: Llana is a no-code API wrapper that generates REST APIs for databases in minutes. Open-source and free, it eliminates the need for manual API development, saving you time and effort.
       - id: libretranslate
         title: LibreTranslate
-        image: /images/development/others/libretranslate/logo.png
-        url: /development/others/libretranslate
-        category: others
+        image: /images/development/dev-tools/libretranslate/logo.png
+        url: /development/dev-tools/libretranslate
+        category: dev-tools
         description: LibreTranslate is a free, open-source, and self-hosted machine translation API that supports 29 languages and ensures full privacy without relying on proprietary services like Google or Azure.
       - id: daptin
         title: Daptin
