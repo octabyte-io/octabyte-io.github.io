@@ -50,8 +50,6 @@
 
         requestData.plan = requestData.plan.toLowerCase();
 
-
-
         try {
           const response = await fetch(
             "https://admin.octabyte.app/items/customer_services",
@@ -66,19 +64,16 @@
 
           const data = await response.json();
 
-          console.log(data)
-
           if (!response.ok) {
             throw new Error("There was an error submitting the form.");
           }
 
           localStorage.removeItem("referral-code");
 
-          {{/*  const data = await response.json();  */}}
           const session_url = data.data.session_url;
           window.location = session_url;
         } catch (error) {
-          console.log(error)
+          console.log(error);
           alert("There was an error submitting the form.");
         }
       }

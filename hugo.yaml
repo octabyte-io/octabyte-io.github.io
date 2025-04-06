@@ -16,7 +16,7 @@ params:
 
   copyright: "2024 OctaByte. All rights reserved."
 
-  liveChat: true
+  liveChat: false
   email: support@octabyte.io
 
   social:
