@@ -322,9 +322,11 @@
                       {{ $categoryId := .id }}
                       {{ $.Scratch.Set "counter" 0 }}
                       {{ range $catalogList }}
-                        {{ range .services }}
-                          {{ if in .category $categoryId }}
-                            {{ $.Scratch.Add "counter" 1 }}
+                        {{ if eq $catalogId .id }}
+                          {{ range .services }}
+                            {{ if in .category $categoryId }}
+                              {{ $.Scratch.Add "counter" 1 }}
+                            {{ end }}
                           {{ end }}
                         {{ end }}
                       {{ end }}
