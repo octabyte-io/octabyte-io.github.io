@@ -1252,6 +1252,12 @@ catalog_list:
         url: /applications/ai-gpu/ragflow
         category: ai-gpu
         description: RAGFlow is an advanced open-source RAG (Retrieval-Augmented Generation) engine designed for deep document understanding, delivering accurate, citation-backed question answering when integrated with LLMs.
+      - id: zep
+        title: Zep
+        image: /images/applications/ai-gpu/zep/logo.png
+        url: /applications/ai-gpu/zep
+        category: ai-gpu
+        description: Zep empowers AI assistants with long-term memory, enabling them to recall, understand, and extract data from chat histories for personalized, smarter user interactions.
       - id: flowiseai
         title: FlowiseAI
         image: /images/applications/ai-gpu/flowiseai/logo.png
@@ -1993,12 +1999,6 @@ catalog_list:
         url: /development/nocode-lowcode/teable
         category: nocode-lowcode
         description: Teable is a no-code, PostgreSQL-based database platform that offers real-time, scalable solutions with a user-friendly, spreadsheet-like interface, enabling rapid, efficient app development.
-      - id: zep
-        title: Zep
-        image: /images/development/others/zep/logo.png
-        url: /development/others/zep
-        category: others
-        description: Zep empowers AI assistants with long-term memory, enabling them to recall, understand, and extract data from chat histories for personalized, smarter user interactions.
       - id: langflow
         title: Langflow
         image: /images/development/dev-tools/langflow/logo.png
