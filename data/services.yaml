@@ -193,6 +193,12 @@ catalog_list:
         url: /databases/specialized-databases/keydb
         category: specialized-databases
         description: KeyDB is a high-performance, open-source database that outperforms Redis with multithreaded architecture, high scalability, and sub-millisecond latencies.
+      - id: qdrant
+        title: Qdrant
+        image: /images/databases/specialized-databases/qdrant/logo.png
+        url: /databases/specialized-databases/qdrant
+        category: specialized-databases
+        description: Qdrant is a high-performance vector database and similarity search engine, ideal for semantic matching, neural networks, and faceted search. It offers advanced filtering, high scalability, and a simple API for developers.
       - id: influxdb
         title: InfluxDB
         image: /images/databases/specialized-databases/influxdb/logo.png
@@ -2005,12 +2011,6 @@ catalog_list:
         url: /development/dev-tools/labelstudio
         category: dev-tools
         description: Label Studio is a flexible data labeling tool for machine learning, supporting multiple data types and providing features like ML-assisted labeling, project management, and seamless integration with your ML pipeline.
-      - id: qdrant
-        title: Qdrant
-        image: /images/development/others/qdrant/logo.png
-        url: /development/others/qdrant
-        category: others
-        description: Qdrant is a high-performance vector database and similarity search engine, ideal for semantic matching, neural networks, and faceted search. It offers advanced filtering, high scalability, and a simple API for developers.
       - id: llana
         title: Llana
         image: /images/development/nocode-lowcode/llana/logo.png

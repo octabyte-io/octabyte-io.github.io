@@ -2,7 +2,7 @@
 draft: false
 title: Qdrant fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/qdrant/screenshot-1.png
+  cover: /images/databases/specialized-databases/qdrant/screenshot-1.png
   description:
     Qdrant is a high-performance vector database and similarity search
     engine, ideal for semantic matching, neural networks, and faceted search. It offers
@@ -16,23 +16,23 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Databases
+      url: /fully-managed-open-source-services/databases
+    - name: Specialized Databases
+      url: /fully-managed-open-source-services/databases/specialized-databases
     - name: Qdrant
-      url: /fully-managed-open-source-services/development/others/qdrant
+      url: /fully-managed-open-source-services/databases/specialized-databases/qdrant
 content:
   id: qdrant
   name: Qdrant
   title: High-Performance Vector Search Engine for Semantic Matching and Recommendations
-  logo: /images/development/others/qdrant/logo.png
+  logo: /images/databases/specialized-databases/qdrant/logo.png
   website: https://qdrant.tech/#
-  iframe_website: /website/development/others/qdrant
+  iframe_website: /website/databases/specialized-databases/qdrant
   direct_link: true
   screenshots:
-    - /images/development/others/qdrant/screenshot-1.png
-    - /images/development/others/qdrant/screenshot-2.webp
+    - /images/databases/specialized-databases/qdrant/screenshot-1.png
+    - /images/databases/specialized-databases/qdrant/screenshot-2.webp
 ---
 
 ## Overview
