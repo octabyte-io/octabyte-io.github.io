@@ -2013,9 +2013,9 @@ catalog_list:
         description: Qdrant is a high-performance vector database and similarity search engine, ideal for semantic matching, neural networks, and faceted search. It offers advanced filtering, high scalability, and a simple API for developers.
       - id: llana
         title: Llana
-        image: /images/development/others/llana/logo.png
-        url: /development/others/llana
-        category: others
+        image: /images/development/nocode-lowcode/llana/logo.png
+        url: /development/nocode-lowcode/llana
+        category: nocode-lowcode
         description: Llana is a no-code API wrapper that generates REST APIs for databases in minutes. Open-source and free, it eliminates the need for manual API development, saving you time and effort.
       - id: libretranslate
         title: LibreTranslate
