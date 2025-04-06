@@ -2037,9 +2037,9 @@ catalog_list:
         description: Quant-UX simplifies prototype creation and usability testing. Design interactive prototypes in minutes and gather user feedback with ease to validate your ideas.
       - id: krakend
         title: KrakenD
-        image: /images/development/others/krakend/logo.png
-        url: /development/others/krakend
-        category: others
+        image: /images/development/network/krakend/logo.png
+        url: /development/network/krakend
+        category: network
         description: KrakenD is a distributed, stateless API Gateway designed to streamline microservices adoption with powerful features like content aggregation, format transformation, and advanced security measures.
   - name: Hosting and Infrastructure
     id: hosting-and-infrastructure
