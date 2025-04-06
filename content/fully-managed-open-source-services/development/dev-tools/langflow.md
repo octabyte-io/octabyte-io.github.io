@@ -2,7 +2,7 @@
 draft: false
 title: Langflow fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/langflow/screenshot-1.jpg
+  cover: /images/development/dev-tools/langflow/screenshot-1.jpg
   description:
     Langflow is an open-source, Python-powered visual framework for creating
     multi-agent and RAG applications. Fully customizable and model-agnostic, it empowers
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Development
       url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
     - name: Langflow
-      url: /fully-managed-open-source-services/development/others/langflow
+      url: /fully-managed-open-source-services/development/dev-tools/langflow
 content:
   id: langflow
   name: Langflow
   title: The Visual Framework for Multi-Agent and RAG Applications
-  logo: /images/development/others/langflow/logo.png
+  logo: /images/development/dev-tools/langflow/logo.png
   website: https://www.langflow.org/
-  iframe_website: /website/development/others/langflow
+  iframe_website: /website/development/dev-tools/langflow
   screenshots:
-    - /images/development/others/langflow/screenshot-1.jpg
-    - /images/development/others/langflow/screenshot-2.png
+    - /images/development/dev-tools/langflow/screenshot-1.jpg
+    - /images/development/dev-tools/langflow/screenshot-2.png
 ---
 
 ## Overview
