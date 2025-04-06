@@ -2,7 +2,7 @@
 draft: false
 title: LabelStudio fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/labelstudio/screenshot-1.png
+  cover: /images/development/dev-tools/labelstudio/screenshot-1.png
   description:
     Label Studio is a flexible data labeling tool for machine learning,
     supporting multiple data types and providing features like ML-assisted labeling,
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Development
       url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
     - name: LabelStudio
-      url: /fully-managed-open-source-services/development/others/labelstudio
+      url: /fully-managed-open-source-services/development/dev-tools/labelstudio
 content:
   id: labelstudio
   name: LabelStudio
   title: The Ultimate Data Labeling and Annotation Tool for AI & Machine Learning
-  logo: /images/development/others/labelstudio/logo.png
+  logo: /images/development/dev-tools/labelstudio/logo.png
   website: https://labelstud.io/
-  iframe_website: /website/development/others/labelstudio
+  iframe_website: /website/development/dev-tools/labelstudio
   screenshots:
-    - /images/development/others/labelstudio/screenshot-1.png
-    - /images/development/others/labelstudio/screenshot-2.png
+    - /images/development/dev-tools/labelstudio/screenshot-1.png
+    - /images/development/dev-tools/labelstudio/screenshot-2.png
 ---
 
 ## Overview

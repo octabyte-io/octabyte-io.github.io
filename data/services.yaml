@@ -2001,9 +2001,9 @@ catalog_list:
         description: Langflow is an open-source, Python-powered visual framework for creating multi-agent and RAG applications. Fully customizable and model-agnostic, it empowers developers to experiment with AI in new and innovative ways.
       - id: labelstudio
         title: LabelStudio
-        image: /images/development/others/labelstudio/logo.png
-        url: /development/others/labelstudio
-        category: others
+        image: /images/development/dev-tools/labelstudio/logo.png
+        url: /development/dev-tools/labelstudio
+        category: dev-tools
         description: Label Studio is a flexible data labeling tool for machine learning, supporting multiple data types and providing features like ML-assisted labeling, project management, and seamless integration with your ML pipeline.
       - id: qdrant
         title: Qdrant
