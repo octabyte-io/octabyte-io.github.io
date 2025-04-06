@@ -2,7 +2,7 @@
 draft: false
 title: Teable fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/teable/screenshot-1.png
+  cover: /images/development/nocode-lowcode/teable/screenshot-1.png
   description:
     Teable is a no-code, PostgreSQL-based database platform that offers
     real-time, scalable solutions with a user-friendly, spreadsheet-like interface,
@@ -18,20 +18,20 @@ meta:
       url: /fully-managed-open-source-services
     - name: Development
       url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: No-code / Low code
+      url: /fully-managed-open-source-services/development/nocode-lowcode
     - name: Teable
-      url: /fully-managed-open-source-services/development/others/teable
+      url: /fully-managed-open-source-services/development/nocode-lowcode/teable
 content:
   id: teable
   name: Teable
   title: Super-Fast, No-Code Database Built on PostgreSQL for Seamless App Development
-  logo: /images/development/others/teable/logo.png
+  logo: /images/development/nocode-lowcode/teable/logo.png
   website: https://teable.io/
-  iframe_website: /website/development/others/teable
+  iframe_website: /website/development/nocode-lowcode/teable
   screenshots:
-    - /images/development/others/teable/screenshot-1.png
-    - /images/development/others/teable/screenshot-2.png
+    - /images/development/nocode-lowcode/teable/screenshot-1.png
+    - /images/development/nocode-lowcode/teable/screenshot-2.png
 ---
 
 ## Overview

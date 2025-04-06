@@ -1989,9 +1989,9 @@ catalog_list:
         description: Hoppscotch is a free, open-source API development tool that offers a fast, lightweight, and user-friendly interface for building and testing APIs.
       - id: teable
         title: Teable
-        image: /images/development/others/teable/logo.png
-        url: /development/others/teable
-        category: others
+        image: /images/development/nocode-lowcode/teable/logo.png
+        url: /development/nocode-lowcode/teable
+        category: nocode-lowcode
         description: Teable is a no-code, PostgreSQL-based database platform that offers real-time, scalable solutions with a user-friendly, spreadsheet-like interface, enabling rapid, efficient app development.
       - id: zep
         title: Zep
