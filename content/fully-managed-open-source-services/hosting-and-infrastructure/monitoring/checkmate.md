@@ -2,7 +2,7 @@
 draft: false
 title: Checkmate fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/checkmate/screenshot-1.png
+  cover: /images/hosting-and-infrastructure/monitoring/checkmate/screenshot-1.png
   description: Checkmate is an open-source monitoring tool for tracking server performance, website uptime, and network latency in real-time.
   keywords: open-source monitoring, website uptime monitoring, server performance tracking, network latency monitoring, infrastructure monitoring, page speed insights, real-time monitoring, self-hosted monitoring, website performance optimization, server health tracking
   breadcrumb:
@@ -10,22 +10,22 @@ meta:
       url: /
     - name: Software Catalog
       url: /fully-managed-open-source-services
-    - name: Development
-      url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Hosting and Infrastructure
+      url: /fully-managed-open-source-services/hosting-and-infrastructure
+    - name: Monitoring
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring
     - name: Checkmate
-      url: /fully-managed-open-source-services/development/others/checkmate
+      url: /fully-managed-open-source-services/hosting-and-infrastructure/monitoring/checkmate
 content:
   id: checkmate
   name: Checkmate
   title: Open-Source Server & Website Monitoring for Real-Time Insights
-  logo: /images/development/others/checkmate/logo.png
+  logo: /images/hosting-and-infrastructure/monitoring/checkmate/logo.png
   website: https://checkmate.so/
-  iframe_website: /website/development/others/checkmate
+  iframe_website: /website/hosting-and-infrastructure/monitoring/checkmate
   screenshots:
-    - /images/development/others/checkmate/screenshot-1.png
-    - /images/development/others/checkmate/screenshot-2.png
+    - /images/hosting-and-infrastructure/monitoring/checkmate/screenshot-1.png
+    - /images/hosting-and-infrastructure/monitoring/checkmate/screenshot-2.png
 ---
 
 ## Overview
