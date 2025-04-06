@@ -2031,9 +2031,9 @@ catalog_list:
         description: Daptin is an open-source backend framework that simplifies building and deploying production-ready JSONAPI microservices with cloud storage integration and flexible API handling.
       - id: quant-ux
         title: Quant-UX
-        image: /images/development/others/quant-ux/logo.png
-        url: /development/others/quant-ux
-        category: others
+        image: /images/development/dev-tools/quant-ux/logo.png
+        url: /development/dev-tools/quant-ux
+        category: dev-tools
         description: Quant-UX simplifies prototype creation and usability testing. Design interactive prototypes in minutes and gather user feedback with ease to validate your ideas.
       - id: krakend
         title: KrakenD

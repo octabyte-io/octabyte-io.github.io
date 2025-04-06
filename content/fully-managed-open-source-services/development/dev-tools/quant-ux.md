@@ -2,7 +2,7 @@
 draft: false
 title: Quant-UX fully managed open source service | OctaByte.io
 meta:
-  cover: /images/development/others/quant-ux/screenshot-1.webp
+  cover: /images/development/dev-tools/quant-ux/screenshot-1.webp
   description:
     Quant-UX simplifies prototype creation and usability testing. Design
     interactive prototypes in minutes and gather user feedback with ease to validate
@@ -18,22 +18,22 @@ meta:
       url: /fully-managed-open-source-services
     - name: Development
       url: /fully-managed-open-source-services/development
-    - name: Others
-      url: /fully-managed-open-source-services/development/others
+    - name: Dev tools
+      url: /fully-managed-open-source-services/development/dev-tools
     - name: Quant-UX
-      url: /fully-managed-open-source-services/development/others/quant-ux
+      url: /fully-managed-open-source-services/development/dev-tools/quant-ux
 content:
   id: quant-ux
   name: Quant-UX
   title:
     "Streamline User Experience Design with Quant-UX: Effortless Prototyping
     & Usability Testing"
-  logo: /images/development/others/quant-ux/logo.png
+  logo: /images/development/dev-tools/quant-ux/logo.png
   website: https://quant-ux.com/
-  iframe_website: /website/development/others/quant-ux
+  iframe_website: /website/development/dev-tools/quant-ux
   screenshots:
-    - /images/development/others/quant-ux/screenshot-1.webp
-    - /images/development/others/quant-ux/screenshot-2.webp
+    - /images/development/dev-tools/quant-ux/screenshot-1.webp
+    - /images/development/dev-tools/quant-ux/screenshot-2.webp
 ---
 
 ## Overview
