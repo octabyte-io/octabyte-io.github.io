@@ -1977,9 +1977,9 @@ catalog_list:
         description: OpenBlocks is an open-source, low-code platform for developers to rapidly build customizable internal applications with ease, using powerful UI components, seamless data connections, and robust security.
       - id: hoppscotch
         title: Hoppscotch
-        image: /images/development/others/hoppscotch/logo.png
-        url: /development/others/hoppscotch
-        category: others
+        image: /images/development/dev-tools/hoppscotch/logo.png
+        url: /development/dev-tools/hoppscotch
+        category: dev-tools
         description: Hoppscotch is a free, open-source API development tool that offers a fast, lightweight, and user-friendly interface for building and testing APIs.
       - id: teable
         title: Teable
