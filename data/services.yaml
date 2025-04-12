@@ -1489,6 +1489,12 @@ catalog_list:
         url: /development/backend-as-a-service/pocketbase
         category: backend-as-a-service
         description: PocketBase is an open-source backend with SQLite database, real-time subscriptions, auth management, RESTful API, and file storage.
+      - id: osstranslate
+        title: OSSTranslate
+        image: /images/development/dev-tools/osstranslate/logo.png
+        url: /development/dev-tools/osstranslate
+        category: dev-tools
+        description: Translate text in 29+ languages with OSSTranslate — a fully self-hosted, open-source machine translation API powered by Argos Translate. No cloud dependencies, no data sharing, and no usage limits.
       - id: jellyfin
         title: Jellyfin
         image: /images/development/dev-tools/jellyfin/logo.png
