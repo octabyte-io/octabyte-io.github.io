@@ -1693,6 +1693,12 @@ catalog_list:
         url: /development/network/meshcentral
         category: network
         description: MeshCentral is a self-hosted, web-based remote management solution that provides secure access to remote desktops, terminals, and files, all in real time. Perfect for managing devices on local or global networks.
+      - id: meshcommander
+        title: MeshCommander
+        image: /images/development/network/meshcommander/logo.png
+        url: /development/network/meshcommander
+        category: network
+        description: MeshCommander is a powerful open-source Intel® AMT management console that offers remote desktop control, serial-over-LAN access, TLS security, and firmware integration—all through a browser-based or standalone JavaScript interface.
       - id: ubuntu-desktop
         title: Ubuntu-Desktop
         image: /images/development/dev-ops/ubuntu-desktop/logo.png
