@@ -826,6 +826,12 @@ catalog_list:
         url: /applications/business-intelligence/superset
         category: business-intelligence
         description: Apache Superset is a scalable open-source data visualization tool that enables users to explore and visualize data with ease, from basic charts to advanced geospatial maps.
+      - id: redash
+        title: Redash
+        image: /images/applications/business-intelligence/redash/logo.png
+        url: /applications/business-intelligence/redash
+        category: business-intelligence
+        description: Redash is an open-source data visualization tool that enables users to connect, query, and share insights from multiple data sources through interactive dashboards.
       - id: vaultwarden
         title: Vaultwarden
         image: /images/applications/password-manager/vaultwarden/logo.png
