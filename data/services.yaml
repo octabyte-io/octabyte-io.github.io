@@ -2116,6 +2116,12 @@ catalog_list:
         url: /hosting-and-infrastructure/monitoring/glitchtip
         category: monitoring
         description: GlitchTip makes software monitoring easy by combining error tracking, performance monitoring, and uptime checks in one platform. Track, resolve, and improve your app's performance effortlessly.
+      - id: bugsink
+        title: Bugsink
+        image: /images/hosting-and-infrastructure/monitoring/bugsink/logo.webp
+        url: /hosting-and-infrastructure/monitoring/bugsink
+        category: monitoring
+        description: Bugsink is a powerful, self-hosted error tracking platform that helps you catch and resolve bugs before your users notice. Compatible with Sentry SDKs and built for reliability, it gives you full control over your data.
       - id: sensu
         title: Sensu
         image: /images/hosting-and-infrastructure/monitoring/sensu/logo.png
