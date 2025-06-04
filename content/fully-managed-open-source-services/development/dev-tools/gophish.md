@@ -1,5 +1,6 @@
 ---
 draft: false
+disable_trial: true
 title: Gophish fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/gophish/screenshot-1.png
