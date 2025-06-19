@@ -1453,6 +1453,12 @@ catalog_list:
         url: /development/identity-and-access-management/zitadel
         category: identity-and-access-management
         description: Zitadel provides an open-source, serverless identity management platform that simplifies authentication setup while offering scalability and integration flexibility.
+      - id: pangolin
+        title: Pangolin
+        image: /images/development/identity-and-access-management/pangolin/logo.png
+        url: /development/identity-and-access-management/pangolin
+        category: identity-and-access-management
+        description: Pangolin is a powerful, self-hosted reverse proxy and access gateway that uses encrypted WireGuard tunnels to securely expose private resources without opening ports—perfect for distributed networks and zero-trust environments.
       - id: agencyos
         title: AgencyOS
         image: /images/development/backend-as-a-service/agencyos/logo.png
