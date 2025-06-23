@@ -1651,6 +1651,12 @@ catalog_list:
         url: /development/dev-tools/repman
         category: dev-tools
         description: Repman is a powerful Packagist proxy and private package host for PHP Composer, enabling seamless dependency management with GitHub, GitLab, and Bitbucket integration.
+      - id: presidio
+        title: Presidio
+        image: /images/development/dev-tools/presidio/logo.png
+        url: /development/dev-tools/presidio
+        category: dev-tools
+        description: Presidio is an open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) in text, images, and structured data using advanced NLP and customizable pipelines.
       - id: pritunl
         title: Pritunl
         image: /images/development/network/pritunl/logo.png
