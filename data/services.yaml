@@ -1459,6 +1459,12 @@ catalog_list:
         url: /development/identity-and-access-management/pangolin
         category: identity-and-access-management
         description: Pangolin is a powerful, self-hosted reverse proxy and access gateway that uses encrypted WireGuard tunnels to securely expose private resources without opening ports—perfect for distributed networks and zero-trust environments.
+      - id: ballerine
+        title: Ballerine
+        image: /images/development/identity-and-access-management/ballerine/logo.jpg
+        url: /development/identity-and-access-management/ballerine
+        category: identity-and-access-management
+        description: Ballerine is an open-source, developer-friendly platform for KYC, KYB, onboarding, and risk management—trusted by fintechs, banks, and global platforms.
       - id: agencyos
         title: AgencyOS
         image: /images/development/backend-as-a-service/agencyos/logo.png
