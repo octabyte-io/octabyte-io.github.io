@@ -1252,6 +1252,12 @@ catalog_list:
         url: /applications/automation/docassemble
         category: automation
         description: Docassemble is a free, open-source system that automates guided interviews and document assembly, providing customized workflows and generating documents in multiple formats.
+      - id: tei
+        title: Tei
+        image: /images/applications/ai-gpu/tei/logo.png
+        url: /applications/ai-gpu/tei
+        category: ai-gpu
+        description: TEI is a high-performance inference engine for text embeddings, delivering ultra-fast results with dynamic batching, optimized transformers, and production-ready observability.
       - id: ragflow
         title: Ragflow
         image: /images/applications/ai-gpu/ragflow/logo.png
