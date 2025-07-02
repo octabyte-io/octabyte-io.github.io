@@ -1923,15 +1923,15 @@ catalog_list:
         description: Apache Hop is a metadata-driven data orchestration and engineering platform that simplifies the creation and execution of data workflows and pipelines. Its visual interface, cross-platform support, and lifecycle management make it ideal for data integration and automation.
       - id: grist
         title: Grist
-        image: /images/development/nodecode-lowcode/grist/logo.png
-        url: /development/nodecode-lowcode/grist
-        category: nodecode-lowcode
+        image: /images/development/nocode-lowcode/grist/logo.png
+        url: /development/nocode-lowcode/grist
+        category: nocode-lowcode
         description: Grist is a next-gen relational spreadsheet combining the flexibility of a spreadsheet with the power of a database. It offers secure collaboration, customizable dashboards, and seamless scalability for teams.
       - id: saltcorn
         title: Saltcorn
-        image: /images/development/nodecode-lowcode/saltcorn/logo.png
-        url: /development/nodecode-lowcode/saltcorn
-        category: nodecode-lowcode
+        image: /images/development/nocode-lowcode/saltcorn/logo.png
+        url: /development/nocode-lowcode/saltcorn
+        category: nocode-lowcode
         description: Saltcorn is a no-code platform for building powerful database web applications with an intuitive drag-and-drop interface. Create and manage your apps effortlessly without writing a single line of code.
       - id: automatisch
         title: Automatisch
