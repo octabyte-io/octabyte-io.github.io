@@ -15,8 +15,8 @@ hero:
     url: /fully-managed-open-source-services
 
   buttonSecondary:
-    label: Top applications
-    url: /fully-managed-open-source-services/applications
+    label: Pricing
+    url: /#pricing
 
 top_softwares:
   - id: applications
