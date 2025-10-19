@@ -1,5 +1,6 @@
 ---
 draft: false
+disable_trial: true
 title: SurrealDB fully managed open source service | OctaByte.io
 meta:
   cover: /images/databases/specialized-databases/surrealdb/screenshot-1.png
