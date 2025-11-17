@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: LibreTranslate fully managed open source service | OctaByte.io
 meta:
   cover: /images/development/dev-tools/libretranslate/screenshot-1.png
