@@ -1,5 +1,6 @@
 ---
 draft: false
+disable_trial: true
 title: Jupyter-Notebook fully managed open source service | OctaByte.io
 meta:
   cover: /images/applications/ai-gpu/jupyter-notebook/screenshot-1.jpg
