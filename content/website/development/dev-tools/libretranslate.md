@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "LibreTranslate - Free & Open Source Self-Hosted Machine Translation API"
 content:
   id: libretranslate
