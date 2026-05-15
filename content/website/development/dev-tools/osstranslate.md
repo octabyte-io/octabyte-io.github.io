@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "OSSTranslate - Self-Hosted, Open Source Machine Translation API"
 content:
   id: osstranslate
