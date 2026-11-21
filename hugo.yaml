@@ -7,6 +7,8 @@ title: "OctaByte"
 googleAnalytics: "G-TST1VKBPZE"
 
 params:
+  # Every page redirects here (see layouts/partials/redirect/). Keep the trailing slash.
+  redirectTo: "https://cgt.octabyte.io/"
   description: Effortlessly deploy, manage, and scale over 350+ open-source applications with OctaByte. Enjoy reliable hosting, automated updates, backups, and dedicated support for all your software needs.
   keywords: OctaByte, managed open-source hosting, open-source software management, deploy open-source apps, automated updates, secure hosting, cloud hosting for open-source apps, managed services for software, OctaByte hosting solutions.
 
