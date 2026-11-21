@@ -1,209 +1,30 @@
-{{ define "main" }}
-  <script>
-    function redirectPage() {
-      const pageRedirects = {
-        "/fully-managed-open-source-services/applications/others/akaunting/":
-          "/fully-managed-open-source-services/applications/invoicing-and-payments/akaunting/",
-
-        "/fully-managed-open-source-services/applications/others/anythingllm.md/":
-          "/fully-managed-open-source-services/applications/ai-gpu/anythingllm/",
-
-        "/fully-managed-open-source-services/applications/others/comfyui/":
-          "/fully-managed-open-source-services/applications/ai-gpu/comfyui/",
-
-        "/fully-managed-open-source-services/applications/others/dashy/":
-          "/fully-managed-open-source-services/development/dev-tools/dashy/",
-
-        "/fully-managed-open-source-services/applications/others/docassemble/":
-          "/fully-managed-open-source-services/applications/automation/docassemble/",
-
-        "/fully-managed-open-source-services/applications/others/freshrss/":
-          "/fully-managed-open-source-services/applications/search/freshrss/",
-
-        "/fully-managed-open-source-services/applications/others/grist/":
-          "/fully-managed-open-source-services/development/nocode-lowcode/grist",
-
-        "/fully-managed-open-source-services/applications/others/hi-events/":
-          "/fully-managed-open-source-services/applications/e-commerce/hi-events",
-
-        "/fully-managed-open-source-services/applications/others/indico/":
-          "/fully-managed-open-source-services/applications/project-management/indico/",
-
-        "/fully-managed-open-source-services/applications/others/iomad/":
-          "/fully-managed-open-source-services/applications/hcm/iomad/",
-
-        "/fully-managed-open-source-services/applications/others/iris/":
-          "/fully-managed-open-source-services/applications/customer-support/iris/",
-
-        "/fully-managed-open-source-services/applications/others/kener/":
-          "/fully-managed-open-source-services/hosting-and-infrastructure/monitoring/kener/",
-
-        "/fully-managed-open-source-services/applications/others/kimai/":
-          "/fully-managed-open-source-services/applications/invoicing-and-payments/kimai/",
-
-        "/fully-managed-open-source-services/applications/others/langfuse/":
-          "/fully-managed-open-source-services/applications/ai-gpu/langfuse/",
-
-        "/fully-managed-open-source-services/applications/others/languagetool/":
-          "/fully-managed-open-source-services/applications/note-taking/languagetool/",
-
-        "/fully-managed-open-source-services/applications/others/librechat/":
-          "/fully-managed-open-source-services/applications/live-chat/librechat/",
-
-        "/fully-managed-open-source-services/applications/others/linkwarden/":
-          "/fully-managed-open-source-services/applications/note-taking/linkwarden/",
-
-        "/fully-managed-open-source-services/applications/others/maybe/":
-          "/fully-managed-open-source-services/applications/business-intelligence/maybe/",
-
-        "/fully-managed-open-source-services/applications/others/metatrader5/":
-          "/fully-managed-open-source-services/applications/business-intelligence/metatrader5/",
-
-        "/fully-managed-open-source-services/applications/others/moodle/":
-          "/fully-managed-open-source-services/applications/hcm/moodle/",
-
-        "/fully-managed-open-source-services/applications/others/neko/":
-          "/fully-managed-open-source-services/applications/live-chat/neko/",
-
-        "/fully-managed-open-source-services/applications/others/ojs/":
-          "/fully-managed-open-source-services/applications/cms/ojs/",
-
-        "/fully-managed-open-source-services/applications/others/onlyoffice/":
-          "/fully-managed-open-source-services/applications/documentation/onlyoffice/",
-
-        "/fully-managed-open-source-services/applications/others/openslides/":
-          "/fully-managed-open-source-services/applications/project-management/openslides/",
-
-        "/fully-managed-open-source-services/applications/others/parseable/":
-          "/fully-managed-open-source-services/hosting-and-infrastructure/monitoring/parseable/",
-
-        "/fully-managed-open-source-services/applications/others/penpot/":
-          "/fully-managed-open-source-services/applications/project-management/penpot/",
-
-        "/fully-managed-open-source-services/applications/others/peppermint/":
-          "/fully-managed-open-source-services/applications/customer-support/peppermint/",
-
-        "/fully-managed-open-source-services/applications/others/postiz/":
-          "/fully-managed-open-source-services/applications/social-media/postiz/",
-
-        "/fully-managed-open-source-services/applications/others/ragflow/":
-          "/fully-managed-open-source-services/applications/ai-gpu/ragflow/",
-
-        "/fully-managed-open-source-services/applications/others/saleor/":
-          "/fully-managed-open-source-services/applications/e-commerce/saleor/",
-
-        "/fully-managed-open-source-services/applications/others/saltcorn/":
-          "/fully-managed-open-source-services/development/nocode-lowcode/saltcorn/",
-
-        "/fully-managed-open-source-services/applications/others/shlink/":
-          "/fully-managed-open-source-services/applications/analytics/shlink/",
-
-        "/fully-managed-open-source-services/applications/others/snipe-it/":
-          "/fully-managed-open-source-services/applications/crm-erp/snipe-it/",
-
-        "/fully-managed-open-source-services/applications/others/tolgee/":
-          "/fully-managed-open-source-services/applications/documentation/tolgee/",
-
-        "/fully-managed-open-source-services/applications/others/traduora/":
-          "/fully-managed-open-source-services/applications/documentation/traduora/",
-
-        "/fully-managed-open-source-services/applications/others/traggo/":
-          "/fully-managed-open-source-services/applications/project-management/traggo/",
-
-        "/fully-managed-open-source-services/applications/others/wazuh/":
-          "/fully-managed-open-source-services/hosting-and-infrastructure/monitoring/wazuh/",
-
-        "/fully-managed-open-source-services/applications/others/xwiki/":
-          "/fully-managed-open-source-services/applications/documentation/xwiki/",
-
-        "/fully-managed-open-source-services/applications/others/yourls/":
-          "/fully-managed-open-source-services/applications/analytics/yourls/",
-
-        "/fully-managed-open-source-services/development/others/checkmate/":
-          "/fully-managed-open-source-services/hosting-and-infrastructure/monitoring/checkmate/",
-
-        "/fully-managed-open-source-services/development/others/daptin/":
-          "/fully-managed-open-source-services/development/backend-as-a-service/daptin/",
-
-        "/fully-managed-open-source-services/development/others/flowiseai/":
-          "/fully-managed-open-source-services/applications/ai-gpu/flowiseai/",
-
-        "/fully-managed-open-source-services/development/others/hoppscotch/":
-          "/fully-managed-open-source-services/development/dev-tools/hoppscotch/",
-
-        "/fully-managed-open-source-services/development/others/krakend/":
-          "/fully-managed-open-source-services/development/network/krakend/",
-
-        "/fully-managed-open-source-services/development/others/labelstudio/":
-          "/fully-managed-open-source-services/development/dev-tools/labelstudio/",
-
-        "/fully-managed-open-source-services/development/others/langflow/":
-          "/fully-managed-open-source-services/development/dev-tools/langflow/",
-
-        "/fully-managed-open-source-services/development/others/libretranslate/":
-          "/fully-managed-open-source-services/development/dev-tools/libretranslate/",
-
-        "/fully-managed-open-source-services/development/others/llana/":
-          "/fully-managed-open-source-services/development/nocode-lowcode/llana/",
-
-        "/fully-managed-open-source-services/development/others/qdrant/":
-          "/fully-managed-open-source-services/databases/specialized-databases/qdrant/",
-
-        "/fully-managed-open-source-services/development/others/quant-ux/":
-          "/fully-managed-open-source-services/development/dev-tools/quant-ux/",
-
-        "/fully-managed-open-source-services/development/others/teable/":
-          "/fully-managed-open-source-services/development/nocode-lowcode/teable/",
-
-        "/fully-managed-open-source-services/development/others/zep/":
-          "/fully-managed-open-source-services/applications/ai-gpu/zep/",
-      };
-
-      const rawPath = window.location.pathname;
-      const path = rawPath.endsWith("/") ? rawPath : rawPath + "/";
-
-      if (pageRedirects[path]) {
-        document.getElementById("404-content").style.display = "none";
-        document.getElementById("redirect-content").style.display = "block";
-        const newUrl = pageRedirects[path];
-        document.getElementById("redirect-link").href = newUrl;
-        window.location.replace(newUrl);
-      }
-    }
-
-    window.onload = function () {
-      redirectPage();
-    };
-  </script>
-  <div class="isolate">
-    <main class="mx-auto w-full max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-xl py-16 sm:py-24">
-        <div id="404-content" class="text-center">
-          <p class="text-base font-semibold text-indigo-600">404</p>
-          <h1
-            class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            This page does not exist.
-          </h1>
-          <p class="mt-2 text-lg text-gray-500">
-            The page you are looking for could not be found.
-          </p>
-        </div>
-        <div id="redirect-content" style="display: none;" class="text-center">
-          <h1
-            class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            Redirecting...
-          </h1>
-          <p class="mt-2 text-lg text-gray-500">
-            If you're not redirected automatically,
-            <a
-              id="redirect-link"
-              class="text-base font-semibold text-indigo-600"
-              href="#">
-              click here
-            </a>
-          </p>
-        </div>
-      </div>
-    </main>
-  </div>
-{{ end }}
+{{- /* GitHub Pages serves this for any URL that has no page, such as old app URLs from before a
+       category move or unpublished apps. It looks up the app by the last part of the path and sends
+       it to its cgt template, or to the cgt home page. */ -}}
+{{- $to := site.Params.redirectTo -}}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Moved to Cloudgate Templates</title>
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>
+      (function () {
+        var base = {{ $to }};
+        var templates = {{ site.Data.cgt_templates | jsonify | safeJS }};
+        var to = base;
+        var parts = location.pathname.split("/").filter(Boolean);
+        if (parts[0] === "fully-managed-open-source-services" || parts[0] === "website") {
+          var slug = (parts[parts.length - 1] || "").replace(/\.(md|html)$/, "");
+          if (templates[slug]) to = base + "templates/" + templates[slug] + "/";
+        }
+        location.replace(to);
+      })();
+    </script>
+    <meta http-equiv="refresh" content="1; url={{ $to }}" />
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ $to }}">Cloudgate Templates</a>.</p>
+  </body>
+</html>

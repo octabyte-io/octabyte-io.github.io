@@ -1,12 +1,1 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    {{ partial "head/head" . }}
-    {{- block "head" . -}}{{- end -}}
-  </head>
-  <body>
-    {{ partial "common/header" . }}
-    {{- block "main" . -}}{{- end -}}
-    {{ partial "common/footer" . }}
-  </body>
-</html>
+{{ partial "redirect/page.html" . }}

@@ -1,0 +1,10 @@
+{{- /* The cgt.octabyte.io URL this old page moves to: the matching template page when the app
+       has one on cgt (data/cgt_templates.yaml), otherwise the cgt home page. */ -}}
+{{- $base := site.Params.redirectTo -}}
+{{- $target := $base -}}
+{{- if and .IsPage .File (in (slice "fully-managed-open-source-services" "website") .Section) -}}
+  {{- with index site.Data.cgt_templates .File.ContentBaseName -}}
+    {{- $target = printf "%stemplates/%s/" $base . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $target -}}
